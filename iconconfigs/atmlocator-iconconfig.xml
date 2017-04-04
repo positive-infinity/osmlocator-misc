@@ -1,3 +1,3 @@
 <iconconfig>
-  <icon countryRegex="de" nameRegex=".*commerz.*bank" text="C" colorPrimary="0xffaabbff" colorSecondary="0xffbb44ee">
+  <icon country="de" name=".*commerz.*bank" text="C" colorPrimary="#ffaabbff" colorSecondary="#ffbb44ee" colorSecondaryFactor="0.5">
 </iconconfig>
