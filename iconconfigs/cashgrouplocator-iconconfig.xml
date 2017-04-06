@@ -1,3 +1,4 @@
 <iconconfig>
-  <icon country="de" name=".*commerz.*bank" text="C" colorPrimary="#ffaabbff" colorSecondary="#ffbb44ee" colorSecondaryFactor="0.5" />
+  <icon country="de" name="shell" text="S" colorPrimary="#ffd500" colorSecondary="#ed1c24" colorSecondaryFactor="0.75" />
+  <icon country="de" name="commerzbank" text="C" colorPrimary="#f9ca00" />
 </iconconfig>
