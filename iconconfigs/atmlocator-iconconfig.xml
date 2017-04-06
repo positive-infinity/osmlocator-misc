@@ -1,3 +1,8 @@
 <iconconfig>
-  <icon country="de" name=".*commerz.*bank" text="C" colorPrimary="#ffaabbff" colorSecondary="#ffbb44ee" colorSecondaryFactor="0.5" />
+    <icon country="de" name="berliner.*bank" text="B" colorPrimary="#f9b200" colorText="#19171c" />
+    <icon country="de" name="commerz.*bank" text="C" colorPrimary="#fbd005" />
+    <icon country="de" name="deutsche.*bank" text="D" colorPrimary="#000088" />
+    <icon country="de" name="hypo.*bank" text="H" colorPrimary="#e33125" />
+    <icon country="de" name="postbank" text="P" colorPrimary="#fccf04" colorSecondary="#010066" colorSecondaryFactor="0.25" colorText="#ff000b" />    
+    <icon country="de" name="sparkasse" text="S" colorPrimary="#e2001a" />    
 </iconconfig>
