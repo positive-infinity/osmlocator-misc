@@ -1,5 +1,5 @@
 <iconconfig>
-  <icon country="de" name="shell" text="S" colorPrimary="#ffd500" colorSecondary="#ed1c24" colorSecondaryFactor="0.75" />
+  <icon country="de" name="shell" text="S" colorPrimary="#ffd500" colorSecondary="#ed1c24" />
   <icon country="de" name="commerzbank" text="C" colorPrimary="#f9ca00" />
   <icon country="de" name="postbank" text="P" colorPrimary="#ffcc00" />
   <icon country="de" name="deutsche.*bank" text="D" colorPrimary="#000088" />
