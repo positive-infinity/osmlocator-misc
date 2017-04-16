@@ -1,5 +1,4 @@
-<iconconfig>
-    <icon country="de" name="berliner.*bank" text="B" colorPrimary="#f9b200" colorText="#19171c" />
+<iconconfig>    
     <icon country="de" name="commerz.*bank" text="C" colorPrimary="#fbd005" />
     <icon country="de" name="deutsche.*bank" text="D" colorPrimary="#000088" />
     <icon country="de" name="hypo.*bank" text="H" colorPrimary="#e33125" />
@@ -9,4 +8,5 @@
     <icon country="de" name="(^ing)|(^diba)|(ing.*diba)" text="I" colorPrimary="#fd6a03" colorSecondary="#ffffff" colorSecondaryFactor="0.8" colorText="#00015d" />
     <icon country="de" name="euro.*net" text="E" colorPrimary="#0b5a9f" />
     <icon country="de" name="santander" text="S" colorPrimary="#fe0000" />
+    <icon country="de" name="berliner.*bank" text="B" colorPrimary="#f9b200" colorText="#19171c" />
 </iconconfig>
