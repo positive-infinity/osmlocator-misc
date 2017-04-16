@@ -1,0 +1,4 @@
+<iconconfig>
+    <icon country=".*" name="mc.*donald" text="M" colorPrimary="#d52b1e" colorText="#fdc82f" />
+    <icon country=".*" name="burger.*king" text="B" colorPrimary="#0d4d84" colorSecondary="#f6970f" colorSecondaryFactor="0.9" colorText="#b20c35" />
+</iconconfig>
