@@ -4,4 +4,5 @@
     <icon country=".*" name="nordsee" text="N" colorPrimary="#003b78" colorText="#e70018" />
     <icon country=".*" name="subway" text="S" colorPrimary="#008e43" colorSecondary="#ffc32e" />
     <icon country=".*" name="kfc" text="K" colorPrimary="#a81933" />
+    <icon country=".*" name="pizza.*hut" text="P" colorPrimary="#dd0d0f" colorText="#000000" />
 </iconconfig>
