@@ -1,4 +1,7 @@
 <iconconfig>
     <icon country=".*" name="mc.*donald" text="M" colorPrimary="#d52b1e" colorText="#fdc82f" />
     <icon country=".*" name="burger.*king" text="B" colorPrimary="#0d4d84" colorSecondary="#f6970f" colorSecondaryFactor="0.9" colorText="#b20c35" />
+    <icon country=".*" name="nordsee" text="N" colorPrimary="#003b78" colorText="#e70018" />
+    <icon country=".*" name="subway" text="S" colorPrimary="#008e43" colorSecondary="#ffc32e" />
+    <icon country=".*" name="kfc" text="K" colorPrimary="#a81933" />
 </iconconfig>
