@@ -7,7 +7,7 @@
     <icon country=".*" name="total" text="T" colorPrimary="#7298c9" colorSecondary="#f6ac45" colorText="#e5353b" />
     <icon country=".*" name="repsol" text="R" colorPrimary="#e20030" colorSecondary="#ee8027" />
     <icon country=".*" name="westfalen" text="W" colorPrimary="#ffe700" colorSecondary="#e30119" colorSecondaryFactor="0.9" />
-    <icon country=".*" name="esso" text="E" colorPrimary="#0169af" colorText="#d4021c" />
+    <icon country=".*" name="esso" text="E" colorPrimary="#0169af" colorSecondary="#fffffe" colorSecondaryFactor="0.8" colorText="#d4021c" />
     <icon country=".*" name="bft" text="B" colorPrimary="#fc816c" colorText="#4d4146" />
     <icon country=".*" name="avia" text="A" colorPrimary="#ffffff" colorText="#e72228" />
     <icon country=".*" name="star" text="S" colorPrimary="#ffffff" colorText="#e20026" />
@@ -16,5 +16,6 @@
     <icon country=".*" name="cepsa" text="C" colorPrimary="#ff0011" />
     <icon country=".*" name="campsa" text="C" colorPrimary="#0136fe" />
     <icon country=".*" name="galp" text="G" colorPrimary="#e8461f" />
+    <icon country=".*" name="hem" text="H" colorPrimary="#ff7423" colorSecondary="#67d126" />
     <icon country=".*" name="bp" text="B" colorPrimary="#168a44" />
 </iconconfig>
