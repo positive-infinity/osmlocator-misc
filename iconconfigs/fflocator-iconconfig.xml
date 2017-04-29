@@ -5,4 +5,7 @@
     <icon country=".*" name="subway" text="S" colorPrimary="#008e43" colorSecondary="#ffc32e" />
     <icon country=".*" name="kfc" text="K" colorPrimary="#a81933" />
     <icon country=".*" name="pizza.*hut" text="P" colorPrimary="#dd0d0f" colorText="#000000" />
+    <icon country=".*" name="wendy.*s" text="W" colorPrimary="#ffffff" colorText="#d22030" />
+    <icon country=".*" name="taco.*bell" text="T" colorPrimary="#5c2d73" />
+    <icon country=".*" name="starbucks" text="S" colorPrimary="#067655" />
 </iconconfig>
