@@ -1,0 +1,7 @@
+# DB update file for Cash Pool Automaten
+# 
+# remarks:
+#   * latest db version in code: 1717
+#
+#
+
