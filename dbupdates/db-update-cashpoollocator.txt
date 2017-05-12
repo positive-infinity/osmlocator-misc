@@ -1,7 +1,7 @@
 # DB update file for Cash Pool Automaten
 
-1718;-;Citibank;Alter Dorfweg/Roland C;Bremen;28259;;53.04806;8.74111
-1719;+;Citibank;Alter Dorfweg / Roland C;Bremen;28259;;53.04806;8.74111
+1718;-;Targobank;Alter Dorfweg/Roland C;Bremen;28259;;53.04806;8.74111
+1719;+;Targobank;Alter Dorfweg / Roland C;Bremen;28259;;53.04806;8.74111
 1720;-;SÜDWESTBANK AG;In den Käppeleswiesen 7;Sigmaringen;72488;;48.08729;9.20535
 1721;+;SÜDWESTBANK;In den Käppeleswiesen 7;Sigmaringen;72488;;48.08729;9.20535
 1722;-;BBBank;Luisenstr.41;Berlin;10117;;52.52235;13.37990
