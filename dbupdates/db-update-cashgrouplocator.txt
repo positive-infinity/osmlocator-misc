@@ -1,0 +1,993 @@
+# DB update file for Cash Group Automaten
+
+1048;-;Shell Tankstelle;Welfenallee 1;Celle;29225;;52.617846;10.051916
+1049;-;Shell Tankstelle;Nienburger Str. 45a;Wietze;29323;;52.6572000;9.8277500
+1050;-;Postbank;Bahnhofstr. 102;Ahaus;48683;;52.0936;6.93759
+1051;+;Postbank;Bahnhofstr. 102;Ahaus;48683;;52.082155;7.014669
+1052;+;Postbank;Dorfstraße 16;Ladbergen;49549;Mo-Fr 8:00-12:30, 14:30-18:00, Sa 8:00-12:30;52.133766;7.737617
+1053;-;Deutsche Bank;Krayer Str. 207;Essen;45307;;51.4654;7.08004
+1054;-;Postbank;Bahnhofplatz 3;Sonthofen;87527;;47.5118;10.2783
+1055;+;Postbank;Königsbenden 39;Eschweiler;52249;im OBI, Mo-Sa 9-20 Uhr;50.818656;6.290555
+1056;-;Shell Tankstelle;Römerstr. 367;Brühl;50321;;50.8373900;6.8965500
+
+1057;-;Postbank;Markt 21;Heinsberg;52525;;51.0584;6.09424
+1058;+;Postbank;Markt 21;Heinsberg;52525;;51.063491;6.097168
+1059;-;Deutsche Bank;Hochstr. 129;Heinsberg;52525;;51.0636;6.09619
+1060;+;Deutsche Bank;Apfelstraße 37;Heinsberg;52525;;51.063249;6.093734
+1061;-;Shell Tankstelle;Alter Zollweg 132;Hamburg;22147;;53.6081000;10.1376800
+1062;-;Postbank;Südstr. 19;Herzogenrath;52134;;50.8332;6.08887
+1063;+;Postbank;Weststraße 25;Herzogenrath;52134;;50.834400;6.086484
+
+1064;-;Hypovereinsbank;Tegernseer Landstr. 135;München;81539;;48.1116;11.5768
+1065;-;Hypovereinsbank;Rosenheimer Str. 203;München;81671;;48.1165;11.6125
+1066;-;Hypovereinsbank;Anzingerstr. 1;München;81671;;48.1212;11.6065
+1067;+;Hypovereinsbank;Orleansplatz 3;München;81667;;48.128409;11.602567
+
+1068;+;Postbank;C.-F.-Venghauss-Platz 14;Werther (Westfalen);33824;Mo-Fr 9-13 Uhr, 14-18 Uhr, Sa 9-13 Uhr;50.120038;8.695501
+1069;-;Shell Tankstelle;Berrenratherstr. 574;Hürth;50354;;50.9011000;6.9021500
+1070;-;Postbank;Dachauer Str. 63-65;München;80335;;48.1489;11.5583
+1071;-;Hypovereinsbank;Briennerstr. 59;München;80333;;48.1469;11.5598
+
+1072;-;Postbank;Markt 29;Sankt Augustin;53757;;50.777345;7.186263
+1073;-;Shell Tankstelle;Viktoriastr. 50;Minden;32423;;52.2869600;8.9441200
+1074;+;Postbank;Wolfsberger Straße 15;Lüdinghausen;59348;;51.768630;7.443889
+1075;-;Postbank;Clara-Zetkin-Str. 9;Demmin;17109;;53.9061;13.0418
+1076;+;Postbank;Drönnewitzer Straße 1;Demmin;17109;im Kaufland, Mo-Sa 7-22 Uhr;53.905919;13.011279
+1077;-;Postbank;Reriker Straße 12;Kühlungsborn;18225;im Edeka, Mo-Sa 8-19 Uhr;54.144834;11.723214
+1078;-;Shell Tankstelle;Limburger Str. 185;Bad Camberg;65520;;50.3103600;8.2525500
+1079;+;Postbank;Landgrabenpark 1;Schwedt/Oder;16303;im Oder-Center, Mo-Sa 9:30-20:00 Uhr;53.064641;14.272586
+
+1080;+;Postbank;Diesterwegstraße 25a;Dargun;17159;im Edeka, Mo-Do 8-19 Uhr, Fr 8-20 Uhr, Sa 8-18 Uhr;53.902435;12.854524
+1081;+;Postbank;Schultetusstraße 24a;Stavenhagen;17153;im Edeka, Mo-Fr 7-19 Uhr, Sa 7-18 Uhr;53.701413;12.910312
+1082;+;Shell Tankstelle;Heidenkampsweg 54;Hamburg;20097;;53.548680;10.027296
+1083;+;Postbank;Hauptstraße 84;Mainz;55120;;50.021026;8.229461
+1084;+;Postbank;Otto-Schmidt-Straße 3;Wolfen;06766;;51.686105;12.251575
+
+1085;-;Hypovereinsbank;Bierweg 5;Nürnberg;90411;;49.4845;11.1059
+1086;+;Berliner Bank;Henriette-Herz-Platz 4;Berlin;10178;;52.522349;13.402842
+1087;-;Shell Tankstelle;Wismarsche Str. 392;Schwerin;19055;;53.6543100;11.4045600
+1088;-;Shell Tankstelle;Hubertusstr.;Wesseling;50389;;50.8299200;6.9658500
+
+1089;-;Shell Tankstelle;Basler Landstr. 47-49b;Freiburg;79111;;47.9822900;7.8009100
+1090;-;Commerzbank;Friedrich-Ebert-Str. 41;Kassel;34117;;51.3148;9.4828
+
+1091;-;Shell Tankstelle;Röntgenstr. 10;Neustadt;96465;;50.3114100;11.1129700
+
+1092;+;Shell Tankstelle;An der Neuweide 34;Rheinberg;47495;;51.535433;6.606085
+
+1093;-;Commerzbank;Bahnhofsplatz 1;München;80335;;48.1487;11.4602
+1094;+;Commerzbank;Bahnhofsplatz 1;München;80335;;48.139780;11.561329
+1095;-;Shell Tankstelle;Opladener Str. 132;Langenfeld;40764;;51.0844700;6.9723800
+1096;-;Hypovereinsbank;Büchl 30;Waldkirchen;94060;;48.729;13.6012
+1097;-;Deutsche Bank;Orsoyer Str. 1;Rheinberg;47495;;51.5451;6.60274
+1098;+;Deutsche Bank;Gelderstraße 36-42;Rheinberg;47495;;51.544293;6.600847
+1099;-;Postbank;Hindenburgstr. 9;Siegen;57072;;50.8804;7.98446
+1100;+;Postbank;Hindenburgstr. 9;Siegen;57072;;50.876596;8.019005
+
+1101;-;Hypovereinsbank;Weißenburger Str. 20;Aschaffenburg;63739;;49.9776;9.14615
+1102;-;Hypovereinsbank;Weißenburger Str. 20-22;Aschaffenburg;63739;;49.9776;9.14615
+1103;+;Hypovereinsbank;Weißenburger Str. 26;Aschaffenburg;63739;;49.977733;9.145960
+1104;-;Hypovereinsbank;Bachstr. 13;Großostheim;63762;;49.9195;9.07403
+
+1105;-;Deutsche Bank;Holsterhauser Str. 55;Essen;45147;;51.4415;6.99719
+
+1106;-;Postbank;Baaderstr. 12;München;80469;;48.1326;11.5806
+
+1107;+;Postbank;Mindener Straße 81;Bissendorf;49143;im Edeka, Mo-Sa 7-21 Uhr;52.261562;8.210891
+1108;+;Postbank;Mindener Straße 378;Osnabrück;49086;im Edeka, nicht durchgehend geöffnet;52.266778;8.134218
+
+1109;-;Commerzbank;Koppenstr. 93;Berlin;10243;;52.5122;13.4332
+
+1110;-;Commerzbank;Eilenburger Str. 39;Delitzsch;04509;;51.5241;12.34
+
+1111;-;Commerzbank;Bottroper Str. 2;Gladbeck;45964;;51.5732;6.98833
+
+1112;-;Berliner Bank;Tempelhofer Damm 181;Berlin;12099;;52.4606;13.385
+1113;-;Hypovereinsbank;Matterstockstr. 20;Würzburg;97080;;49.8026;9.94559
+1114;-;Commerzbank;Jakobstr. 43;Görlitz;02826;;51.1515;14.9863
+1115;-;Shell Tankstelle;Kielseng 1;Flensburg;24937;;54.8012600;9.4425000
+1116;-;Postbank;Holm-Passage;Flensburg;24937;;54.7849;9.4307
+1117;+;Postbank;Holm 39;Flensburg;24937;in der Holmpassage;54.784146;9.437744
+
+1118;-;Shell Tankstelle;Eglosheimer Str. 85;Asperg;71679;;48.9046500;9.1452800
+
+1119;-;Hypovereinsbank;Rathausstr. 11;Bargteheide;22941;;53.7297;10.2648
+1120;-;Hypovereinsbank;Miesbacherstr. 2;Schliersee;83727;;47.736;11.8608
+1121;-;Commerzbank;Bahnhofstr. 1;Frankenthal;67227;;49.5354;8.35363
+1122;+;Hypovereinsbank;Bahnhofstr. 1;Frankenthal;67227;;49.5354;8.35363
+
+1123;+;Postbank;Steeler Straße 110;Essen;45139;in der Tankstelle Rheinland Kraftstoff;51.452985;7.023967
+
+1124;-;Hypovereinsbank;Tegernseer Landstr. 15;München;81541;;48.1185;11.5832
+1125;+;Shell Tankstelle;Frankfurter Straße 175;Groß-Gerau;64521;;49.937507;8.495879
+
+1126;+;Shell Tankstelle;Wallstadter Straße 72;Mannheim-Feudenheim;68259;;49.489087;8.544496
+
+1127;-;Commerzbank;Reeperbahn 1;Hamburg;20359;;53.5496;9.96809
+1128;+;Postbank;Marktplatz 16;Waldkirchen;94065;in der Parfümerie Haller, nicht durchgehend geöffnet;48.730375;13.601094
+
+1129;+;Postbank;Oststraße 31;Ibbenbüren;49477;;52.273671;7.718253
+1130;-;Shell Tankstelle;Schussenstr. 10;Weingarten;88250;;47.8119800;9.6403700
+1131;-;Deutsche Bank;Celler Str. 26;Braunschweig;38114;;52.2722;10.5073
+1132;-;Postbank;Marktstr. 32;Berlin;13409;;52.5628;13.3644
+
+1133;-;Berliner Bank;Haselhorster Damm 1;Berlin;13599;;52.543;13.2394
+1134;-;Shell Tankstelle;Hauptstr. 34;Bahlingen;79353;;48.1228700;7.7389300
+1135;-;Commerzbank;Frankfurter Str. 50;Wiesbaden;65187;;50.0736;8.2554
+1136;-;Commerzbank;Gustav-Stresemann-Ring 12-16;Wiesbaden;65187;;50.0722;8.25232
+1137;-;Deutsche Bank;Mönchhofstr. 37;Heidelberg;69120;;49.4174;8.68244
+
+1138;-;Hypovereinsbank;Bahnhofstr. 2;Leck;25917;;54.7726;8.97298
+1139;-;Berliner Bank;Henriette-Herz-Platz 4;Berlin;10178;;52.522349;13.402842
+1140;-;Hypovereinsbank;August-Exter-Str. 6A;München;81245;;48.1512;11.463
+1141;-;Hypovereinsbank;Bayerstr. 16A.B;München;80335;;48.1398;11.5556
+1142;-;Hypovereinsbank;Arabellastr. 12;München;81925;;48.15;11.6176
+1143;-;Hypovereinsbank;Arabellastr. 6;München;81925;;48.1511;11.6182
+1144;-;Hypovereinsbank;Wallstr. 71;Köthen;06366;;51.75;11.972
+1145;+;Postbank;Industriestr. 6-8;Spenge;32139;im Edeka, Mo-Sa 8-18 Uhr;52.144936;8.490685
+
+1146;-;Postbank;Postplatz 1;Görlitz / Neiße;02826;;51.5445;14.5301
+1147;+;Postbank;Postplatz 1;Görlitz;02826;;51.151722;14.986971
+1148;+;Deutsche Bank;Hauptstr. 173;Weißenthurm;56575;;50.4178;7.4529
+1149;-;Hypovereinsbank;An der Altmühl 11;Riedenburg;93339;;48.9622;11.6851
+1150;-;Hypovereinsbank;Hauptstr. 21;Beilngries;92339;;49.0344;11.4742
+
+1151;+;Postbank;Badstraße 4;Berlin;13357;im Gesundbrunnen-Center;52.549769;13.388268
+
+1152;-;Hypovereinsbank;Hegede 2-4;Wismar;23966;;53.8918;11.4651
+
+1153;-;Commerzbank;Müllerstr. 6;Berlin;13353;;52.5415;13.3683
+1154;-;Postbank;Willy-Brandt-Platz 13;Mannheim;68161;;49.4789;8.47167
+
+1155;+;Shell Tankstelle;Ludwigsburger Str. 1;Asperg;71679;;48.897018;9.154103
+
+1156;-;Postbank;Proviantbachstr. 30;Augsburg;86153;;48.3656;10.9255
+
+1157;-;Hypovereinsbank;Ludwigstr. 4;Rehau;95111;;50.2482;12.0363
+1158;-;Postbank;Meglinger Str. 31;München;81477;;48.0907;11.5055
+
+1159;-;Hypovereinsbank;Freischützstr. 98;München;81927;;48.1684;11.644
+
+1160;-;Hypovereinsbank;Erdkampsweg 42;Hamburg;22335;;53.6295;10.0231
+
+1161;-;Postbank;Bürgermeister-Raab-Str. 31;Thannhausen;86470;;48.2841;10.4603
+1162;-;Commerzbank;Schloßstr. 30;Berlin;12163;;52.512;13.2972
+1163;+;Commerzbank;Schloßstraße 104;Berlin;12163;;52.460198;13.324002
+1164;-;Commerzbank;Schloßstr. 89;Berlin;12163;;52.4578;13.3218
+
+1165;-;Hypovereinsbank;Rechlinger Str.;Manching;85077;;48.717;11.4933
+
+1166;-;Postbank;Liebigstr. 28;München;80538;;48.1403;11.5928
+
+1167;-;Hypovereinsbank;Werner-Heisenberg-Allee 2;München;80939;;48.2083;11.6192
+
+1168;-;Shell Tankstelle;Düsseldorfer Str. 20;Grevenbroich;41515;;51.0943000;6.5666700
+1169;-;Hypovereinsbank;Römerstr. 52;Gilching;82205;;48.111;11.2975
+
+1170;-;Postbank;Krahnstr. 25;Osnabrück;49074;;52.2756;8.04348
+1171;-;Hypovereinsbank;Spitalerstr. 7;Hamburg;20095;;53.5519;10.003
+
+1172;-;Hypovereinsbank;Hauptstr. 32;Halstenbek;25469;;53.6353;9.83989
+
+1173;+;Postbank;Karl-Liebknecht-Straße 37;Ludwigsfelde;14974;;52.304090;13.253193
+
+1174;-;Hypovereinsbank;Lassallestr. 75;München;80995;;48.1949;11.5344
+1175;-;Deutsche Bank;Brandenburgische Str. 84-85;Berlin;10713;;52.4871;13.3193
+1176;-;Shell Tankstelle;Schutterwälder Str. 2;Offenburg;77656;;48.4649300;7.9317100
+1177;-;Shell Tankstelle;Völksener Str. 46;Springe;31832;;52.2103500;9.5674300
+
+1178;-;Hypovereinsbank;Stadenstr. 93;Nürnberg;90491;;49.4837;11.1332
+1179;-;Hypovereinsbank;Stadenstr. 58;Nürnberg;90491;;49.482;11.1361
+
+1180;-;Hypovereinsbank;Waisenhausstr. 46;München;80637;;48.1625;11.5295
+
+1181;-;Hypovereinsbank;Hollesenstr. 28;Rendsburg;24768;;54.3076;9.65256
+1182;-;Postbank;Westendstr. 221;München;80686;;48.1303;11.5187
+
+1183;-;Hypovereinsbank;Kürbsweg 1;Seevetal;21217;;53.4217;10.023
+1184;-;Shell Tankstelle;Wittenerstr. 361;Bochum;44803;;51.4721200;7.2598000
+1185;+;Postbank;Baumschulenstraße 31;Berlin;12437;;52.464078;13.485549
+1186;+;Postbank;Poststraße 36;Velten;16727;;52.687137;13.178797
+
+1187;-;Postbank;Industriestr. 6-8;Spenge;32139;im Edeka, Mo-Sa 8-18 Uhr;52.144936;8.490685
+1188;+;Shell Tankstelle;Spandauer Allee 7;Hennigsdorf;16761;;52.621647;13.204408
+1189;+;Shell Tankstelle;Spandauer Straße 16;Falkensee;14612;;52.564494;13.113774
+1190;+;Shell Tankstelle;Am Juliusturm 33;Berlin;13599;;52.536645;13.221925
+1191;+;Berliner Bank;Takustraße 39;Berlin;14195;im Seminaris CampusHotel (Zugang Innenhof);52.457252;13.293898
+
+1192;-;Hypovereinsbank;Logenstr. 8;Frankfurt(Oder;15230;;52.3421;14.5518
+1193;-;Shell Tankstelle;Berliner Chaussee 99;Frankfurt;15234;;52.3650100;14.5241300
+1194;-;Shell Tankstelle;Frankfurter Chaussee 9;Vogelsdorf;15370;;52.5003500;13.7358000
+1195;-;Hypovereinsbank;Ringstr. 1;Höchstadt;91315;;49.706;10.8062
+1196;-;Postbank;Marktstr. 26;Neckarsulm;74172;;49.1923;9.2251
+
+1197;-;Hypovereinsbank;Dorfstr. 7;Schönkirchen;24232;;54.3347;10.225
+1198;+;Shell Tankstelle;Pforzheimer Straße 110-116;Ettlingen;76275;;48.935084;8.430106
+
+1199;-;Postbank;Am Eichgarten 2;Dessau;06842;;51.8389;12.2452
+1200;+;Postbank;Am Eichengarten 2;Dessau;06842;;51.819498;12.302945
+
+1201;-;Hypovereinsbank;Pferdemarkt 9;Hameln;31785;;52.1051;9.35689
+1202;-;Hypovereinsbank;Taubenstr. 2-6;Ludwigshafen;67063;;49.4973;8.42022
+
+1203;-;Postbank;Luruper Hauptstr. 138-142;Hamburg;22547;;53.591537;9.873012
+
+1204;-;Hypovereinsbank;Am Markt 5;Barmstedt;25355;;53.7892;9.77015
+
+1205;-;Commerzbank;Friedrich-Breuer-Str. 62;Bonn;53225;;50.739;7.1206
+1206;+;Postbank;Hauptstr. 9;Thalheim;09380;Postfiliale, nicht durchgängig erreichbar, Tel 0180-23333;50.702460;12.850875
+
+1207;-;Hypovereinsbank;Obermarkt 30;Mittenwald;82481;;47.441;11.2601
+1208;-;Deutsche Bank;Lange Str. 8;Blankenburg;38889;;51.7661;10.9761
+
+1209;-;Postbank;Westfälische Str. 2a;Oberhausen;46117;;51.5033;6.88545
+1210;+;Postbank;Eichenstraße 17;Mammendorf;82291;Möbel Keser;48.206548;11.174734
+1211;-;Hypovereinsbank;Am Sand 2-4;Regen;94209;;48.9695;13.1264
+
+1212;-;Postbank;Heufelder Str. 2;München;81671;;48.1243;11.616
+
+1213;-;Hypovereinsbank;Mangfallplatz 6;München;81547;;48.0979;11.5822
+
+1214;-;Deutsche Bank;Airport / Flughafen;München;85356;;48.3599;11.7856
+1215;-;Hypovereinsbank;Flughafen;München;85356;;48.3536;11.7852
+1216;-;Hypovereinsbank;Terminalstr. Mitte 18;München;85356;;48.354;11.7816
+1217;+;Deutsche Bank;Flughafen (Terminal 1, Modul E);München;85356;;48.349915;11.785006
+1218;+;Deutsche Bank;Flughafen (Airport Center);München;85356;;48.353352;11.785264
+
+1219;+;Shell Tankstelle;Oesselser Straße 15;Laatzen;30880;;52.274926;9.847709
+
+1220;-;Commerzbank;Breddestr. 15;Gelsenkirchen;45894;;51.5762;7.05528
+
+1221;-;Deutsche Bank;Hauptstr. 89-91;Bendorf;56170;;50.4236;7.57523
+1222;-;Hypovereinsbank;Schwanseestr. 71A;München;81549;;48.1042;11.5983
+
+1223;-;Postbank;Neidenburger Str. 1;Landshut;84030;;48.5541;12.1537
+1224;+;Postbank;Neidenburger Str. 1;Landshut;84030;im OBI, Mo-Sa 8-20 Uhr;48.5541;12.1537
+
+1225;-;Hypovereinsbank;Lüneburger Str. 8;Uelzen;29525;;52.9657;10.5608
+1226;-;Postbank;Kastanienallee 4;Tostedt;21255;;53.2815;9.71399
+1227;+;Shell Tankstelle;Hugo-Eckener-Straße 27a;Köln;50829;;50.977328;6.895153
+
+1228;+;Postbank;Bahnhofstraße 8;Geldern;47608;im Kaufland;51.516292;6.320024
+1229;-;Hypovereinsbank;Hauptstr. 67;Peißenberg;82380;;47.8001;11.0682
+
+1230;-;Hypovereinsbank;Königsstr. 16;Oettingen;86732;;48.9506;10.6027
+1231;-;Deutsche Bank;Theodor-Ludwig-Str. 24;Emmendingen;79312;;48.1208;7.84991
+1232;-;Postbank;Bahnhofstr. 6;Emmendingen;79312;;48.1197;7.86638
+
+1233;+;Commerzbank;Fürther Str. 212;Nürnberg;90429;;49.458744;11.032992
+1234;+;Commerzbank;Nelkenstraße 1;Nürnberg;90439;;49.439033;11.051855
+1235;+;Deutsche Bank;Hauptmarkt 7;Nürnberg;90403;;49.453553;11.076717
+1236;-;Commerzbank;Rheinstr. 34;Darmstadt;64283;;49.8719;8.64478
+
+1237;-;Shell Tankstelle;Neustrelitzer Str. 126;Neubrandenburg;17033;;53.5243800;13.2608000
+1238;+;Shell Tankstelle;Frankfurter Chaussee 37;Fredersdorf-Vogelsdorf;15370;;52.500028;13.735850
+
+1239;-;Shell Tankstelle;Glüsinger Str. 44;Seevetal;21217;;53.4180400;10.0207100
+1240;-;Hypovereinsbank;Bahnhofstr. 32;Planegg;82152;;48.1045;11.4177
+1241;-;Postbank;Allersberger Str. 130;Nürnberg;90461;;49.4359;11.0914
+1242;+;Postbank;Allersberger Str. 185;Nürnberg;90461;;49.433266;11.097522
+
+1243;-;Hypovereinsbank;Lauenburger Str. 3;Schwarzenbek;21493;;53.5022;10.4805
+1244;-;Hypovereinsbank;Stummstr. 22;Dillingen;66763;;49.3532;6.7262
+
+1245;-;Shell Tankstelle;Grüner Weg;Paderborn;33102;;51.7067700;8.7294700
+
+1246;-;Hypovereinsbank;Bahnhofstr. 1;Süderbrarup;24392;;54.6357;9.77236
+1247;-;Commerzbank;Am Schützeneck 6-8;München;81241;;48.1479;11.4613
+
+1248;-;Hypovereinsbank;Römerstr. 29;Obernburg;63785;;49.8407;9.1463
+
+1249;-;Postbank;Bolzstr. 3;Stuttgart;70173;;48.780093;9.177904
+1250;+;Postbank;Bolzstr. 3;Stuttgart;70173;;48.779823;9.178068
+
+1251;+;Postbank;Ringstraße 31;Chemnitz;09247;;50.866270;12.866952
+
+1252;-;Deutsche Bank;Schultesstr. 2;Schweinfurt;97421;;50.0429;10.2316
+1253;-;Hypovereinsbank;Schultesstr. 19A;Schweinfurt;97421;;50.0417;10.2299
+1254;-;Hypovereinsbank;Am Oberen Marienbach 14;Schweinfurt;97421;;50.0485;10.2361
+1255;-;Commerzbank;Albrecht-Dürer-Platz 4;Schweinfurt;97421;;50.0432;10.2313
+1256;+;Postbank;Am Markt 2;Emmelshausen;56281;;50.156633;7.559719
+1257;+;Shell Tankstelle;Oldentruper Str. 236;Bielefeld;33719;Mo-Do 8-22 Uhr, Fr,Sa 7-22 Uhr;52.011082;8.594019
+1258;+;Shell Tankstelle;Schubertstraße 1;Zwickau;08058;;50.750219;12.483702
+
+1259;-;Hypovereinsbank;Am Fleth 10;Glückstadt;25348;;53.7872;9.42406
+
+1260;+;Postbank;Annaberger Str. 106;Raschau-Markersbach;08352;Postfiliale, ggf. nicht durchgängig erreichbar;50.529600;12.821176
+
+1261;-;Hypovereinsbank;Wallensteinstr. 21;Hannover;30459;;52.342;9.71412
+1262;-;Hypovereinsbank;Am Pulverl 1;Ingolstadt;85051;;48.7439;11.433
+1263;-;Postbank;Berliner Str. 89;Oberursel;61440;;50.2072;8.57813
+
+1264;+;Postbank;Adenauerallee 32;Oberursel;61440;;50.200507;8.582958
+1265;-;Postbank;Susannenstr. 26;Hamburg;20357;;53.563;9.96476
+
+1266;-;Hypovereinsbank;Rathausstr. 66-68;Viernheim;68519;;49.5347;8.57583
+1267;-;Commerzbank;Kettelerstr. 1;Viernheim;68519;;49.5385;8.578
+1268;-;Commerzbank;Ketteler Str. 8;Viernheim;68519;;49.5384;8.57665
+
+1269;-;Hypovereinsbank;Machtlfinger Str. 10;München;81379;;48.0969;11.5134
+1270;-;Hypovereinsbank;Knöpflerstr. 1;München;81476;;48.0946;11.4978
+1271;-;Hypovereinsbank;Schulstr. 25;Seevetal;21220;;53.3944;10.0375
+1272;-;Hypovereinsbank;Unter Den Linden 5;Stelle;21435;;53.3842;10.1103
+
+1273;-;Berliner Bank;Marzahner Promenade 20;Berlin;12679;;52.5429;13.5462
+
+1274;-;Deutsche Bank;Bismarckstr. 3;Detmold;32756;;51.9376;8.87783
+1275;-;Shell Tankstelle;Schützenstr. 67;Bad Sassendorf;59505;;51.5788800;8.1583400
+
+1276;-;Postbank;Lagesche Str. 184;Detmold;32756;;51.9531;8.86286
+1276;+;Postbank;Lagesche Str. 184;Detmold;32756;Avia Tankstelle;51.9531;8.86286
+
+1277;-;Hypovereinsbank;Niederauerstr. 43;Meißen;01662;;51.1678;13.5019
+1278;-;Deutsche Bank;Marktstr. 13;Boppard;56154;;50.232;7.59233
+
+1279;-;Postbank;Am Fischstein 33;Frankfurt;60488;;50.1482;8.60623
+1280;+;Postbank;Am Fischstein 33;Frankfurt;60488;;50.129637;8.624165
+1281;-;Hypovereinsbank;Marktstr. 6;Lenggries;83661;;47.6817;11.577
+
+1282;-;Shell Tankstelle;Winsener Str. 91;Hamburg;21077;;53.4442300;9.9906600
+
+1283;-;Hypovereinsbank;Dorfstr. 15A;Heikendorf;24226;;54.3702;10.2042
+
+1284;-;Hypovereinsbank;Bahnhofstr. 14;Quickborn;25451;;53.7311;9.89853
+1285;-;Commerzbank;Schulstr. 16;Quickborn;25451;;53.7314;9.89832
+1286;-;Commerzbank;Neue Str. 5;Lingen;49808;;52.5209;7.3154
+1287;+;Postbank;Bahnhofstr. 11;Tostedt;21255;;53.280164;9.713855
+
+1288;-;Hypovereinsbank;Münchner Str. 13;Haar;85540;;48.1091;11.7226
+1289;+;Postbank;Leibstraße 15;Haar;85540;;48.108917;11.732173
+
+1290;-;Hypovereinsbank;Lindenring 9;Taufkirchen;82024;;48.0514;11.6052
+
+1291;+;Postbank;Schulstraße 36a;Kehl;77694;;48.574766;7.810261
+
+1292;-;Commerzbank;Badeniaplatz 1;Karlsruhe;76189;;48.9823;8.36903
+1293;-;Deutsche Bank;Am Markt 26;Burg (Fehmarn);23769;;54.4392;11.1974
+
+1294;+;Postbank;Durlacher Allee 111;Karlsruhe;76137;Postfiliale im real, ggf. nicht durchgängig erreichbar;49.005146;8.449076
+
+1295;-;Postbank;Metallstr. 15;Velbert;42551;;51.34;7.05583
+1296;-;Hypovereinsbank;Hanauer Landstr. 5;Kahl;63796;;50.0696;9.00597
+
+1297;+;Postbank;Clausthaler Str. 1a;Bad Grund;37539;Postfiliale, Mo-Sa 9:00-12:00, Di+Do 15:00-17:30;51.810173;10.237634
+
+1298;-;Hypovereinsbank;Ludwigsplatz 5;Worms;67847;;49.6329;8.36241
+
+1299;-;Hypovereinsbank;Cannstatter Str. 36;Fellbach;70734;;48.8087;9.27734
+1300;-;Hypovereinsbank;Canstatter Str. 36;Fellbach;70734;;48.8087;9.27734
+
+1301;-;Commerzbank;Fuerstenplatz 1;Schneeberg;08289;;50.5961;12.6404
+
+1302;-;Hypovereinsbank;Kornstr. 2-4;Bautzen;02625;;51.1815;14.4246
+
+1303;-;Hypovereinsbank;Rückersdorfer Str. 1;Röthenbach;90552;;49.4821;11.2386
+1304;-;Hypovereinsbank;Nürnberger Str. 2;Schwaig;90571;;49.4719;11.1993
+
+1305;-;Hypovereinsbank;Kulmbacher Str. 8;Burgkunstadt;96224;;50.1404;11.2492
+
+1306;-;Commerzbank;Senefelderstr. 6;Bielefeld;33689;;51.9569;8.57922
+1307;+;Shell Tankstelle;Eidlerholzstraße 22;Erkheim;87746;;48.026118;10.327783
+1308;+;Deutsche Bank;Albert-Schweitzer-Straße 1;Münster;48149;im Universitätsklinikum;51.960829;7.594706
+1309;-;Postbank;Berrenrather Str. 230;Köln;50939;;50.9189;6.92573
+1310;-;Shell Tankstelle;Adolf-Mertens-Str.;Oranienburg;16515;;52.7652100;13.2447400
+
+1311;+;Postbank;Germaniastraße 18;Lehrte;31275;im OBI, Mo-Sa 8-20 Uhr;52.374731;9.984136
+
+1312;-;Shell Tankstelle;Fröndenberger Str. 163;Menden;58708;;51.4579700;7.7758500
+1313;-;Postbank;Heidelbergerstr. 2/1;Sandhausen;69207;;49.344366;8.658777
+1314;+;Postbank;Hauptstraße 80/4;Sandhausen;69207;;49.340651;8.657598
+
+1315;-;Deutsche Bank;Hohe Str. 58;Dortmund;44139;;51.5035;7.45876
+1316;-;Shell Tankstelle;Eberstädter Str. 131;Pfungstadt;64319;;49.8051900;8.6048600
+1317;+;Postbank;Steinstraße 59;Aachen;52080;;50.779399;6.155432
+1318;+;Shell Tankstelle;Von-Coels-Straße 11;Aachen;52080;;50.777850;6.143036
+1319;+;Postbank;Stadtring 60;Nordhorn;48527;im toom Baumarkt;52.437991;7.065654
+1320;-;Hypovereinsbank;Karl-Theodor-Str. 69;München;80803;;48.1668;11.576
+1321;-;Shell Tankstelle;Kreillerstr. 194;München;81825;;48.1225100;11.6607200
+
+1322;+;Shell Tankstelle;An der B246;Möckern;39291;;52.155949;11.944140
+1323;+;Postbank;Industriestraße 6-8;Spenge;32139;Postfiliale im Edeka, Mo-Sa 8-18 Uhr;52.144561;8.492215
+1324;+;Postbank;Ringstraße 33a;Enger;32130;Postfiliale im Edeka, Mo-Sa 8-18 Uhr;52.137407;8.551897
+
+1325;+;Shell Tankstelle;Richard-Sang-Straße 1;Haßloch;67454;;49.378691;8.251626
+1326;-;Postbank;C.-F.-Venghauss-Platz 14;Werther (Westfalen);33824;Mo-Fr 9-13 Uhr, 14-18 Uhr, Sa 9-13 Uhr;50.120038;8.695501
+1327;+;Postbank;C.-F.-Venghauss-Platz 14;Werther (Westfalen);33824;Mo-Fr 9-13 Uhr, 14-18 Uhr, Sa 9-13 Uhr;52.073605;8.415136
+1328;+;Shell Tankstelle;Magdeburger Str. 18;Oebisfelde;39646;;52.428940;10.993486
+1329;-;Postbank;Am Bahnhof 5;Zwickau;08056;;50.7154;12.4788
+1330;+;Postbank;Bergstraße 13;Lengerich;49525;Mo-Fr 8:30-12:00 und 14:00-17:30, Sa 9:00-12:00;52.190631;7.852973
+1331;+;Postbank;Marktstraße 25;Saerbeck;48369;Mo-Fr 9:00-12:30 und 14:30-18:00, Sa 9:00-12:30;52.174047;7.633451
+1332;-;Hypovereinsbank;Wallensteinstr. 34;Nürnberg;90431;;49.4392;11.0358
+1333;-;Hypovereinsbank;Hollerstr. 96;Büdelsdorf;24782;;54.316;9.68038
+1334;-;Hypovereinsbank;Johannisthaler Chausee 295;Berlin;12351;;52.4306;13.4567
+1335;-;Hypovereinsbank;Bahnhofstr. 9;Oberstaufen;87534;;47.5546;10.0241
+
+1336;+;Deutsche Bank;Markt 14;Soest;59494;;51.572712;8.106736
+
+1337;-;Deutsche Bank;Bahnhofstr. 66;Sonneberg;96515;;50.3563;11.1693
+1338;+;Postbank;Woerdener Str. 6;Steinhagen;33803;Mo-Fr 8:00-18:30, Sa 8:00-16:00;52.003900;8.411864
+1339;-;Hypovereinsbank;Allersberger Str. 85;Nürnberg;90461;;49.4403;11.0905
+1340;-;Commerzbank;Wölckernstr. 67a;Nürnberg;90459;;49.4413;11.0883
+1341;-;Hypovereinsbank;Schellingstr. 29;München;80799;;48.1502;11.5758
+
+1342;-;Shell Tankstelle;Am Gnädigspark 1;Pasewalk;17309;;53.5155900;14.0134000
+1343;-;Commerzbank;Marktstaette 8;Konstanz;78462;;47.6605;9.17653
+1344;-;Postbank;Vetterstr. 1;Ansbach;91522;;49.2631;10.5846
+1345;+;Shell Tankstelle;Bandelstraße 21;Ansbach;91522;;49.294511;10.577205
+
+1346;+;Postbank;Eickumer Str. 61a;Bielefeld;33739;im Tabakladen Jittenmeier, Mo-Fr 8:00-19:00, Sa 8:00-13:00;52.098241;8.531067
+
+1347;-;Postbank;Holstenstr. 25-30;Lübeck;23552;;53.8663;10.6817
+1348;+;Shell Tankstelle;Berliner Str. 569;Gütersloh;33334;;51.943742;8.427737
+
+1349;+;Hypovereinsbank;Münchener Str. 13a;Sauerlach;82054;in der ARAL Tankstelle, 6-22 Uhr;47.974022;11.653522
+1350;+;Postbank;Brühl 8;Leipzig;04109;;51.343625;12.374809
+1351;+;Postbank;Georg-Schumann-Straße 227;Leipzig;04159;in der Postfiliale, ggf. nicht durchgängig erreichbar;51.367203;12.344335
+1352;-;Hypovereinsbank;Saarbrückener Str. 2;Nürnberg;90469;;49.4059;11.0956
+1353;-;Postbank;Friedrichstr. 69;Berlin;10117;;52.5126;13.3896
+1354;-;Deutsche Bank;Steintor 8;Gronau;31028;;52.084;9.78114
+1355;-;Commerzbank;Hansastr. 1;Ibbenbüren;49477;;52.2734;7.74104
+
+1356;-;Hypovereinsbank;Friedberger Str. 134;Augsburg;86163;;48.3548;10.9439
+1357;-;Commerzbank;Heckinghauser Str. 158;Wuppertal;42289;;51.2711;7.22118
+1358;-;Deutsche Bank;Schulterblatt 58;Hamburg;20357;;53.5613;9.96253
+1359;+;Deutsche Bank;Turmstraße 3;Kirchheim unter Teck;73230;;48.648066;9.453433
+1360;+;Postbank;Bahnhofstraße 56;Bordesholm;24582;;54.172952;10.039289
+
+1361;-;Commerzbank;Bahnhofstr. 47;Fellbach;70734;;48.813;9.27487
+1362;-;Commerzbank;Waiblinger Str. 1-3;Stuttgart;70372;;48.8035;9.21736
+1363;-;Deutsche Bank;Theodor-Heuss-Str. 1;Konstanz;78467;;47.6684;9.18049
+1364;-;Hypovereinsbank;Marrensdamm 6;Flensburg;24944;;54.8154;9.47261
+
+1365;-;Commerzbank;Rosenbergplatz 1;Stuttgart;70193;;48.7784;9.15597
+1366;-;Postbank;Horner Heerstraße 29;Bremen;28359;;53.096933;8.872106
+1367;-;Bankhaus Neelmeyer;Horner Heerstraße 29;Bremen;28359;;53.096981;8.872229
+
+1368;-;Hypovereinsbank;Bahnhofstr. 22;Neu Wulmstorf;21629;;53.4659;9.79383
+1369;-;Hypovereinsbank;Lange Zeile 59;Erlangen;91054;;49.6011;11.0393
+1370;-;Postbank;Johannes-Daur-Str. 3;Korntal-Münchingen;70825;;48.8309;9.12183
+1371;+;Postbank;Prenzlauer Chaussee 183;Wandlitz;16348;Mo-Fr 9:00-18:00, Sa 9:00-12:00;52.758216;13.473812
+
+1372;+;Shell Tankstelle;Am Kemnitzgrund 1;Schmölln;04626;;50.885316;12.350448
+1373;-;Shell Tankstelle;Hauptstr. 88;Meckenbeuren;88074;;47.6934400;9.5595400
+1374;+;Berliner Bank;Gartenfelder Str. 119;Berlin;13599;;52.541975;13.236693
+1375;-;Hypovereinsbank;Friedrichstr. 62;Schleswig;24837;;54.5022;9.54275
+
+1376;-;Shell Tankstelle;Braunschweiger Heerstr. 58;Celle;29221;;52.611228;10.097943
+1377;-;Postbank;Fritz-Haber-Str. 12;Karlsruhe;76185;;49.0013;8.35928
+1378;-;Deutsche Bank;Rheinstr. 44;Karlsruhe;76185;;49.0118;8.35868
+1379;-;Hypovereinsbank;Donaustr. 5;Vohburg;85088;;48.7683;11.6191
+1380;-;Commerzbank;Dammstr. 23-25;Hildesheim;31134;;52.1496;9.94225
+1381;-;Hypovereinsbank;Mathildenstr. 35;Flensburg;24937;;54.7836;9.42206
+1382;-;Commerzbank;Hans-Brückmann-Str. 2-8;Düren;52351;;50.8068;6.48384
+1383;+;Deutsche Bank;Am Hafenmarkt;Esslingen;73728;;48.742155;9.308634
+
+1384;-;Hypovereinsbank;Landauer Str. 6;Annweiler;76855;;49.2027;7.96662
+1385;-;Postbank;Eickumer Str. 61a;Bielefeld;33739;im Tabakladen Jittenmeier, Mo-Fr 8:00-19:00, Sa 8:00-13:00;52.098241;8.531067
+1386;+;Shell Tankstelle;Werner Str. 120;Bergkamen;59192;;51.616454;7.660522
+1387;-;Deutsche Bank;Zähringer Str. 361;Freiburg;79108;;48.0237;7.85994
+1388;-;Hypovereinsbank;Schulstr. 6;Ebermannstadt;91320;;49.7817;11.183
+1389;-;Postbank;Postdamer Platz 2;Berlin;10785;;52.5097;13.3751
+1390;-;Hypovereinsbank;Bahnhofstr. 11;Pforzheim;75172;;48.892716;8.700498
+
+1391;-;Hypovereinsbank;Dinkelsbühler Str. 2;Wassertrüdinge;91717;;49.0414;10.5971
+
+1392;-;Shell Tankstelle;Europastr. 1;Stolberg;52222;;50.7708500;6.2258000
+1393;+;Commerzbank;Mülheimer Str. 129;Duisburg;47058;;51.433260;6.791377
+
+1394;+;Postbank;Hauptstraße 24;Lienen;49536;Mo-Fr 8:00-12:30, 14:30-18:00, Sa 08:00-12:30;52.146217;7.974784
+1395;+;Postbank;Kolpingstraße 4;Glandorf;49219;Mo-Fr 8:00-12:30, 14:00-18:00, Sa 08:00-12:30;52.081021;8.001495
+1396;+;Postbank;Schulstraße 8;Ostbevern;48346;Mo-Fr 8:00-12:30, 14:30-18:00, Sa 09:00-13:00;52.034995;7.840367
+1397;+;Postbank;Gräfin-Anna-Straße 4;Tecklenburg;49545;Mo-Fr 15-17 Uhr, Sa 11-12:30;52.219075;7.815184
+1398;+;Postbank;Rosenstraße 58;Tecklenburg;49545;nicht durchgehend geöffnet;52.213790;7.894046
+1399;+;Postbank;Bahnhofstraße 24;Ibbenbüren;49477;Mo-Fr 08:00-18:30, Sa 09:00-14:00;52.276348;7.717565
+1400;+;Postbank;Rheiner Str. 66;Ibbenbüren;49477;Mo-Fr 08:00-18:00, Sa 08:00-13:00;52.292037;7.714536
+1401;+;Postbank;Geschwister-Voß-Straße 3;Mettingen;49497;Mo-Fr 08:00-13:00, 14:30-18:00, Sa 08:00-13:00;52.318210;7.780481
+1402;+;Postbank;Hauptstraße 3;Recke;49509;Mo-Fr 09:00-12:30, 14:00-18:00, Sa 09:00-12:30;52.369434;7.718895
+1403;+;Postbank;Bunte Str. 16;Hopsten;48496;Mo-Fr 08:00-18:00, Sa 08:00-13:00;52.381208;7.601319
+1404;+;Postbank;Halener Str. 1a;Lotte;49504;Mo-Fr 08:00-20:00, Sa 08:00-13:00;52.315401;7.941687
+1405;+;Postbank;Lengericher Str. 11;Hagen;49170;Mo-Fr 08:00-12:30, 13:30-18:00, Sa 08:00-13:00;52.209662;7.920792
+1406;+;Postbank;Tecklenburger Str. 47;Hasbergen;49205;Mo-Fr 08:30-13:00, 14:00-18:00, Sa 08:30-13:00;52.242724;7.958441
+1407;+;Postbank;Bonifatiusstraße 59c;Rheine;48429;Mo-Fr 08:30-12:30, 14:00-18:00, Sa 09:00-12:00;52.293003;7.444968
+1408;+;Postbank;Friedhofstraße 1;Preußisch Oldendorf;32361;im Edeka, nicht durchgehend geöffnet;52.306629;8.491259
+1409;+;Postbank;Hauptstraße 80;Hüllhorst;32609;Mo-Fr 08:00-18:30, Sa 08:00-16:00;52.280079;8.667958
+1410;+;Postbank;Lübbecker Str. 144;Löhne;32584;Mo-Fr 08:00-12:30, 15:00-18:00, Sa 09:00-13:00;52.222379;8.706030
+1411;+;Postbank;Lübbecker Str. 82;Kirchlengern;32278;Mo-Fr 08:00-18:30, Sa 08:00-13:00;52.201367;8.641554
+1412;+;Postbank;Weihestraße 43;Löhne;32584;Mo-Sa 9:00-13:00, Mo,Di,Do,Fr 15:00-18:00;52.196802;8.758819
+1413;+;Postbank;Löhner Str. 315;Hiddenhausen;32120;Mo-Fr 09:00-12:30, 14:30-18:00, Sa 09:00-12:30;52.167179;8.632772
+1414;+;Postbank;Am Rathauspl. 2;Hiddenhausen;32120;Mo-Fr 08:30-12:30, 15:00-18:00, Sa 09:00-12:00;52.152075;8.639079
+1415;+;Postbank;Kolpingstraße 4;Glandorf;49219;Mo-Fr 09:00-12:30, 14:00-18:00, Sa 09:00-12:30;52.080951;8.001489
+1416;+;Postbank;Bahnhofstraße 40;Bad Rothenfelde;49214;nicht durchgehend geöffnet;52.109557;8.169244
+1417;+;Postbank;Scheerenhof 1;Dissen;49201;nicht durchgehend geöffnet;52.115686;8.201401
+
+1418;-;Hypovereinsbank;Münchner Str. 8;Kirchseeon;85614;;48.0723;11.8886
+1419;-;Hypovereinsbank;Marktplatz 12;Grafing;85567;;48.0459;11.9675
+
+1420;-;Deutsche Bank;Ollenhauerstr. 3;Berlin;13403;;52.5645;13.3283
+
+1421;-;Hypovereinsbank;Erdinger Str. 44;Freising;85356;;48.3943;11.759
+1422;-;Hypovereinsbank;Stadtplatz 15;Abensberg;93326;;48.8158;11.8464
+1423;+;Postbank;Bartelsstraße 26;Hamburg;20357;Postfiliale, ggf. nicht durchgängig erreichbar;53.562348;9.964535
+1424;-;Shell Tankstelle;Altglashütten;Feldberg;79868;;47.8567800;8.1100600
+1425;+;Postbank;Ernst-August-Platz 2;Hannover;30159;in der Ernst-August-Galerie;52.377202;9.737072
+
+1426;-;Shell Tankstelle;Bahnhofstr.;Neu-Anspach;61267;;50.2961400;8.5149000
+1427;-;Hypovereinsbank;Am Kirchplatz 6-8;Otterndorf;21762;;53.808;8.89927
+
+1428;-;Postbank;Hans-Bredow Str. 19;Bremen-Mahndorf;28307;;53.0485;8.95774
+
+1429;-;Hypovereinsbank;Flößerstr. 11;Lechbruck;86983;;47.6975;10.7973
+1430;+;Postbank;Pfortenstraße 11;Kölleda;99625;Postfiliale, ggf. nicht durchgängig erreichbar;51.190598;11.249603
+
+1431;-;Shell Tankstelle;Geisweider Str. 27;Siegen;57076;;50.9134000;8.0127300
+1432;-;Postbank;Lübecker Str. 23-25;Bad Oldesloe;23843;;53.8114;10.3781
+1433;-;Shell Tankstelle;Karthäuserstr.;Koblenz;56073;;50.3566200;7.5884700
+
+1434;+;Postbank;Hermann-von-Mittnacht-Straße 10;Igersheim;97999;im Kaufland;49.486366;9.819912
+1435;-;Postbank;Poststr. 5;Bad Mergentheim;97980;;49.4935;9.773
+1436;+;Postbank;Poststr. 5;Bad Mergentheim;97980;Mo-Fr 09:00-12:30, 14:00-18:00;49.4935;9.773
+
+1437;+;Postbank;Dammer Hof 17;Osnabrück;49088;;52.295485;8.066433
+1438;-;Postbank;Öjendorfer Damm 50;Hamburg;22043;;53.5711;10.1359
+1439;-;Postbank;Dresdner Str. 8;Pirna;01796;;50.958;13.9238
+1440;-;Hypovereinsbank;Landshuter Str. 5;Rottenburg;84056;;48.7023;12.0268
+
+1441;-;Hypovereinsbank;Marktplatz 4;Ampfing;84539;;48.2552;12.4159
+1442;-;Hypovereinsbank;Martin-Ofner-Str. 7;Burgkirchen;84508;;48.1669;12.7307
+1443;-;Commerzbank;Nonnendammallee 89;Berlin;13629;;52.537;13.271
+1444;-;Hypovereinsbank;Osterjork 7;Jork;21635;;53.5326;9.6817
+1445;-;Hypovereinsbank;Mühlenstraße 56;Güstrow;18273;;53.793755;12.177749
+1446;+;Postbank;Peschelstraß 33;Dresden;01139;im Elbepark, Erdgeschoss;51.084763;13.695941
+1447;-;Postbank;Kasselerstr. 1;Bebra;36179;;50.9715;9.7905
+
+1448;+;Shell Tankstelle;Schnötstraße 2;Dogern;79804;;47.614292;8.182822
+1449;-;Postbank;Stuttgarter Allee 32;Leipzig;04209;;51.318;12.2909
+1450;-;Postbank;Ganghoferstr. 1;Bad Wörishofen;86825;;48.0028;10.6002
+1451;-;Hypovereinsbank;Bahnhofsplatz 4;Bad Wörishofen;86825;;48.006;10.5974
+1452;-;Hypovereinsbank;Max-Philipp-Str. 24;Türkheim;86842;;48.0611;10.64
+1453;+;Postbank;Römerstraße 120;Neuss;41462;im Kaufland;51.212882;6.682996
+
+1454;-;Hypovereinsbank;Flensburger Str. 61;Schleswig;24837;;54.5181;9.57035
+
+1455;-;Hypovereinsbank;Lochhauser Str. 14;Puchheim;82178;;48.1731;11.3549
+
+1456;+;Shell Tankstelle;An der B196;Sellin;18586;;54.365326;13.703704
+1457;+;Shell Tankstelle;Hauptstraße 1;Kirchheim;36275;;50.834202;9.573917
+1458;-;Shell Tankstelle;Möhnestr. 72-74;Warstein;59581;;51.4899200;8.2837700
+1459;+;Shell Tankstelle;Lanfer 29;Warstein;59581;;51.481183;8.334103
+1460;-;Hypovereinsbank;Alter Steinweg 5;Münster;48145;;51.963;7.6294
+1461;-;Postbank;Am Stadtwege 2;Eisenach;99817;im OBI, Mo-Fr 8-20 Uhr, Sa 8-18 Uhr;51.000148;10.314505
+1462;-;Postbank;Wilhelmstr. 97;Berlin;10117;;52.5089;13.3846
+
+1463;-;Postbank;Seinsheimstr. 4;Würzburg;97074;;49.789;9.94678
+1464;-;Postbank;Joseph-Fraunhofer-Str. 21;Pfaffenhofen;85276;;48.5366;11.5134
+1465;-;Hypovereinsbank;Aschaffenburger Str. 54;Goldbach;63773;;49.9974;9.1815
+1466;-;Hypovereinsbank;Hofackerstr. 14;Augsburg-Hauns;86179;;48.3118;10.9053
+1467;-;Deutsche Bank;Weserstr. 32;Rinteln;31737;;52.1891;9.08088
+
+1468;-;Commerzbank;Bramfelder Str. 140;Hamburg;22305;;53.5918;10.0565
+1469;-;Shell Tankstelle;Gewerbegebiet Süd 2;Brand-Erbisdorf;09618;;50.85481;13.32085
+1470;-;Shell Tankstelle;Schwansenstr.;Damp;24351;;54.5690000;9.9528800
+1471;+;Deutsche Bank;Hamburger Str. 20;Henstedt-Ulzburg;24558;;53.792245;9.980640
+
+1472;+;Shell Tankstelle;Weimarsche Str.;Kölleda;99625;;51.183240;11.251376
+1473;-;Postbank;Weiherplatz 26;Wiehl;51674;;50.9515;7.54798
+1474;-;Deutsche Bank;Steinweg 25;Halle (Saale);06110;;51.4747;11.9703
+1475;-;Postbank;Prenzlauer Chaussee 183;Wandlitz;16348;Mo-Fr 9:00-18:00, Sa 9:00-12:00;52.758216;13.473812
+1476;-;Shell Tankstelle;Altensteiger Str. 20;Nagold;72202;;48.5490100;8.7146900
+1477;-;Shell Tankstelle;Klötzerstr.;Riesa;01587;;51.3053800;13.2975400
+1478;-;Hypovereinsbank;Hauptstr. 4;Trostberg;83308;;48.0279;12.5538
+1479;-;Shell Tankstelle;An der Bleiche 3;Simmern;55469;;49.9797100;7.5219400
+1480;-;Shell Tankstelle;Koblenzer Str. 103;Simmern;55469;;49.9921100;7.5277800
+1481;-;Commerzbank;Friedrich-Ebert-Platz;Peine;31226;;52.3167;10.23
+1482;-;Commerzbank;Dorstener Str. 177;Bochum;44809;;51.4922;7.19553
+1483;-;Commerzbank;Kampstr. 47;Dortmund;44137;;51.5151;7.45795
+1484;-;Commerzbank;Corneliusstr. 15;Düsseldorf;40215;;51.2159;6.78231
+1485;-;Hypovereinsbank;Marktplatz 24;Gersfeld;36129;;50.4506;9.91911
+1486;-;Postbank;Mecklenburger Str. 4-6;Schwerin;19053;;53.6295;11.4126
+1487;-;Hypovereinsbank;Ganghoferstr. 21;München;80339;;48.1349;11.5402
+1488;-;Hypovereinsbank;Bergmannstr. 35;München;80339;;48.1347;11.5371
+
+1489;-;Hypovereinsbank;Münchner Str. 31-33;Mering;86415;;48.2649;10.9864
+1490;-;Hypovereinsbank;Hauptstr. 20;Adelsdorf;91325;;49.7134;10.8967
+
+1491;-;Shell Tankstelle;Vörstetter Str. 33;March;79232;;48.0681000;7.7788700
+1492;-;Commerzbank;Kurfürsten Anlage 47-51;Heidelberg;69115;;49.4051;8.68311
+1493;-;Deutsche Bank;Markt 2;Herzberg;37412;;51.6562;10.3412
+1494;-;Shell Tankstelle;Neusser Str. 2;Jüchen;41363;;51.0988900;6.5122200
+
+1495;+;Postbank;Gottlieb-Daimler-Straße 15;Bad Wörishofen;86825;im V-Markt;48.021063;10.600578
+1496;-;Commerzbank;Zimmermannstr. 3;Zwickau;08060;;50.7189;12.4601
+
+1497;-;Hypovereinsbank;Neuer Graben 7-9;Osnabrück;49074;;52.2723;8.04734
+1498;+;Postbank;Lechtinger Kirchweg 3;Wallenhorst;49134;im Edeka, Mo-Sa 7-22 Uhr;52.345618;8.019445
+1499;-;Commerzbank;Markt 14;Sankt Augustin;53757;;50.7782;7.18587
+1500;+;Commerzbank;Bonner Str. 128;Sankt Augustin;53757;;50.779149;7.191615
+1501;-;Postbank;Ernst-Buchholz-Str. 17;Bremen;28279;;53.045;8.84856
+1502;-;Deutsche Bank;Am Seestern 1;Düsseldorf;40547;;51.241561;6.738293
+1503;-;Commerzbank;Ludwigsplatz 8a;Darmstadt;64283;;49.8705;8.65467
+1504;-;Hypovereinsbank;Brüderweg 13;Dortmund;44135;;51.515;7.47148
+1505;-;Postbank;Mindener Straße 81;Bissendorf;49143;im Edeka, Mo-Sa 7-21 Uhr;52.261562;8.210891
+1506;-;Commerzbank;Nobistor 18;Hamburg;22767;;53.55;9.95593
+1507;-;Deutsche Bank;Kleikstr. 1;Herzogenrath;52134;;50.8687;6.09629
+1508;-;Deutsche Bank;Elisabethstr. 51;Kiel;24143;;54.3126;10.147
+1509;-;Hypovereinsbank;Goetheplatz 5/6;Fürstenwalde;15517;;52.3598;14.0612
+
+1510;+;Commerzbank;Bautzner Landstraße 400;Dresden;01328;Eingangsbereich Helmholtz-Zentrum;51.062711;13.950831
+1511;-;Commerzbank;Bautzner Landstr. 128;Dresden;01328;;51.0608;13.9473
+
+1512;+;Hypovereinsbank;Bahnhofplatz 1;Bad Wörishofen;86825;im Bahnhof;48.005778;10.597704
+1513;+;Postbank;Raiffeisenstraße 3;Büchen;21514;Mo-Fr 9-12, 14-18, Sa 9-12;53.479805;10.619599
+
+1514;-;Postbank;Poststr. 26;Radefeld;04509;;51.4114;12.2914
+
+1515;-;Deutsche Bank;Lange Rötterstr. 102;Mannheim;68167;;49.4967;8.48598
+1516;-;Hypovereinsbank;Müllerstr. 7;Kötzting;93444;;49.1752;12.8574
+
+1517;-;Deutsche Bank;Stuttgarter Str. 24;Vaihingen an der Enz;71665;;48.9312;8.95856
+1518;-;Deutsche Bank;Albert-Schweitzer-Str. 16;Magdeburg;39126;;52.1697;11.6285
+
+1519;-;Commerzbank;Markt 5;Marienberg;09496;;50.7194;13.1931
+1520;+;Commerzbank;Markt 5;Marienberg;09496;;50.651552;13.163428
+1521;-;Postbank;Poststr. 1;Marienberg;09496;;50.6489;13.1607
+1522;+;Postbank;Herzog-Heinrich-Straße 2;Marienberg;09496;;50.650429;13.164782
+1523;-;Commerzbank;Wilhelmstr. 7;Wiesbaden;65185;;50.0792;8.24621
+
+1524;-;Postbank;Rennbahnstr. 36;Frankfurt;60528;;50.0857;8.64929
+1525;+;Postbank;Triftstraße 28;Frankfurt;60528;;50.084595;8.646212
+
+1526;-;Hypovereinsbank;Marienplatz 4;Schongau;86956;;47.8108;10.8976
+
+1527;-;Deutsche Bank;Paul-Nevermann-Platz 5;Hamburg;22765;;53.5515;9.93588
+1528;+;Deutsche Bank;Paul-Nevermann-Platz 5;Hamburg;22765;;53.551470;9.935504
+1529;-;Commerzbank;Mariendorfer Damm 82;Berlin;12109;;52.4455;13.3857
+1530;-;Postbank;Ginsterstr. 7;Dortmund;44225;;51.456;7.53814
+1531;+;Postbank;Ginsterstr. 7;Dortmund;44225;;51.476400;7.437802
+1532;-;Commerzbank;Rudolf-Breitscheid-Str. 7;Fürth;90762;;49.4737;10.9897
+
+1533;-;Postbank;Osterstr. 42;Hannover;30159;;52.3701;9.73936
+
+1534;-;Commerzbank;Adenauerring 7;München;81731;;48.1041;11.6386
+1535;-;Hypovereinsbank;Am Markt 2;Nortorf;24589;;54.1688;9.85537
+1536;+;Postbank;Timmasper Weg 4;Nortorf;24589;im famila-Markt;54.162870;9.856733
+
+1537;-;Commerzbank;Königsbrücker Str. 37;Dresden;01099;;51.0688;13.748
+1538;-;Shell Tankstelle;Lindenthalgürtel 100;Köln;50935;;50.9275000;6.9093000
+
+1539;-;Postbank;August-Fischer-Platz 1;Kempten;87435;;47.7202;10.3113
+1540;+;Postbank;August-Fischer-Platz 1;Kempten;87435;;47.719977;10.315732
+1541;+;Postbank;Ingolstädter Weg 13;Paderborn;33102;u.U. nicht durchgängig geöffnet;51.745094;8.757058
+1542;-;Shell Tankstelle;Haller Str. 15;Crailsheim;74564;;49.1413300;10.0598200
+1543;-;Deutsche Bank;Lange Str. 21-25;Crailsheim;74564;;49.1359;10.0712
+1544;+;Deutsche Bank;Lange Str. 30;Crailsheim;74564;;49.135968;10.070857
+
+1545;+;Postbank;Gildenstraße 2;Oberhausen;46117;u.U. nicht durchgängig geöffnet;51.500737;6.886089
+1546;-;Berliner Bank;Königin-Luise-Str. 43;Berlin;14195;;52.4582;13.2909
+
+1547;+;Shell Tankstelle;An der Bundesstraße 3;Burgdorf;31303;;52.518954;10.024981
+1548;-;Hypovereinsbank;Schiffmeistergasse 2;Laufen;83410;;47.94;12.9359
+1549;-;Berliner Bank;Prenzlauer Promenade 41-42;Berlin;13089;;52.559618;13.4286
+1550;-;Commerzbank;Bahnhofstr. 38;Erfurt;99084;;50.9742;11.0357
+1551;+;Commerzbank;Juri-Gagarin-Ring 86;Erfurt;99084;;50.973028;11.033754
+
+1552;-;Hypovereinsbank;Friedrich-Ebert-Str. 72-76;Leipzig;04109;;51.3412;12.3597
+1553;+;Hypovereinsbank;Bergmannstraße 35;München;80339;;48.135734;11.537380
+1554;-;Postbank;Bahnhofstr. 27;Renningen;71272;;48.769;8.93477
+1555;-;Postbank;Torstr. 105-107;Berlin;10119;;52.53;13.4034
+1556;+;Postbank;Torstr. 105-107;Berlin;10119;Filiale, Mo-Fr 9-19 Uhr, Sa 9-13 Uhr;52.53;13.403401
+1557;+;Postbank;Limmerstraße 15;Hannover;30451;;52.371963;9.710853
+
+1558;-;Hypovereinsbank;Landshuter Str. 4;Erding;85435;;48.3063;11.9089
+
+1559;+;Postbank;Strandstraße 8;Baabe;18586;Filiale im Einkaufsmarkt "Nah & Frisch";54.360498;13.707101
+1560;-;Shell Tankstelle;Kölner Str.;Köln;51149;;50.8977300;7.0368000
+1561;-;Postbank;Luitpoldstr. 79;Edenkoben;67480;;49.2861;8.13905
+
+1562;-;Hypovereinsbank;Auf der Wies 5;Babenhausen;87727;;48.1424;10.2506
+1563;-;Deutsche Bank;Frankfurter Str. 84;Eschborn;65760;;50.1344;8.57169
+1564;+;Postbank;Bahnhofstraße 2;Deißlingen;78652;Filiale im Schreibwarenshop;48.113618;8.606395
+1565;+;Postbank;Steigstraße 1a;Niedereschach;78078;Filiale im Schreibwarenshop;48.131810;8.527383
+
+1566;+;Postbank;Seestraße 1;Seebad Ahlbeck;17419;Postfiliale, u.U. nicht durchgängig geöffnet;53.939952;14.186644
+1567;+;Postbank;Möllner Landstraße 49;Hamburg;22111;;53.538958;10.109304
+
+1568;+;Postbank;Krumenauerstraße;Ingolstadt;85049;im Edeka;48.770893;11.382366
+1569;-;Postbank;Ludwigplatz 4;Rosenheim;83022;;47.8504;12.0677
+1570;+;Postbank;Ludwigsplatz 4;Rosenheim;83022;;47.855484;12.128513
+1571;-;Hypovereinsbank;Prielmayerstr. 2;München;80335;;48.1401;11.5639
+1572;-;Deutsche Bank;Badergasse 17;Lichtenstein;09350;;50.7553;12.6335
+1573;-;Commerzbank;Kaiserstr. 37;Bruchsal;76646;;49.126;8.59642
+1574;-;Commerzbank;An der Beerweinschänke 2;Gera-Trebnitz;07554;;50.8966;12.1278
+1575;-;Commerzbank;Gewerbegebiet Beerenweinschänke;Gera-Trebnitz;07554;;50.8965;12.1272
+1576;-;Postbank;Harburger Ring 6;Hamburg;21073;;53.4578;9.98483
+1577;+;Postbank;Lüneburger Str. 39;Hamburg;21073;in den Harburg Arcaden;53.460166;9.981658
+1578;-;Postbank;Feringastr. 6;Unterföhring;85774;;48.1789;11.6333
+1579;+;Postbank;Feringastraße 16;Unterföhring;85774;im Marktkauf, Mo-Fr 8-20, Sa 8-13;48.177762;11.636448
+1580;-;Postbank;Lübecker Str. 113;Magdeburg;39124;;52.156992;11.636533
+
+1581;-;Deutsche Bank;Richmondstr. 4-8;Köln;50667;;50.9367;6.94762
+1582;-;Shell Tankstelle;Goslarsche Str. 53;Hildesheim;31134;;52.1496500;9.9613700
+1583;-;Shell Tankstelle;Alte Heerstr. 1;Hildesheim;31135;;52.1614200;10.0084600
+1584;-;Hypovereinsbank;Bahnhofstr. 2;Staffelstein;96231;;50.1019;10.9997
+
+1585;+;Deutsche Bank;Hermannstraße 256-258;Berlin;12049;;52.486050;13.424512
+
+1586;-;Hypovereinsbank;Sanktjohanserstr. 11;Bad Wiessee;83707;;47.7106;11.7258
+1587;+;Berliner Bank;Stadtrandstraße 555;Berlin;13589;;52.562522;13.157638
+1588;-;Hypovereinsbank;Dorfstraße 23;Sankt Peter-Ording;25826;;54.302624;8.638753
+1589;-;Postbank;Allerheiligenstr. 14;Achern;77855;;48.6264;8.07618
+
+1590;+;Deutsche Bank;Lufthansaring 1;Seeheim-Jugenheim;64342;im Lufthansa Seeheim;49.759954;8.652422
+1591;+;Shell Tankstelle;Heidelberger Str. 41;Seeheim-Jugenheim;64342;;49.769658;8.645135
+1592;-;Postbank;Seddiner Str. 8;Berlin-Friedrichsfelde;10315;;52.5136;13.5214
+1593;-;Hypovereinsbank;Stadtplatz 11;Osterhofen;94486;;48.7021;13.0191
+1594;+;Hypovereinsbank;Domhof 6;Osnabrück;49074;;52.276752;8.043532
+1595;-;Deutsche Bank;Hauptstr. 26;Haslach im Kinzigtal;77716;;48.2767;8.08775
+1596;-;Hypovereinsbank;Bahnhofstr. 12;Raisdorf;24223;;54.2827;10.2394
+
+1597;-;Commerzbank;Markt 19;Brühl;50321;;50.8288;6.90455
+1598;-;Hypovereinsbank;Herrenstr. 28;Wangen;88239;;47.6873;9.83383
+1599;+;Postbank;Bahnhofstraße 12;Grafenau;94481;im REWE Markt;48.855570;13.394253
+1600;-;Postbank;Eisenbahnstr. 9-11;Biberach;88400;;48.1004;9.79333
+1601;+;Postbank;Freiburger Str. 3;Biberach;88400;Postfiliale, u.U. nicht durchgehend geöffnet;48.100317;9.794775
+1602;-;Postbank;Junckerstr. 26;Neuruppin;16816;;52.9153;12.7899
+1603;+;Postbank;Junckerstr. 26;Neuruppin;16816;Eingang OBI Baumarkt;52.9153;12.7899
+1604;-;Hypovereinsbank;Leopoldstr. 21;München;80802;;48.1575;11.5843
+1605;-;Hypovereinsbank;Im Alten Dorfe 24;Hamburg;22359;;53.6487;10.1652
+1606;-;Postbank;Nordergeest 5;Sankt Peter-Ording;25826;;54.305824;8.647117
+1607;+;Hypovereinsbank;Dorfstraße 23;St. Peter-Ording;25826;;54.302560;8.638775
+1608;-;Hypovereinsbank;Schleißheimer Str. 263;München;80809;;48.1794;11.5671
+1609;+;Commerzbank;Kettelerstraße 1;Viernheim;68519;;49.538132;8.579143
+
+1610;+;Postbank;Adlerplatz 9;Achern;77855;Filiale im Kaufhaus Peters;48.630334;8.070251
+1611;-;Commerzbank;Am Bollwerk 8-10;Euskirchen;53879;;50.6612;6.79131
+1612;-;Postbank;Turbinenstr.;Mannheim;68309;;49.5117;8.50004
+1613;-;Shell Tankstelle;Alleestr. 24;Montabaur;56410;;50.4404800;7.8255800
+1614;+;Postbank;Grellstraße 75;Berlin;10409;im Kaisers;52.545199;13.429909
+1615;-;Commerzbank;Lintorfer Markt 2;Ratingen;40885;;51.3315;6.8315
+1616;+;Shell Tankstelle;Warburger Str. 45;Wolfhagen;34466;;51.402403;9.183255
+1617;+;Postbank;Holstenstraße 32;Schenefeld;25560;Postfiliale, u.U. nicht durchgängig geöffnet;54.047053;9.480851
+
+1618;+;Postbank;Ramskamp 102;Elmshorn;25337;im Marktkauf;53.742539;9.709716
+1619;+;Postbank;Ramskamp 104;Elmshorn;25337;im OBI Markt;53.743234;9.708216
+
+1620;-;Postbank;Ramskamp 104;Elmshorn;25337;;53.7434;9.70877
+1621;-;Postbank;Ramskamp 102;Elmshorn;25337;;53.7424;9.70997
+1622;+;Postbank;Marktplatz 8;Barby (Elbe);39249;Postfiliale SSB Wiesner, u.U. nicht durchgängig geöffnet;51.966680;11.886505
+
+1623;+;Postbank;Deggendorfer Str. 14;Hengersberg;94491;Filiale im Edeka;48.774886;13.051239
+1624;-;Commerzbank;Berliner Str. 85;Gütersloh;33330;;51.9095;8.38096
+
+1625;-;Commerzbank;Königsplatz 27;Schwabach;91126;;49.3292;11.0209
+1626;-;Postbank;Bundesstr. 20;Oeversee;24988;;54.7033;9.43655
+1627;+;Postbank;Lindenstraße 12;Wustrow;18347;Mo-Fr 10:00-12:30, 15:00-18:00, Sa 10:00-12:30;54.347296;12.394670
+
+1628;-;Deutsche Bank;Eupener Str. 2;Herne;44627;;51.539;7.25632
+1629;+;Hypovereinsbank;Graskeller 2;Hamburg;20457;;53.549099;9.987250
+
+1630;-;Postbank;Rittershauser Brücke 4;Wuppertal;42277;;51.2743;7.22308
+1631;-;Hypovereinsbank;Potsdamer Straße 105;Berlin;10785;;52.500167;13.363543
+1632;-;Commerzbank;Waldhofstr. 37;Mannheim;68169;;49.5004;8.47117
+1633;-;Shell Tankstelle;Lüneburger Str. 22;Amelinghausen;21385;;53.1306000;10.2182300
+1634;-;Deutsche Bank;Am Markt 3;Gilching;82205;;48.1086;11.2993
+1635;+;Postbank;Madlower Chaussee 4;Cottbus;03051;im Lausitz Park;51.715875;14.318512
+
+1636;+;Postbank;Karl-Liebknecht-Straße 138;Potsdam;14482;Mo-Fr 9-13, 14-18, Sa 9-12;52.391529;13.090898
+1637;-;Deutsche Bank;Schloßstr. 75;Stuttgart;70176;;48.7762;9.16234
+
+1638;-;Commerzbank;Warnitzer Str. 26;Berlin;13057;;52.5666;13.519
+1639;-;Hypovereinsbank;Roggenstr. 13;Meldorf;25704;;54.0896;9.07345
+1640;-;Deutsche Bank;Lützner Str.;Leipzig;04205;;51.3216;12.2838
+
+1641;-;Shell Tankstelle;Coswiger Landstr. 37;Lutherstadt Wittenberg;06886;;51.8769000;12.5466800
+1642;-;Postbank;Bahnhofstraße 40;Bad Rothenfelde;49214;nicht durchgehend geöffnet;52.109557;8.169244
+1643;-;Postbank;Herzog-Wilhelm-Str. 96;Bad Harzburg;38667;;51.8777;10.5604
+
+1644;-;Commerzbank;Markt 25;Lutherstadt Wittenberg;06886;;51.8664;12.6428
+
+1645;-;Commerzbank;Saseler Markt 2;Hamburg;22393;;53.654;10.1114
+
+1646;-;Hypovereinsbank;Rindermarkt 14;München;80331;;48.1363;11.5743
+
+1647;-;Commerzbank;Schneiderstr. 10;Kaiserslautern;67655;;49.4445;7.76924
+
+1648;-;Postbank;Hinter der Schießmauer 40;Dieburg;64807;;49.8959;8.83795
+
+1649;-;Postbank;Lange Str. 35-37;Barth;18356;;54.3671;12.7255
+1650;+;Postbank;Breite Str. 28;Bismark;39629;Postfiliale im Einzelhandel;52.661429;11.552375
+1651;+;Postbank;Unter der Schalksburg 3;Porta Westfalica;32457;;52.239721;8.919705
+1652;+;Postbank;Friedrich-List-Straße 5;Winnenden;71364;im OBI Markt, Mo-Sa 8-20 Uhr;48.872872;9.383336
+1653;-;Postbank;Ossietzkystr. 12;Würzburg-Heuchelhof;97084;;49.7315;9.9574
+1654;-;Hypovereinsbank;Rathausplatz 4;Würzburg;97084;;49.7645;9.94901
+1655;-;Postbank;Neurieder Str. 6;München;81475;;48.0871;11.4859
+1656;-;Shell Tankstelle;Kölner Str. 316;Kürten;51515;;51.0442800;7.2141000
+
+1657;-;Commerzbank;Friedrich-Ebert-Str. 67;Dinslaken;46535;;51.5626;6.73495
+
+1658;-;Postbank;Feringastraße 16;Unterföhring;85774;im Marktkauf, Mo-Fr 8-20, Sa 8-13;48.177762;11.636448
+1659;+;Postbank;Feringastraße 16;Unterföhring;85774;Postfiliale im Marktkauf, Mo-Fr 8-20, Sa 8-13;48.177762;11.636448
+1660;-;Hypovereinsbank;Prinzregentenstr. 145;München;81677;;48.1384;11.6173
+
+1661;-;Commerzbank;Markt 45-47;Aachen;52062;;50.7767;6.08386
+1662;-;Commerzbank;Kölner Landstr. 115;Düsseldorf;40591;;51.1919;6.81504
+
+1663;-;Hypovereinsbank;Am Markt 5;Kaltenkirchen;24568;;53.8381;9.96258
+1664;-;Postbank;Platz der Republik;Berlin;10557;;52.5186;13.3749
+1665;-;Commerzbank;Neusser Str. 500;Köln;50737;;50.9761;6.94984
+
+1666;-;Commerzbank;Friedrichstr. 130c;Berlin;10117;;52.5247;13.3874
+
+1667;-;Shell Tankstelle;Herrenhäuser Kirchweg 38;Hannover;30167;;52.3909100;9.7064300
+
+1668;+;Postbank;Ostmerheimer Str. 198;Köln;51109;im Kaufland,Mo-Sa 7-22 Uhr;50.942177;7.051257
+1669;-;Commerzbank;Obermarkt 27;Döbeln;04720;;51.122;13.1228
+1670;-;Postbank;Limmerstraße 15;Hannover;30451;;52.371963;9.710853
+1671;+;Commerzbank;Koppenstraße 95;Berlin;10243;;52.511903;13.433103
+1672;+;Postbank;Max-von-Eyth-Straße 1;Ismaning;85737;im Rewe,Mo-Sa 7-20 Uhr;48.233431;11.678941
+1673;-;Hypovereinsbank;Amsterdamstr. 4;Schweinfurt;97424;;50.0198;10.2171
+1674;-;Deutsche Bank;Bahnhofstr. 28;Wesseling;50389;;50.8242;6.98024
+1675;-;Commerzbank;Hollandweg 24;Teltow;14513;;52.401676;13.258897
+
+1676;-;Commerzbank;Alte Holstenstr. 72;Hamburg;21029;;53.4893;10.2261
+
+1677;-;Postbank;Mindener Straße 378;Osnabrück;49086;im Edeka, nicht durchgehend geöffnet;52.266778;8.134218
+
+1678;-;Commerzbank;Neue Str. 44;Ulm;89073;;48.3971;9.98805
+1679;-;Deutsche Bank;Pontwall 2;Aachen;52062;;50.7808;6.0761
+1680;+;Shell Tankstelle;Frohlinder Str. 29;Dortmund;44379;;51.524944;7.369268
+1681;+;Postbank;Rathausstraße 5;Berlin;10178;;52.519693;13.411598
+1682;-;Shell Tankstelle;Kaiser-Wilhelm Platz 16;Siegburg;53721;;50.7921000;7.2074700
+1683;-;Commerzbank;Oranienburger Str. 196;Berlin;13437;;52.595;13.333
+
+1684;-;Hypovereinsbank;Schleißheimer Str. 15A;Garching;85748;;48.2496;11.6475
+1685;-;Hypovereinsbank;Kochelseestr.+C524 14;München;81371;;48.1181;11.5524
+
+1686;-;Postbank;Schloßstr. 23;Grünwald;82031;;48.041;11.5247
+1687;-;Hypovereinsbank;Schloßstr. 23;Grünwald;82031;;48.041;11.5247
+1688;+;Postbank;Schloßstr. 23;Grünwald;82031;;48.041262;11.524888
+1689;+;Hypovereinsbank;Schloßstr. 23;Grünwald;82031;;48.041231;11.524839
+
+1690;-;Deutsche Bank;Am Sandbach 34;Ratingen;40878;;51.2954;6.82942
+1691;-;Commerzbank;Bahnhofstr. 13a;Unterföhring;85774;;48.1918;11.6444
+1692;-;Postbank;Feringastraße 16;Unterföhring;85774;Postfiliale im Marktkauf, Mo-Fr 8-20, Sa 8-13;48.177762;11.636448
+1693;-;Shell Tankstelle;Essenerstr. 345;Oberhausen;46047;;51.4815200;6.8944000
+
+1694;-;Postbank;Bergstraße 13;Lengerich;49525;Mo-Fr 8:30-12:00 und 14:00-17:30, Sa 9:00-12:00;52.190631;7.852973
+1695;+;Postbank;Bergstraße 13;Lengerich;49525;;52.190631;7.85297301
+
+1696;-;Hypovereinsbank;Dörpfeldstr 30;Berlin;12489;;52.4371;13.5455
+
+1697;-;Commerzbank;Domstr. 38;Würzburg;97070;;49.7934;9.931
+1698;+;Postbank;Meistersingerstraße 77;München;81927;;48.158457;11.640132
+
+1699;-;Hypovereinsbank;Schloßstr. 23/24;Wittenberg;06886;;51.8664;12.6406
+1700;-;Hypovereinsbank;Bahnhofstr. 7;Kempten;87435;;47.7202;10.3113
+1701;+;Hypovereinsbank;Bahnhofstr. 7;Kempten;87435;;47.722815;10.315655
+
+1702;-;Hypovereinsbank;Rosenheimer Str. 6;Brannenburg;83098;;47.735;12.1076
+
+1703;-;Commerzbank;Markt 5;Quedlinburg;06484;;51.7889;11.1413
+1704;-;Deutsche Bank;Stettiner Str. 5-7;Prenzlau;17291;;53.3173;13.8626
+1705;+;Deutsche Bank;Marktberg 12;Prenzlau;17291;;53.313889;13.858320
+
+1706;-;Postbank;Potsdamer Str. 136;Berlin;10783;;52.4986;13.3619
+
+1707;-;Postbank;Lange Straße 40-42;Greifswald;17489;;54.096146;13.375611
+
+1708;-;Shell Tankstelle;Lübecker Str. 46;Bargteheide;22941;;53.7363200;10.2625200
+1709;-;Commerzbank;Große Str. 41;Ahrensburg;22926;;53.6735;10.2394
+1710;+;Postbank;Potsdamer Platz;Berlin;10785;Filiale im 2. UG;52.508864;13.376304
+
+1711;-;Hypovereinsbank;Goethestr. 59;Ingolstadt;85055;;48.7726;11.4435
+
+1712;-;Postbank;Ottenser Hauptstr.;Hamburg;22765;;53.5521;9.92974
+1713;-;Deutsche Bank;Richard-Paulick-Str.;Halle (Saale);06124;;51.4758;11.9293
+
+1714;-;Commerzbank;Clayallee 356;Berlin;14169;;52.4354;13.2608
+
+1715;-;Postbank;Landgrabenpark 1;Schwedt/Oder;16303;im Oder-Center, Mo-Sa 9:30-20:00 Uhr;53.064641;14.272586
+1716;+;Postbank;Landgrabenpark 1;Schwedt/Oder;16303;im Oder-Center, Mo-Sa 6:45-20:00 Uhr;53.064641;14.272586
+
+1717;-;Postbank;Kolpingstraße 4;Glandorf;49219;Mo-Fr 8:00-12:30, 14:00-18:00, Sa 08:00-12:30;52.081021;8.001495
+
+1718;+;Postbank;Bahnhofsplatz 3;Sonthofen;87527;;47.512569;10.272797
+
+1719;-;Commerzbank;Breitenbachplatz 16;Berlin;14195;;52.4667;13.3073
+1720;-;Commerzbank;Breite Str. 25;Berlin;14199;;52.4754;13.2906
+
+1721;-;Berliner Bank;Frankfurter Allee 106;Berlin;10247;;52.5135;13.4741
+
+1722;-;Postbank;Saarlandstr. 53-67;Dortmund;44139;;51.5055;7.4678
+1723;+;Commerzbank;Unterhachinger Str. 10;München;81737;in der OMV-Tankstelle;48.102612;11.625253
+1724;-;Deutsche Bank;Seckenheimer Hauptstr. 72;Mannheim;68239;;49.4656;8.56495
+1725;-;Postbank;Talstr. 1-7;Schriesheim;69198;;49.4749;8.71973
+1726;+;Postbank;Talstr. 1;Schriesheim;69198;;49.475827;8.660899
+1727;+;Postbank;Turbinenstraße 3-5;Mannheim;68309;in der Abgabestelle für Großkunden;49.511110;8.497428
+
+1728;-;Commerzbank;Grindelhof 37;Hamburg;20146;;53.5686;9.98311
+1729;-;Deutsche Bank;Jungfernstieg 49;Hamburg;20354;;53.5548;9.98992
+1730;-;Commerzbank;Gänsemarkt 43;Hamburg;20354;;53.5556;9.98789
+1731;-;Deutsche Bank;Kölner Str. 295;Düsseldorf;40227;;51.2129;6.80643
+1732;-;Deutsche Bank;Pappelstraße 66-68;Bremen;28199;;53.068607;8.789959
+
+1733;-;Shell Tankstelle;Kaiserring 37;Wesel;46483;;51.6606600;6.6242900
+
+1734;-;Deutsche Bank;Zülpicher Str. 321;Köln;50937;;50.9231;6.92419
+
+1735;+;Postbank;Nordhäuser Str. 73t;Erfurt;99091;im Thüringen-Park;51.009317;10.991979
+1736;-;Deutsche Bank;Alter Markt 43-46;Mönchengladbach;41061;;51.195;6.43129
+
+1737;-;Bankhaus Neelmeyer;Schwachhauser Heerstr. 189-193;Bremen;28211;;53.0851;8.84855
+1738;-;Bankhaus Neelmeyer;Am Alten Hafen 118;Bremerhaven;27568;;53.5449;8.57628
+1739;-;Bankhaus Neelmeyer;Am Markt 14-16;Bremen;28195;;53.0756;8.80692
+
+1740;-;Deutsche Bank;Gudesstr. 1;Uelzen;29525;;52.965;10.5607
+
+1741;-;Deutsche Bank;Deichstr. 2;Cuxhaven;27472;;53.8627;8.69828
+
+1742;-;Deutsche Bank;Bahnhofstr. 3;Geislingen;73312;;48.6162;9.84316
+1743;-;Postbank;Bahnhofstr. 37;Geislingen-Steige;73301;;48.6192;9.84078
+1744;-;Deutsche Bank;Zingster Str. 1;Berlin;13051;;52.5637;13.504
+1745;-;Shell Tankstelle;Waldhofstr. 62;Mannheim-Neckarstadt;68169;;49.50281;8.47054
+1746;-;Shell Tankstelle;Hans Böckler Str. 73;Bremen;28217;;53.0877100;8.7875400
+1747;-;Commerzbank;Rothenbaumchaussee 29;Hamburg;20148;;53.5662;9.98848
+
+1748;-;Hypovereinsbank;Ansbacher Str. 8;Uffenheim;97215;;49.5435;10.2313
+
+1749;-;Deutsche Bank;Bahnstr. 1;Traben-Trarbach;56841;;49.9518;7.11433
+
+1750;-;Commerzbank;Münchener Str. 66;Rosenheim;83022;;47.8527;12.1188
+
+1751;-;Shell Tankstelle;Rosenheimer Str. 124;München;81669;;48.1222700;11.6037300
+
+1752;-;Hypovereinsbank;Friedrichstr. 60;Berlin Mitte;10117;;52.5106;13.3901
+1753;+;Deutsche Bank;Friedrichstraße 44;Berlin;10969;;52.507155;13.390648
+
+1754;-;Hypovereinsbank;Marienstr. 3-5;Neu-Ulm;89231;;48.3947;9.99774
+1755;-;Deutsche Bank;Schloßgasse 20;Jena;07743;;50.9289;11.5893
+1756;+;Deutsche Bank;Leutragraben 1;Jena;07743;;50.928831;11.584156
+1757;-;Deutsche Bank;Rathausgasse 2/4;Jena;07743;;50.928309;11.586915
+1758;-;Deutsche Bank;Lübecker Str. 131;Hamburg;22087;;53.5632;10.0334
+1759;-;Hypovereinsbank;Reismühle 1;Hamburg;22087;;53.5621;10.0327
+1760;-;Commerzbank;Marktplatz 6;Lauf;91207;;49.5116;11.2801
+1761;+;Postbank;Untere Hauptstraße 26;Burkhardtsdorf;09235;Postagentur Elke Walther;50.733123;12.928150
+1762;-;Postbank;Am Bahnhof 4;Gilching;82205;;48.1157;11.264
+1763;+;Postbank;Am Bahnhof 4;Gilching;82205;im Edeka;48.107189;11.301057
+1764;-;Commerzbank;Franziskus-Festing-Str. 1;Pullach;82049;;48.0564;11.5142
+1765;-;Deutsche Bank;Johannesstr. 37;Dillingen (Saar);66763;;49.3524;6.72952
+1766;-;Deutsche Bank;Schützenplatz 18;Salzgitter;38259;;52.0493;10.3744
+1767;-;Deutsche Bank;Heidelberger Landstr. 236;Darmstadt;64297;;49.8162;8.6444
+
+1768;-;Hypovereinsbank;Westerholmer Str. 1;Steinbergkirche;24972;;54.7542;9.76071
+
+1769;-;Commerzbank;Rathausstr. 47;Wittenberge;19322;;52.9966;11.7571
+1770;-;Deutsche Bank;Bäckerstr. 32;Wittenberge;19322;;52.9956;11.7547
+1771;-;Postbank;Züricher Str. 11;Frankfurt;60437;;50.1946;8.65446
+1772;-;Deutsche Bank;Tituscorso 2-4;Frankfurt am Main;60439;;50.1586;8.6336
+1773;-;Commerzbank;Eschersheimer Landstr. 329;Frankfurt;60320;;50.1415;8.66892
+1774;-;Commerzbank;Eschersheimer Landstr. 55;Frankfurt;60322;;50.1218;8.6755
+
+1775;-;Commerzbank;Unter Sachsenhausen 5-7;Köln;50667;;50.9424;6.95322
+1776;+;Commerzbank;Komödienstraße 26;Köln;50667;;50.941623;6.953210
+
+1777;-;Shell Tankstelle;Am Achernsee;Achern;77855;;48.6411000;8.0373800
+1778;-;Commerzbank;Schönhauser Allee 143;Berlin;10435;;52.5416;13.4118
+1779;-;Berliner Bank;Schönhauser Allee 144;Berlin;10435;;52.5413;13.4117
+
+1780;-;Deutsche Bank;Havelpassage 14;Hennigsdorf;16761;;52.637;13.2005
+
+1781;-;Postbank;Niemeyerst. 1;Hannover;30449;;52.3648;9.71532
+1782;-;Deutsche Bank;Falkenstr. 3;Hannover;30449;;52.3674;9.71922
+
+1783;-;Postbank;Alt-Kaulsdorf 64;Berlin;12621;;52.5048;13.5901
+
+1784;-;Deutsche Bank;Wettersteinplatz 1;München;81547;;48.1096;11.5754
+
+1785;+;Postbank;Kurfürstendamm 195;Berlin;10707;Ecke Bleibtreustraße;52.501082;13.319167
+
+1786;-;Deutsche Bank;Grindelallee 153;Hamburg;20146;;53.5705;9.97857
+1787;-;Hypovereinsbank;Grindelallee 159;Hamburg;20146;;53.5708;9.9782
+
+1788;-;Deutsche Bank;Wasserburger Landstr. 235;München;81827;;48.1123;11.7056
+
+1789;-;Commerzbank;Oskar-Kühlen-Str. 2-4;Mönchengladbach;41061;;51.1937;6.44091
