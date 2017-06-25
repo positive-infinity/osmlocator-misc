@@ -5,3 +5,16 @@
 1720;-;SÜDWESTBANK AG;In den Käppeleswiesen 7;Sigmaringen;72488;;48.08729;9.20535
 1721;+;SÜDWESTBANK;In den Käppeleswiesen 7;Sigmaringen;72488;;48.08729;9.20535
 1722;-;BBBank;Luisenstr.41;Berlin;10117;;52.52235;13.37990
+
+1723;-;Norisbank;Rheinstr. 28;Berlin;12161;;52.46740;13.33080
+1724;-;Norisbank;Schönhauser Allee 126A;Berlin;10437;;52.54688;13.41299
+1725;-;Norisbank;Landsberger Allee 277;Berlin;13055;;52.53497;13.49175
+1726;-;Norisbank;Kurfürstendamm 74 A;Berlin;10709;;52.49959;13.30437
+1727;-;Norisbank;Mühlenstraße 1;Berlin;13187;;52.56929;13.40365
+1728;-;Norisbank;Wilmersdorfer Str. 50-51;Berlin;10627;;52.50928;13.30593
+1729;-;Norisbank;Karl-Marx-Str. 37;Berlin;12043;;52.48404;13.42960
+1730;-;Norisbank;Warschauer Straße 72;Berlin;10243;;52.51213;13.45265
+1731;-;Norisbank;Quedlinburger Straße 21;Berlin;12627;;52.53943;13.60820
+1732;-;Norisbank;Hellersdorfer Straße 79 81;Berlin;12619;;52.52329;13.58699
+1733;-;Norisbank;Berliner Allee 110;Berlin;13088;;52.55019;13.45928
+1734;-;Norisbank;Bismarckstr. 3 - 4;Berlin;10625;;52.51258;13.31984
