@@ -18,3 +18,5 @@
 1732;-;Norisbank;Hellersdorfer Straße 79 81;Berlin;12619;;52.52329;13.58699
 1733;-;Norisbank;Berliner Allee 110;Berlin;13088;;52.55019;13.45928
 1734;-;Norisbank;Bismarckstr. 3 - 4;Berlin;10625;;52.51258;13.31984
+
+1735;-;SEB;Leipziger Str. 61;Frankfurt;60487;;50.00100;8.26955
