@@ -20,3 +20,5 @@
 1734;-;Norisbank;Bismarckstr. 3 - 4;Berlin;10625;;52.51258;13.31984
 
 1735;-;SEB;Leipziger Str. 61;Frankfurt;60487;;50.00100;8.26955
+
+1736;-;SEB;Lindenplatz 1;Gießen;35390;;51.66425;7.12324
