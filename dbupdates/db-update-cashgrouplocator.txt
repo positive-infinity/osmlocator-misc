@@ -1050,3 +1050,5 @@
 1827;-;Postbank;Zum Kirchsteigfeld 2;Potsdam;14480;;52.374;13.127
 1828;-;Commerzbank;Kurt-Schumacher-Str. 26-28;Hannover;30159;;52.3768;9.73423
 1829;+;Commerzbank;Am Klagesmarkt 36b;Hannover;30159;;52.379205;9.729064
+
+1830;-;Deutsche Bank;Holstenstr. 18;Kaltenkirchen;24568;;53.8372;9.96217
