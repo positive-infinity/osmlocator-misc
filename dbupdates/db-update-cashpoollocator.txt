@@ -186,4 +186,4 @@
 1895;-;Santander;Bürkle-de-la-Camp Platz 1;Bochum;44789;;51.46932;7.21282
 1896;+;Santander;Bürkle-de-la-Camp Platz 1;Bochum;44789;Im Bergmannsheil, Haus 3;51.469101;7.211136
 1897;-;Santander;Bürkle-de-la-Camp Platz 1;Bochum;44789;Im Bergmannsheil, Haus 3;51.469101;7.211136
-1898;-;Santander;Bürkle-de-la-Camp Platz 1;Bochum;44789;im Bergmannsheil, Haus 3;51.469101;7.211136
+1898;+;Santander;Bürkle-de-la-Camp Platz 1;Bochum;44789;im Bergmannsheil, Haus 3;51.469101;7.211136
