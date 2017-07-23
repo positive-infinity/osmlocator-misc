@@ -22,3 +22,163 @@
 1735;-;SEB;Leipziger Str. 61;Frankfurt;60487;;50.00100;8.26955
 
 1736;-;SEB;Lindenplatz 1;Gießen;35390;;51.66425;7.12324
+
+1737;-;SEB;Marktstrasse 57;Wilhelmshaven;26382;;50.05139;8.69538
+1738;-;SEB;Müllerstr. 32a;Berlin;13353;;50.06228;10.18309
+1739;-;SEB;Alleestr. 33;Remscheid;42853;;50.97195;11.02471
+1740;-;SEB;Marktstr. 31;Mönchengladbach;41236;;51.96359;7.62821
+1741;-;SEB;Friedrich-Ebert-Str. 97;Potsdam;14467;;49.40830;8.69249
+1742;-;SEB;Friedrich-AlfreStr. 53 a;Duisburg;47226;;50.03155;10.50700
+1743;-;SEB;Kollegienwall 28 a/b;Osnabrück;49074;;49.99447;9.57625
+1744;-;SEB;Weststr. 26;Hamm;59065;;50.07734;8.24240
+1745;-;SEB;Simeonstiftplatz 1;Trier;54290;;50.06118;10.23012
+1746;-;SEB;Rathausallee 72-74;Norderstedt;22846;;48.89088;8.69505
+1747;-;SEB;Karlstr. 22 24;Karlsruhe;76133;;48.04807;10.87010
+1748;-;SEB;Eulenbergstr. 5-7;Köln;51065;;53.61818;9.95083
+1749;-;SEB;Lindenallee 6-8;Essen;45127;;49.51024;8.53994
+1750;-;SEB;Moislinger Allee 1-3;Lübeck;23558;;54.07250;9.98128
+1751;-;SEB;Nidacorso 6;Frankfurt;60439;;50.10401;8.77110
+1752;-;SEB;Hugo-Eckener-Ring/FAC;Frankfurt;60549;;47.66116;9.17648
+1753;-;SEB;Marktstr. 10-14;Rüsselsheim;65428;;48.40068;11.74398
+1754;-;SEB;Blücherstr. 1a;Düsseldorf;40477;;51.53454;9.93395
+1755;-;SEB;Bayrische Str. 87;Dortmund;44339;;50.10390;8.66657
+1756;-;SEB;Theresienstr. 8;Ingolstadt;85049;;50.60704;10.68845
+1757;-;SEB;Neuer Platz;Geretsried;82538;;51.92305;7.36542
+1758;-;SEB;Rathausplatz 23;Lüdenscheid;58507;;48.89237;8.70019
+1759;-;SEB;Am Oelpfad 1-3;Dortmund;44263;;51.49480;7.00743
+1760;-;SEB;Hospitalstr. 22-24;Stuttgart;70174;;50.93777;7.00172
+1761;-;SEB;Straße d. Republik 17-19;Wiesbaden;65203;;48.70850;9.00532
+1762;-;SEB;Aachener Str. 541-543;Köln;50933;;49.28303;8.12766
+1763;-;SEB;KonraAdenauer-Platz 9;Düsseldorf;40210;;53.86455;10.68514
+1764;-;SEB;Hardtgasse 2;Worms;67547;;49.44252;7.77080
+1765;-;SEB;Hauptmarkt 8;Zwickau;08056;;50.71771;12.49592
+1766;-;SEB;Ben-Gurion Ring 160;Frankfurt;60437;;50.09860;8.68766
+1767;-;SEB;Rheinstr. 16a;Darmstadt;64283;;51.61229;7.19568
+1768;-;SEB;Präsidentenstr. 31;Bergkamen;59192;;48.88544;8.66205
+1769;-;SEB;Löhberg 45;Mülheim;45468;;52.28993;8.91716
+1770;-;SEB;Kronenstr. 38;Villingen-Schwenningen;78054;;53.72956;11.40560
+1771;-;SEB;Stumpfebiel 7-9;Göttingen;37073;;51.17128;7.08546
+1772;-;SEB;Georgstr. 15;Hannover;30159;;51.52404;7.16324
+1773;-;SEB;Rohrbacher Str. 3;Heidelberg;69115;;54.08895;12.13850
+1774;-;SEB;Schadowstr. 70;Düsseldorf;40212;;49.99442;8.41214
+1775;-;SEB;Tauentzienstr. 6;Berlin;10789;;48.77721;9.17244
+1776;-;SEB;Bonner Str. 7;Köln;50677;;53.89234;11.46554
+1777;-;SEB;Eisenbahnstr. 12;Kaiserslautern;67655;;53.60345;10.04051
+1778;-;SEB;Valentinskamp 89-90;Hamburg;20354;;49.75954;6.64239
+1779;-;SEB;Berliner Str. 22;Herford;32052;;49.90161;10.34813
+1780;-;SEB;Bahnhofstr. 27;Wiesbaden;65185;;50.15673;8.63396
+1781;-;SEB;Beethovenstr. 6;Witten;58452;;50.11350;8.67742
+1782;-;SEB;Main-Taunus-Zentrum;Sulzbach;65843;;51.42863;6.88056
+1783;-;SEB;Wilhelm-Leuschner-Str. 69-77;Frankfurt;60329;;50.04449;8.24123
+1784;-;SEB;Bahnhofstr. 23;Kempten;87435;;50.22499;8.62076
+1785;-;SEB;Am Stadtgarten 1a;Castrop-Rauxel;44575;;51.45311;7.01121
+1786;-;SEB;Klingenberg 6;Lübeck;23552;;51.03115;6.97984
+1787;-;SEB;Damm 2;Oldenburg;26135;;53.57685;9.94866
+1788;-;SEB;Königsplatz 59;Kassel;34117;;47.61189;7.66029
+1789;-;SEB;Rathenaustr. 3;Hannover;30159;;51.29651;6.84822
+1790;-;SEB;Bahnhofstr. 64;Herne;44623;;50.18610;8.65847
+1791;-;SEB;Bismarckstr. 112;Ludwigshafen;67059;;48.70234;9.65356
+1792;-;SEB;Sebastianusstr. 6;Neuss;41460;;50.04278;10.22724
+1793;-;SEB;Luisenstr. 1;München;80333;;51.16758;6.44436
+1794;-;SEB;Am Michaelshof 4b;Bonn;53177;;49.59444;11.00476
+1795;-;SEB;Wilhelmstraße 31-33;Reutlingen;72764;;50.05906;8.80494
+1796;-;SEB;Breiter Weg 232 A;Magdeburg;39104;;51.90832;8.38041
+1797;-;SEB;Bahnhofstr. 36-38;Gelsenkirchen;45879;;50.12307;8.64410
+1798;-;SEB;Lohtorstr. 27;Heilbronn;74072;;51.45019;6.62901
+1799;-;SEB;Osterstr. 140;Hamburg;20255;;48.46979;7.94289
+1800;-;SEB;Schloßkirchplatz 2;Cottbus;03046;;50.72231;10.44226
+1801;-;SEB;Am Teich 18;Neumünster;24534;;51.47900;7.13589
+1802;-;SEB;Fischmarkt 9;Konstanz;78462;;50.12163;8.93056
+1803;-;SEB;Frankfurter Str. 99-103;Neu-Isenburg;63263;;52.37543;9.73437
+1804;-;SEB;Neusser Str. 82;Düsseldorf;40219;;47.84550;10.41943
+1805;-;SEB;Langendorfer Str. 158;Neuwied;56564;;51.55484;7.47629
+1806;-;SEB;Bahnhofstr. 18;Wetzlar;35576;;50.03253;8.55520
+1807;-;SEB;Bergstr. 52;Marl;45770;;47.99849;7.85024
+1808;-;SEB;KonraAdenauer-Str. 18;Salzgitter;38226;;53.86440;10.72180
+1809;-;SEB;Elisabethstr. 66a;Kiel;24143;;53.55370;10.02398
+1810;-;SEB;Haidplatz 8;Regensburg;93047;;48.76409;11.42366
+1811;-;SEB;Stadthausstr. 9;Mainz;55116;;53.62893;11.41522
+1812;-;SEB;Hauptstr. 92;Leverkusen;51373;;54.31146;10.14622
+1813;-;SEB;Albertusstr. 17;Mönchengladbach;41061;;53.36905;7.20189
+1814;-;SEB;Berliner Allee 68;Berlin;13088;;47.64962;9.48035
+1815;-;SEB;Am Ziegenmarkt 3;Rostock;18055;;48.73879;9.30418
+1816;-;SEB;Marktstr. 11;Göppingen;73033;;48.40462;11.75352
+1817;-;SEB;Marktstr. 45;Albstadt;72458;;49.96534;7.88845
+1818;-;SEB;Holstenstr. 104;Kiel;24103;;50.92051;6.95980
+1819;-;SEB;Düsseldorfer Str. 29;Duisburg;47051;;53.55098;10.01283
+1820;-;SEB;Schloßmühlendamm 8-10;Hamburg;21073;;50.05026;10.30376
+1821;-;SEB;Schlösserstr. 20-22;Erfurt;99084;;52.15272;10.33304
+1822;-;SEB;Rathausstr. 15;Hildesheim;31134;;52.40082;13.05772
+1823;-;SEB;Besenbinderhof 58;Hamburg;20097;;50.02078;10.28202
+1824;-;SEB;RicharStrauss-Str. 56;München;81677;;51.18044;7.19091
+1825;-;SEB;Rathausplatz 5;Sindelfingen;71063;;49.20258;7.60452
+1826;-;SEB;Marktstr. 3 / Am Freiheitsplatz;Hanau;63450;;48.38832;11.75754
+1827;-;SEB;Betenstr. 19;Dortmund;44137;;48.70443;9.65127
+1828;-;SEB;Hauptstr. 162;Herne;44652;;49.00745;8.39445
+1829;-;SEB;Friedrichring 34a;Freiburg;79098;;49.14312;9.21923
+1830;-;SEB;Exerzierplatzstr. 5;Pirmasens;66953;;51.68097;7.81660
+1831;-;SEB;Neusser Str. 260;Köln;50733;;49.44926;11.08709
+1832;-;SEB;Frankfurter. Str. 32/Ecke Aliceplatz;Offenbach;63065;;52.39516;9.73576
+1833;-;SEB;Hauptstr. 44;Solingen;42651;;51.30497;9.52784
+1834;-;SEB;Leipziger Str. 102;Halle;06108;;52.12142;11.62866
+1835;-;SEB;Voedestr. 40/Am August-Bebel-Platz;Bochum;44866;;48.06342;8.53342
+1836;-;SEB;Karl-Marx-Str. 4/Kaiserstr. 44;Saarbrücken;66111;;49.53869;7.39975
+1837;-;SEB;Dr. -Kurt-Schumacher-Str. 16;Nürnberg;90402;;53.55565;9.98655
+1838;-;SEB;Düsseldorfer Str. 22;Ratingen;40878;;53.70758;9.98982
+1839;-;SEB;Altlöhrtor 13+15;Koblenz;56068;;50.97674;11.03239
+1840;-;SEB;Vogelheimer Str. 7;Essen;45326;;48.46713;11.93513
+1841;-;SEB;Markt 12;Brühl;50321;;48.14142;11.56117
+1842;-;SEB;Karlstr. 37;Friedrichshafen;88045;;51.10847;6.94930
+1843;-;SEB;Hinter dem Rathaus 25;Wismar;23966;;50.96396;6.95385
+1844;-;SEB;Königswall 16-18;Recklinghausen;45657;;53.86557;10.67460
+1845;-;SEB;Am Markt 7;Schwerin;19055;;49.58949;11.01208
+1846;-;SEB;Vahrenwalder Str. 106-108;Hannover;30165;;50.12970;8.53020
+1847;-;SEB;Karl-Marx-Str. 109-113;Berlin;12043;;50.23257;11.32905
+1848;-;SEB;Tal 15;München;80331;;49.31726;8.43130
+1849;-;SEB;Möllner Landstr. 3a;Hamburg;22111;;51.19899;6.68962
+1850;-;SEB;Berliner Freiheit 36;Bonn;53111;;51.50840;7.09789
+1851;-;SEB;St. -Georg-Platz 14;Bocholt;46399;;50.04557;10.23106
+1852;-;SEB;Dittrichring 18-20a;Leipzig;04109;;53.46169;9.98190
+1853;-;SEB;Havensteinstr. 27-29;Oberhausen;46045;;54.31934;10.13312
+1854;-;SEB;Marktplatz 12;Lörrach;79539;;48.14538;11.61572
+1855;-;SEB;Pliensaustr. 5;Esslingen;73728;;53.13642;8.21708
+1856;-;SEB;Kalker Hauptstr. 135;Köln;51103;;51.33426;6.56851
+1857;-;SEB;GerharRohlfs-Str. 3-6;Bremen;28757;;51.54125;7.22184
+1858;-;SEB;Schloßstr. 33;Berlin;12163;;50.03881;10.19484
+1859;-;SEB;Bäckerstr. 9;Minden;32423;;53.95141;10.31099
+1860;-;SEB;Heyestr. 130;Düsseldorf;40625;;50.35856;7.59410
+1861;-;SEB;Bürgermeister-Smidt-Str. 29-31;Bremerhaven;27568;;51.35745;7.47270
+1862;-;SEB;Von-der-Mark-Str. 94;Duisburg;47137;;50.42784;7.46065
+1863;-;SEB;Roggenmarkt 14-16;Münster;48143;;48.49357;9.21034
+1864;-;SEB;Schenkelstr. 11;Düren;52349;;49.23516;6.98820
+1865;-;SEB;Laurenzstr. 2;Berlin;12555;;51.61160;7.52380
+1866;-;SEB;Neustr. 70;Dinslaken;46535;;51.47085;6.85519
+1867;-;SEB;Huestr. 30;Bochum;44787;;50.96167;7.00585
+1868;-;SEB;Kaufhof 1;Lübeck;23566;;51.34128;12.37215
+1869;-;SEB;Hauptstr. 32;Düsseldorf;40597;;51.31626;9.49753
+1870;-;SEB;Porschestr. 35a;Wolfsburg;38440;;52.27157;8.05530
+1871;-;SEB;Am Hackenbruch 19;Düsseldorf;40231;;50.97423;11.03498
+1872;-;SEB;Freiberger Ring 12/EKZ;Mannheim;68309;;52.37276;9.74184
+1873;-;SEB;Carl-Schurz-Str. 28;Berlin;13597;;51.48195;11.97183
+1874;-;SEB;Hauptstr. 69;Offenburg;77652;;47.72276;10.31580
+1875;-;SEB;Fuhlsbüttler Str. 416;Hamburg;22309;;52.11758;8.67513
+1876;-;SEB;Wall 28;Wuppertal;42103;;50.56286;8.50294
+1877;-;SEB;Ferdinandplatz 1-2;Dresden;01069;;50.11552;9.89152
+1878;-;SEB;Kleine Grottenau 1;Augsburg;86150;;51.33940;12.37998
+1879;-;SEB;Elberfelder Str. 12;Hagen;58095;;53.53998;10.10344
+1880;-;SEB;Hohe Str. 117-119;Köln;50667;;50.93907;6.95633
+1881;-;SEB;Rheinstr. 40-42;Krefeld;47799;;49.01983;12.09361
+1882;-;SEB;Hildeboldplatz 2-18;Köln;50672;;50.93714;6.89742
+1883;-;SEB;Steinweg 5;Frankfurt;60313;;50.87639;8.01873
+1884;-;SEB;Hindenburgstr. 6;Siegen;57072;;50.94174;6.94148
+1885;-;SEB;Lange Str. 76;Lünen;44532;;49.48400;8.44458
+1886;-;SEB;Friedrichstr. 171;Berlin;10117;;50.68310;8.30319
+1887;-;SEB;Abdenastr. 4;Emden;26721;;49.97190;10.66661
+1888;-;SEB;Berliner Str. 61;Gütersloh;33330;;50.58749;8.67497
+1889;-;SEB;Hauptstr. 123;Langenfeld;40764;;48.99128;8.37574
+1890;-;SEB;Berliner Freiheit 6;Bremen;28327;;47.85750;11.47791
+1891;-;SEB;Neue Grosse Bergstr. 15;Hamburg;22767;;51.21685;7.62808
+1892;-;SEB;Clayallee 342;Berlin;14169;;53.55152;9.93910
+1893;-;SEB;Haagstr. 1-3;Moers;47441;;52.15248;9.95338
+
+1894;-;Bankhaus Max Flessa;Kissinger Str. 84;Hammelburg;97762;;51.47977;7.21847
