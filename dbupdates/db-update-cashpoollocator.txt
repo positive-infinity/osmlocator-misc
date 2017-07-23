@@ -182,3 +182,6 @@
 1893;-;SEB;Haagstr. 1-3;Moers;47441;;52.15248;9.95338
 
 1894;-;Bankhaus Max Flessa;Kissinger Str. 84;Hammelburg;97762;;51.47977;7.21847
+
+1895;-;Santander;Bürkle-de-la-Camp Platz 1;Bochum;44789;;51.46932;7.21282
+1896;+;Santander;Bürkle-de-la-Camp Platz 1;Bochum;44789;Im Bergmannsheil, Haus 3;51.469101;7.211136
