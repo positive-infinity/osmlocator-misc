@@ -1054,3 +1054,5 @@
 1830;-;Deutsche Bank;Holstenstr. 18;Kaltenkirchen;24568;;53.8372;9.96217
 
 1831;-;Berliner Bank;Reichsstr. 94;Berlin;14052;;52.5132;13.2653
+
+1832;-;Postbank;Seestraße 1;Seebad Ahlbeck;17419;Postfiliale, u.U. nicht durchgängig geöffnet;53.939952;14.186644
