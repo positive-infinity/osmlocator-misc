@@ -1056,3 +1056,5 @@
 1831;-;Berliner Bank;Reichsstr. 94;Berlin;14052;;52.5132;13.2653
 
 1832;-;Postbank;Seestraße 1;Seebad Ahlbeck;17419;Postfiliale, u.U. nicht durchgängig geöffnet;53.939952;14.186644
+
+1833;-;Deutsche Bank;Elbeallee 60;Bielefeld;33689;;51.947;8.58773
