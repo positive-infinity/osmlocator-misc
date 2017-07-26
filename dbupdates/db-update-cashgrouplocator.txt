@@ -1061,3 +1061,6 @@
 
 1834;-;Commerzbank;Sennestadtring 1;Bielefeld;33689;;51.9517;8.59917
 1835;+;Commerzbank;Sennestadtring 1;Bielefeld;33689;;51.945517;8.582075
+
+1836;-;Deutsche Bank;Seckenheimer Str. 48;Mannheim;68165;;49.4799;8.48041
+1837;-;Hypovereinsbank;Am Markt 5;Cadenberge;21781;;53.7718;9.05845
