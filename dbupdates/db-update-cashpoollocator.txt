@@ -187,3 +187,49 @@
 1896;+;Santander;Bürkle-de-la-Camp Platz 1;Bochum;44789;Im Bergmannsheil, Haus 3;51.469101;7.211136
 1897;-;Santander;Bürkle-de-la-Camp Platz 1;Bochum;44789;Im Bergmannsheil, Haus 3;51.469101;7.211136
 1898;+;Santander;Bürkle-de-la-Camp Platz 1;Bochum;44789;im Bergmannsheil, Haus 3;51.469101;7.211136
+
+1899;-;Allbank;Ungererstr. 169;München;80805;;48.17738;11.60155
+1900;-;Allbank;Leopoldstr. 153;München;80804;;48.17114;11.58575
+1901;-;Allbank;Alpenveilchenstr. 58;München;80689;;48.12916;11.48950
+1902;-;Allbank;Dr. -Ruer-Platz 4;Bochum;44787;;51.48016;7.21836
+1903;-;Allbank;In den Blumentriften 21;Salzgitter;38226;;52.15425;10.32991
+1904;-;Allbank;Grapengießer Str. 45;Lüneburg;21335;;53.24738;10.40641
+1905;-;Allbank;Knochenhauerstr. 18/19;Bremen;28195;;53.07867;8.80703
+1906;-;Allbank;Pickelstr. 2;München;80637;;48.16899;11.53434
+1907;-;Allbank;Börsenstr. 2-4;Frankfurt;60313;;50.11392;8.67646
+1908;-;Allbank;Marktplatz 8;Offenbach;63065;;50.10487;8.76449
+1909;-;Allbank;Parkstr. 19;Unterhaching;82008;;48.07805;11.60127
+1910;-;Allbank;Korbinian-Beer-Str. 17;München;80997;;48.18342;11.47845
+1911;-;Allbank;Sonnenstr. 27;München;80331;;48.13446;11.56613
+1912;-;Allbank;Lindwurmstr. 199;München;80337;;48.12246;11.54496
+1913;-;Allbank;Hansering 4;Halle;06108;;51.48085;11.97576
+1914;-;Allbank;Höninger Weg 100;Köln;50969;;50.91673;6.94153
+1915;-;Allbank;Zum Bahnhof 14;Schwerin;19053;;53.63375;11.40677
+1916;-;Allbank;Hauptstr. 13;Gelsenkirchen;45879;;51.51169;7.09619
+1917;-;Allbank;Balanstr. 99;München;81539;;48.10930;11.60388
+1918;-;Allbank;Gothaer Platz 2;Göttingen;37083;;51.52445;9.94903
+1919;-;Allbank;Grafenstr. 20;Darmstadt;64283;;49.87150;8.64936
+1920;-;Allbank;Wall 31;Wuppertal;42103;;51.25617;7.14643
+1921;-;Allbank;Echternplatz 13;Peine;31224;;52.32255;10.22731
+1922;-;Allbank;Schandauer Straße 43;Dresden;01277;;51.04143;13.80007
+1923;-;Allbank;Ständeplatz 18;Kassel;34117;;51.31439;9.48939
+1924;-;Allbank;Weender Str. 80-82;Göttingen;37073;;51.53625;9.93471
+1925;-;Allbank;Ritterstr. 12;Hameln;31785;;52.10549;9.35615
+1926;-;Allbank;Schüttingstraße 9;Oldenburg;26122;;53.14041;8.21427
+1927;-;Allbank;Ernst-Reuter-Allee 26;Magdeburg;39104;;52.13118;11.63290
+1928;-;Allbank;Große Straße 2;Lingen;49808;;52.52263;7.31625
+1929;-;Allbank;Mauernstraße 41;Celle;29221;;52.62370;10.08372
+1930;-;Allbank;Laasener Str. 1;Gera;07545;;50.87992;12.08592
+1931;-;Allbank;Marktstraße 68;Wilhelmshaven;26382;;53.52007;8.11232
+1932;-;Allbank;Lortzingstr. 3;Osnabrück;49074;;52.27649;8.04259
+1933;-;Allbank;Berliner Str. 90;Berlin;13507;;52.58752;13.28591
+1934;-;Allbank;Löhberg 80;Mülheim;45468;;51.42956;6.87954
+1935;-;Allbank;Müllerstraße 145;Berlin;13353;;52.54790;13.35627
+1936;-;Allbank;Westernstr. 2;Wernigerode;38855;;51.83238;10.78180
+1937;-;Allbank;Lindenstr. 3;Helmstedt;38350;;52.22564;11.01039
+1938;-;Allbank;Prinzenallee 89-90;Berlin;13357;;52.55255;13.38175
+1939;-;Allbank;Osterstr. 1;Hannover;30159;;52.37363;9.73470
+1940;-;Allbank;Senftenberger Str. 1;Berlin;12629;;52.53840;13.60028
+1941;-;Allbank;Wilmersdorfer Str. 66 a;Berlin;10627;;52.50572;13.30695
+1942;-;Allbank;Osterstr. 12 a;Hildesheim;31134;;52.15424;9.95500
+1943;-;Allbank;Jahnallee 4;Leipzig;04109;;51.34422;12.36903
