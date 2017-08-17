@@ -233,3 +233,6 @@
 1941;-;Allbank;Wilmersdorfer Str. 66 a;Berlin;10627;;52.50572;13.30695
 1942;-;Allbank;Osterstr. 12 a;Hildesheim;31134;;52.15424;9.95500
 1943;-;Allbank;Jahnallee 4;Leipzig;04109;;51.34422;12.36903
+
+1944;-;Targobank;Kaiserstr. 24;Wuppertal;42329;;51.23182;7.07189
+
