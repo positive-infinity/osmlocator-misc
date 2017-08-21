@@ -1098,3 +1098,8 @@
 1861;-;Postbank;Überseering 17;Hamburg;22297;;53.6032;10.0246
 1862;-;Postbank;König-Wilhelm-Str. 35;Laupheim;88471;;48.2325;9.87899
 1863;-;Postbank;Am Drosselberg 47;Erfurt;99097;;50.9486;11.078
+
+1864;-;Deutsche Bank;Wilhelmstr. 167-168;Berlin;13595;;52.529;13.1958
+1865;-;Deutsche Bank;Markt 5;Berlin;13597;;52.537;13.2053
+1866;-;Commerzbank;Moritzstr. 9;Berlin;13597;;52.5381;13.2021
+1867;+;Commerzbank;Moritzstr. 9;Berlin;13597;;52.538313;13.201847
