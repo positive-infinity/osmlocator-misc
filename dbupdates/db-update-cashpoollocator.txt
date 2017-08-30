@@ -236,3 +236,5 @@
 
 1944;-;Targobank;Kaiserstr. 24;Wuppertal;42329;;51.23182;7.07189
 
+1945;-;Gabler-Saliter Bankgeschäft;Marktplatz 10;Obergünzburg;87634;;47.84638;10.41730
+
