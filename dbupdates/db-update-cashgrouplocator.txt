@@ -1103,3 +1103,12 @@
 1865;-;Deutsche Bank;Markt 5;Berlin;13597;;52.537;13.2053
 1866;-;Commerzbank;Moritzstr. 9;Berlin;13597;;52.5381;13.2021
 1867;+;Commerzbank;Moritzstr. 9;Berlin;13597;;52.538313;13.201847
+
+1868;-;Commerzbank;Brüderstr. 19;Angermünde;16278;;53.0175;14.004
+1869;+;Commerzbank;Brüderstr. 19;Angermünde;16278;Geschlossen von 22-6 Uhr;53.0175;14.004
+1870;-;Deutsche Bank;Karthausstr. 12;Schwedt;16303;;53.0576;14.2845
+1871;+;Deutsche Bank;Karthausstr. 12;Schwedt;16303;Geschlossen von 22-6 Uhr;53.0576;14.2845
+1872;-;Shell Tankstelle;Kölner Str. 37;Altenkirchen;57610;;50.6871200;7.6326100
+1873;-;Shell Tankstelle;Rheinstraße;Flammersfeld;57632;;50.6482200;7.5271100
+1874;-;Deutsche Bank;Lange Str. 11;Lübbecke;32312;;52.3035;8.61574
+1875;-;Berliner Bank;Prinzenallee 89-90;Berlin;13357;;52.553;13.3817
