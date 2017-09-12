@@ -238,3 +238,5 @@
 
 1945;-;Gabler-Saliter Bankgeschäft;Marktplatz 10;Obergünzburg;87634;;47.84638;10.41730
 
+1946;+;Sparda-Bank;Bronngasse 17;Herrenberg;71083;;48.595546;8.868124
+
