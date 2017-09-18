@@ -240,3 +240,5 @@
 
 1946;+;Sparda-Bank;Bronngasse 17;Herrenberg;71083;;48.595546;8.868124
 
+1947;-;Santander;Leopoldstraße 153;München;80804;;48.17237;11.57550
+
