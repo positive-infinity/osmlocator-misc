@@ -242,3 +242,9 @@
 
 1947;-;Santander;Leopoldstraße 153;München;80804;;48.17237;11.57550
 
+1948;-;Targobank;Bahnhofstr. 38;Oberhausen;46145;;51.51453;6.84596
+1949;-;Targobank;Bahnhofstr. 38;Oberhausen;46145;;50.58693;8.67054
+1950;+;Targobank;Bahnhofstr. 38;Oberhausen;46145;;51.514594;6.846374
+1951;-;Santander;Neuenweg 19;Gießen;35390;;50.58506;8.67638
+1952;-;Norisbank;Plockstraße 13;Gießen;35390;;50.58352;8.67490
+
