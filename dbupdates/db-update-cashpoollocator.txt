@@ -248,3 +248,6 @@
 1951;-;Santander;Neuenweg 19;Gießen;35390;;50.58506;8.67638
 1952;-;Norisbank;Plockstraße 13;Gießen;35390;;50.58352;8.67490
 
+1953;-;Sparda-Bank;Cloosstr. 20;Völklingen;66333;;49.25191;6.85738
+1954;+;Sparda-Bank;Dudenstraße 9;Bad Hersfeld;36251;;50.868328;9.711452
+
