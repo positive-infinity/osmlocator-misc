@@ -251,3 +251,10 @@
 1953;-;Sparda-Bank;Cloosstr. 20;Völklingen;66333;;49.25191;6.85738
 1954;+;Sparda-Bank;Dudenstraße 9;Bad Hersfeld;36251;;50.868328;9.711452
 
+1955;-;Sparda-Bank;Beethovenstr. 21-23;Saarbrücken;66111;;49.23837;6.99537
+1956;+;Sparda-Bank;Bahnhofstraße 41;Saarbrücken;66111;;49.235159;6.993796
+1957;-;Degussa Bank GmbH;Hattorfer Straße;Philippsthal;36269;;53.18768;11.44501
+1958;+;Degussa Bank GmbH;Hattorfer Straße;Philippsthal;36269;;50.844436;9.966222
+1959;-;Sparda-Bank Berlin eG;Nordhäuser Str. 73t;Erfurt;99091;;51.01265;10.99248
+1960;-;Sparda-Bank;Predigerstr. 1-2;Erfurt;99084;;50.97730;11.02907
+1961;+;Sparda-Bank;Augustmauer 1;Erfurt;99084;;50.973925;11.035045
