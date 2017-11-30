@@ -258,3 +258,7 @@
 1959;-;Sparda-Bank Berlin eG;Nordhäuser Str. 73t;Erfurt;99091;;51.01265;10.99248
 1960;-;Sparda-Bank;Predigerstr. 1-2;Erfurt;99084;;50.97730;11.02907
 1961;+;Sparda-Bank;Augustmauer 1;Erfurt;99084;;50.973925;11.035045
+
+1962;-;Sparda-Bank;L15. 15-17;Mannheim;68161;;49.48110;8.47105
+1963;-;Norisbank;Willy-Brandt-Platz 5;Mannheim;68161;;49.48102;8.47129
+1964;-;Santander;Planken P3 12-13;Mannheim;68161;;49.48708;8.46839
