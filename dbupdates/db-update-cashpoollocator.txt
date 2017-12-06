@@ -262,3 +262,9 @@
 1962;-;Sparda-Bank;L15. 15-17;Mannheim;68161;;49.48110;8.47105
 1963;-;Norisbank;Willy-Brandt-Platz 5;Mannheim;68161;;49.48102;8.47129
 1964;-;Santander;Planken P3 12-13;Mannheim;68161;;49.48708;8.46839
+
+1965;-;Sparda-Bank;L15 15-17;Mannheim;68161;;49.48109;8.47084
+1966;+;Sparda-Bank;L15 15-17;Mannheim;68161;;49.480798;8.470404
+1967;-;BBBank;Lange Rötterstr. 18;Mannheim;68167;;49.49714;8.47665
+1968;+;BBBank;Lange Rötterstr. 19;Mannheim;68167;;49.497680;8.477558
+1969;+;Sparda-Bank;Friedrichstraße 27;Mannheim;68199;im AOK Kundencenter;49.452529;8.491215
