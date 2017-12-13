@@ -1196,3 +1196,5 @@
 1941;-;Commerzbank;Lotter Str. 122;Osnabrück;49078;;52.275;8.03515
 1942;-;Deutsche Bank;Deutzer Freiheit 53;Köln;50679;;50.9369;6.972
 1943;+;Postbank;Schillerstraße 8;Lingen;49811;im Combi;52.541978;7.346125
+
+1944;-;Hypovereinsbank;Am SchloßPark 2;Glücksburg;24960;;54.8335;9.54775
