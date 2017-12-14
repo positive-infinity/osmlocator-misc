@@ -268,3 +268,5 @@
 1967;-;BBBank;Lange Rötterstr. 18;Mannheim;68167;;49.49714;8.47665
 1968;+;BBBank;Lange Rötterstr. 19;Mannheim;68167;;49.497680;8.477558
 1969;+;Sparda-Bank;Friedrichstraße 27;Mannheim;68199;im AOK Kundencenter;49.452529;8.491215
+
+1970;-;Sparda-Bank;Wilhelmstraße 82;Berlin;10117;;52.51895;13.38030
