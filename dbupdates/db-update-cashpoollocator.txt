@@ -270,3 +270,5 @@
 1969;+;Sparda-Bank;Friedrichstraße 27;Mannheim;68199;im AOK Kundencenter;49.452529;8.491215
 
 1970;-;Sparda-Bank;Wilhelmstraße 82;Berlin;10117;;52.51895;13.38030
+1971;-;Sparda-Bank Berlin eG;Am Borsigturm 2;Berlin;13597;;52.58300;13.28455
+1972;+;Sparda-Bank;Seegefelder Str. 1;Berlin;13597;;52.534254;13.198517
