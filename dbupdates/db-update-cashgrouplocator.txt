@@ -1198,3 +1198,6 @@
 1943;+;Postbank;Schillerstraße 8;Lingen;49811;im Combi;52.541978;7.346125
 
 1944;-;Hypovereinsbank;Am SchloßPark 2;Glücksburg;24960;;54.8335;9.54775
+
+1945;-;Berliner Bank;Nonnendammallee 95-96;Berlin;13629;;52.537;13.268
+1946;-;Deutsche Bank;Am Stadtgraben 1;Günzburg;89312;;48.4542;10.2772
