@@ -1201,3 +1201,5 @@
 
 1945;-;Berliner Bank;Nonnendammallee 95-96;Berlin;13629;;52.537;13.268
 1946;-;Deutsche Bank;Am Stadtgraben 1;Günzburg;89312;;48.4542;10.2772
+
+1947;-;Postbank;Frauenlobplatz 2;Mainz;55128;;50.008;8.26335
