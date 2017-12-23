@@ -1205,3 +1205,5 @@
 1947;-;Postbank;Frauenlobplatz 2;Mainz;55128;;50.008;8.26335
 
 1948;-;Postbank;Poststraße 36;Velten;16727;;52.687137;13.178797
+
+1949;-;Commerzbank;Hindenburgstr. 68;Leonberg;71229;;48.7951;9.00864
