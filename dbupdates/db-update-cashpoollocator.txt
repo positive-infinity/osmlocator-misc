@@ -275,3 +275,5 @@
 
 1973;-;BBBank;Bismarckstr. 10;Mannheim;68161;;49.48175;8.46920
 1974;+;BBBank;M1 2-3;Mannheim;68161;;49.485589;8.464435
+
+1975;-;Targobank;Rathausstraße 2;Hamburg;20095;;52.53745;13.20339
