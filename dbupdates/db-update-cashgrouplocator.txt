@@ -1242,3 +1242,5 @@
 
 1973;-;Postbank;Heimbrügge 5-7;Dortmund;44359;;51.5699;7.3815
 1974;-;Shell Tankstelle;Dorfring 24;Tangstedt;22889;;53.745387;10.063073
+
+1975;-;Shell Tankstelle;Heidenäckerstr. 36;Sandhausen;69207;;49.3522000;8.6573100
