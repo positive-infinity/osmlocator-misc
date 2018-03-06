@@ -277,3 +277,5 @@
 1974;+;BBBank;M1 2-3;Mannheim;68161;;49.485589;8.464435
 
 1975;-;Targobank;Rathausstraße 2;Hamburg;20095;;52.53745;13.20339
+
+1976;-;Targobank;Berliner Allee 88;Berlin;13088;;52.54955;13.45671
