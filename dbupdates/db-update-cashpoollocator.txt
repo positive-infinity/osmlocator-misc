@@ -279,3 +279,8 @@
 1975;-;Targobank;Rathausstraße 2;Hamburg;20095;;52.53745;13.20339
 
 1976;-;Targobank;Berliner Allee 88;Berlin;13088;;52.54955;13.45671
+
+1977;-;Santander;Carl-Schurz-Straße 51;Berlin;13597;;52.53864;13.20466
+1978;-;Sparda-Bank;Seegefelder Str. 1;Berlin;13597;;52.534254;13.198517
+1979;-;Sparda-Bank;Segefelder Str. 1;Berlin;13597;;52.58934;13.28360
+1980;+;Sparda-Bank;Segefelder Str. 1;Berlin;13597;;52.534279;13.198612
