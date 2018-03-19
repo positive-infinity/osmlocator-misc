@@ -284,3 +284,6 @@
 1978;-;Sparda-Bank;Seegefelder Str. 1;Berlin;13597;;52.534254;13.198517
 1979;-;Sparda-Bank;Segefelder Str. 1;Berlin;13597;;52.58934;13.28360
 1980;+;Sparda-Bank;Segefelder Str. 1;Berlin;13597;;52.534279;13.198612
+
+1981;-;Targobank;Berliner Straße 11;Berlin;13507;;52.58785;13.28536
+1982;-;Targobank;Lister Meile 82;Hannover;30161;;52.38823;9.74967
