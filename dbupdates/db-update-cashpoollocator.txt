@@ -287,3 +287,6 @@
 
 1981;-;Targobank;Berliner Straße 11;Berlin;13507;;52.58785;13.28536
 1982;-;Targobank;Lister Meile 82;Hannover;30161;;52.38823;9.74967
+
+1983;-;Targobank;Karl-Jansen-Str. 19;Völklingen;66333;;49.21976;6.81540
+1984;-;Sparda-Bank;Karl-Janssen-Str. 32;Völklingen;66333;;49.24995;6.85707
