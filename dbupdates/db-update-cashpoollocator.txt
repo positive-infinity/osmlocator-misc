@@ -290,3 +290,6 @@
 
 1983;-;Targobank;Karl-Jansen-Str. 19;Völklingen;66333;;49.21976;6.81540
 1984;-;Sparda-Bank;Karl-Janssen-Str. 32;Völklingen;66333;;49.24995;6.85707
+
+1985;+;Targobank;Karl-Janssen-Straße 19;Völklingen;66333;;49.250034;6.857208
+1986;+;Sparda-Bank;Poststraße 33;Völklingen;66333;;49.251564;6.852536
