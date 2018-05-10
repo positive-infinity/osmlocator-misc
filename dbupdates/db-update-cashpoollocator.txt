@@ -293,3 +293,6 @@
 
 1985;+;Targobank;Karl-Janssen-Straße 19;Völklingen;66333;;49.250034;6.857208
 1986;+;Sparda-Bank;Poststraße 33;Völklingen;66333;;49.251564;6.852536
+
+1987;-;Sparda-Bank;Rathausstr. 37-39;Karben;61184;;50.22688;8.77406
+1988;+;Sparda-Bank;Bahnhofstraße 190-196;Karben;61184;im tegut, Mo-Sa 7-21 Uhr;50.233341;8.755906
