@@ -296,3 +296,7 @@
 
 1987;-;Sparda-Bank;Rathausstr. 37-39;Karben;61184;;50.22688;8.77406
 1988;+;Sparda-Bank;Bahnhofstraße 190-196;Karben;61184;im tegut, Mo-Sa 7-21 Uhr;50.233341;8.755906
+
+1989;-;Targobank;Laarstr. 8;Iserlohn;58636;;51.37446;7.70156
+1990;+;Sparda-Bank;Rathausstraße 6;Schwerte;58239;;51.442249;7.565649
+1991;+;Santander;Poth 2;Iserlohn;58638;;51.374254;7.695825
