@@ -302,3 +302,6 @@
 1991;+;Santander;Poth 2;Iserlohn;58638;;51.374254;7.695825
 
 1992;-;Targobank;Postplatz 8;Schwerte;58239;;51.44175;7.56568
+
+1993;-;Sparda-Bank;Rathausstr. 6;Schwerte;58239;;51.44220;7.56567
+1994;-;Sparda-Bank;Rathhausstr. 6;Schwerte;58239;;51.42521;7.56641
