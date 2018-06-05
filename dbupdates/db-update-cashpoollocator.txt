@@ -305,3 +305,9 @@
 
 1993;-;Sparda-Bank;Rathausstr. 6;Schwerte;58239;;51.44220;7.56567
 1994;-;Sparda-Bank;Rathhausstr. 6;Schwerte;58239;;51.42521;7.56641
+
+1995;-;Targobank;Brackeler Hellweg 155;Dortmund;44309;;51.52392;7.54881
+1996;-;Targobank;AlfreTrappen-Str.14;Dortmund;44263;;51.49054;7.50197
+1997;-;Targobank;AlfreTrappen-Str. 14;Dortmund;44263;;51.49064;7.50165
+1998;+;Targobank;Alfred-Trappen-Str. 14;Dortmund;44263;;51.49064;7.50165
+1999;-;Targobank;Mittelstr. 17;Hagen;58095;;51.35671;7.47530
