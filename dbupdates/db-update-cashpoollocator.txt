@@ -314,3 +314,7 @@
 
 2000;-;Targobank;Massener Straße 5;Unna;59423;;51.53459;7.68875
 2001;-;Targobank;Harkortstraße 67;Dortmund;44225;;51.47571;7.43749
+
+2002;-;Targobank;Kampstraße 38-40;Dortmund;44137;;51.51505;7.46127
+2003;+;Santander;Kampstraße 36;Dortmund;44137;;51.514945;7.462205
+2004;-;Targobank;Altenaer Str. 2;Lüdenscheid;58507;;51.21621;7.62987
