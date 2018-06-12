@@ -325,3 +325,183 @@
 2008;-;Targobank;Bahnhofstr. 61;Alsdorf;52477;;50.87337;6.16057
 2009;-;Targobank;Carolus-Magnus-Str. 20;Übach-Palenberg;52531;;50.92065;6.11655
 2010;-;Targobank;Josef-Schregel-Str. 6;Düren;52349;;50.80519;6.48307
+
+2011;-;Targobank;Löwenplatz 1-3;Rüsselsheim;65428;;49.99460;8.41338
+2012;-;Targobank;Schildern 8;Paderborn;33098;;51.71771;8.75513
+2013;-;Targobank;Bunzlauer Str. 1 - 3;Köln;50858;;50.93768;6.83716
+2014;-;Targobank;Stendaler Str. 23;Berlin;12627;;52.54185;13.60321
+2015;-;Targobank;Fischerstr. 97;Duisburg;47055;;51.40225;6.76183
+2016;-;Targobank;Hauptstr. 54;Offenburg;77652;;48.47245;7.94342
+2017;-;Targobank;Hufschmiede 1;Minden;32423;;52.29032;8.91634
+2018;-;Targobank;Katernberger Str. 7-9;Essen;45327;;51.49669;7.04806
+2019;-;Targobank;Hermannstr. 1-3;Köln;51143;;50.88427;7.05807
+2020;-;Targobank;Kröpeliner Str. 62/63;Rostock;18055;;54.08851;12.13276
+2021;-;Targobank;Kasernenstr. 10;Düsseldorf;40213;;51.22415;6.77579
+2022;-;Targobank;Bahnhofstr. 2;Augsburg;86150;;48.36672;10.89324
+2023;-;Targobank;Altlöhrtor 17;Koblenz;56068;;50.35855;7.59479
+2024;-;Targobank;Sorge 2;Gera;07545;;50.87752;12.08197
+2025;-;Targobank;Hauptstr. 46;Düsseldorf;40597;;51.16596;6.87427
+2026;-;Targobank;Scheelenstraße 13;Hildesheim;31134;;52.15114;9.95186
+2027;-;Targobank;Böblinger Str. 3;Sindelfingen;71065;;48.69976;9.00648
+2028;-;Targobank;Horster Str. 1;Gelsenkirchen;45897;;51.57726;7.05472
+2029;-;Targobank;Mohrenstr. 28;Coburg;96450;;50.26072;10.96369
+2030;-;Targobank;Landsberger Str. 521;München;81241;;48.13741;11.45978
+2031;-;Targobank;Wilhelm-Bockelmann-Str. 42;Munster;29633;;52.98873;10.08440
+2032;-;Targobank;Plinganser Str. 53;München;81369;;48.11558;11.53980
+2033;-;Sparda-Bank;Augustmauer 1;Erfurt;99084;;50.97419;11.03539
+2034;-;Targobank;Marktstr. 51-55;Oberhausen;46045;;51.46885;6.85540
+2035;-;Targobank;Westfalenstr. 57;Düsseldorf;40472;;51.26299;6.81622
+2036;-;Targobank;Calvinstr. 15;Wuppertal;42103;;51.25613;7.14698
+2037;-;Targobank;Marktstraße 65;Wilhelmshaven;26382;;53.52026;8.11212
+2038;-;Targobank;Marzahner Promenade 27;Berlin;12679;;52.54393;13.54744
+2039;-;Targobank;Ludwigsplatz 8;Rosenheim;83022;;47.85633;12.12884
+2040;-;Targobank;Theodor-Heuss-Str. 2;Witten;58452;;51.43780;7.33410
+2041;-;Targobank;Von-der-Mark-Str. 85;Duisburg;47137;;51.46732;6.77186
+2042;-;Targobank;Karmarschstr. 12-14;Hannover;30159;;52.37392;9.73811
+2043;-;Targobank;Großflecken 31;Neumünster;24534;;54.07210;9.98684
+2044;-;Targobank;Bismarckstr. 49;Ludwigshafen;67059;;49.48189;8.44703
+2045;-;Targobank;Hermannstr. 214;Berlin;12049;;52.47890;13.42121
+2046;-;Targobank;Isbruchstr. 6;Waltrop;45731;;51.62398;7.39694
+2047;-;Targobank;Neustr. 62;Dinslaken;46535;;51.56231;6.73556
+2048;-;Targobank;Pasteurstr. 3-7;Neunkirchen;66538;;49.34799;7.17458
+2049;-;Targobank;Harry-Epstein-Platz 5;Duisburg;47051;;51.43180;6.77465
+2050;-;Targobank;Bahnhofstr. 9;Fulda;36037;;50.55287;9.68049
+2051;-;Targobank;Königstr. 30;Gütersloh;33330;;51.90711;8.37580
+2052;-;Targobank;Friedrich-AlfreStr. 90a;Duisburg;47226;;51.51460;6.84638
+2053;-;Targobank;Friedensplatz 16;Bonn;53111;;50.73658;7.09818
+2054;-;Targobank;Holzgasse 7-13;Siegburg;53721;;50.79782;7.20906
+2055;-;Targobank;Bürgermeister-Smidt Str. 14;Bremerhaven;27568;;53.54081;8.58178
+2056;-;Targobank;Europaplatz 5;Tübingen;72070;;48.51634;9.05793
+2057;-;Targobank;Kölner Str. 100;Solingen;42651;;51.17940;7.10134
+2058;-;Targobank;Bergheimer Str. 6;Heidelberg;69115;;49.40912;8.69214
+2059;-;Targobank;Nürnberger Str. 1;Erlangen;91052;;49.59370;11.00515
+2060;-;Targobank;Am Holstentor 11;Rendsburg;24768;;54.30405;9.66604
+2061;-;Targobank;Maximilianstr. 15;Regensburg;93047;;49.01633;12.10034
+2062;-;Targobank;Schaumburgstr. 16;Recklinghausen;45657;;51.61410;7.20085
+2063;-;Targobank;Hauptstr. 33;Frechen;50226;;50.90990;6.81281
+2064;-;Targobank;Maximilianstr. 46;Bayreuth;95444;;49.94482;11.57332
+2065;-;Targobank;Kreuzstr. 8;Wesel;46483;;51.65712;6.61662
+2066;-;Targobank;Tumringer Str. 202;Lörrach;79539;;47.62228;7.67214
+2067;-;Targobank;Kohlenkamp 28;Mülheim;45468;;51.42791;6.88145
+2068;-;Targobank;Marktstr. 57;Essen;45355;;51.47592;6.95309
+2069;-;Targobank;Kennedyplatz 6;Essen;45127;;51.45595;7.01148
+2070;-;Targobank;Graf-Adolf-Str. 35;Düsseldorf;40210;;51.21870;6.78242
+2071;-;Targobank;Neue Große Bergstr. 6;Hamburg;22767;;53.55152;9.93720
+2072;-;Targobank;Pferdemarkt 2 - 3;Bottrop;46236;;51.52189;6.92387
+2073;-;Targobank;Kölnstr. 42;Jülich;52428;;50.92286;6.36233
+2074;-;Targobank;Langestr. 2;Oldenburg;26122;;53.13813;8.21410
+2075;-;Targobank;Hauptstr. 33;Viersen;41747;;51.25754;6.38825
+2076;-;Targobank;Alte Holstenstr. 76;Hamburg;21029;;53.48875;10.21073
+2077;-;Targobank;Lange Str. 50;Castrop-Rauxel;44579;;51.58451;7.31159
+2078;-;Targobank;Speyerer Str. 33;Frankenthal;67227;;49.53313;8.35424
+2079;-;Targobank;Hochstr. 4;Krefeld;47798;;51.32804;6.56516
+2080;-;Targobank;Bahnhofstr. 16;Wetzlar;35576;;50.56269;8.50314
+2081;-;Targobank;Eisenbahnstr. 33;Kaiserslautern;67655;;49.44076;7.77160
+2082;-;Targobank;Bahnhofstr. 109;Saarbrücken;66111;;49.23345;6.98851
+2083;-;Targobank;Flachsmarkt 4-6;Mainz;55116;;50.00218;8.27093
+2084;-;Targobank;Stadtgrabenstr. 32;Böblingen;71032;;48.68623;9.01323
+2085;-;Targobank;Bergerstr. 175-177;Frankfurt;60385;;50.12543;8.70615
+2086;-;Targobank;Hülsstr. 21;Marl;45772;;51.66350;7.13054
+2087;-;Targobank;Hauptstraße 139;Berlin;10827;;52.48531;13.35501
+2088;-;Targobank;Orleansplatz 6 A;München;81667;;48.12870;11.60434
+2089;-;Targobank;Georgstr. 39;Bremerhaven;27570;;53.53254;8.58959
+2090;-;Targobank;Nordstr. 114;Düsseldorf;40477;;51.24058;6.78198
+2091;-;Targobank;Mecklenburg Str. 31;Schwerin;19053;;53.62867;11.41233
+2092;-;Targobank;GerharRohlfs-Str. 1;Bremen;28757;;53.17181;8.62097
+2093;-;Targobank;Hindenburgstr. 64;Mönchengladbach;41061;;51.19389;6.43633
+2094;-;Targobank;Wittenbergplatz 1;Berlin;10789;;52.52695;13.33017
+2095;-;Targobank;Lothringer Str. 5;Saarlouis;66740;;49.31313;6.75239
+2096;-;Targobank;Bahnhofstr. 10;Kempten;87435;;47.72294;10.31585
+2097;-;Targobank;Schadowstr. 74;Düsseldorf;40212;;51.22754;6.78598
+2098;-;Targobank;Knochenhauerstraße 15;Bremen;28195;;53.07857;8.80740
+2099;-;Targobank;Brandenburger Str. 28;Potsdam;14467;;52.40034;13.05577
+2100;-;Targobank;Benderstr. 20;Düsseldorf;40625;;51.23709;6.85750
+2101;-;Targobank;Stresemannstr. 45;Mönchengladbach;41236;;51.16593;6.44203
+2102;-;Targobank;Severinstr. 77-79;Köln;50678;;50.92519;6.95841
+2103;-;Targobank;Kaiser-Otto-Platz 11;Essen;45276;;51.44836;7.07581
+2104;-;Targobank;Möllner Landstr. 31;Hamburg;22111;;53.53917;10.10713
+2105;-;Targobank;Hallplatz 23;Nürnberg;90402;;49.44900;11.07792
+2106;-;Targobank;Innere Wienerstr. 61;München;81675;;48.13495;11.59742
+2107;-;Targobank;Hauptstr. 2;Bensheim;64625;;49.68273;8.62212
+2108;-;Targobank;Ritterstraße 5;Hameln;31785;;52.10586;9.35601
+2109;-;Targobank;Friedrich-Ebert-Str. 130;Duisburg;47179;;51.52420;6.73627
+2110;-;Targobank;Am Opernplatz;Kassel;34117;;51.31963;9.49296
+2111;-;Targobank;Werth 96;Wuppertal;42275;;51.27249;7.20553
+2112;-;Targobank;Hafenstr. 123;Bremerhaven;27568;;53.56719;8.56063
+2113;-;Targobank;Kaiserstr. 58;Offenbach;63065;;50.10542;8.75840
+2114;-;Targobank;Angelburger Str. 21;Flensburg;24937;;54.78268;9.43836
+2115;-;Targobank;Schwabacher Str. 40-42;Fürth;90762;;49.47310;10.98820
+2116;-;Targobank;Frankfurter Str. 27;Köln;51065;;50.96083;7.00681
+2117;-;Targobank;Rotebühlplatz 5;Stuttgart;70178;;48.77419;9.17318
+2118;-;Targobank;An den Brodbänken 8;Lüneburg;21335;;53.25038;10.41018
+2119;-;Targobank;Georgstr. 12;Osnabrück;49074;;52.27505;8.04883
+2120;-;Targobank;Am Markt 24;Castrop-Rauxel;44575;;51.54760;7.31186
+2121;-;Targobank;Schillerplatz 6;Dresden;01309;;51.05217;13.80620
+2122;-;Targobank;Parkhofstr. 34;Hückelhoven;41836;;51.05182;6.22402
+2123;-;Targobank;Gumbertstr. 144;Düsseldorf;40229;;51.20106;6.83956
+2124;-;Targobank;Prielmayer Str. 3;München;80335;;48.14093;11.56132
+2125;-;Targobank;Limmerstraße 34;Hannover;30451;;52.37311;9.70894
+2126;-;Targobank;Alleestr. 77-81;Remscheid;42853;;51.18108;7.18549
+2127;-;Targobank;Hauptstr. 270;Herne;44649;;51.53340;7.15764
+2128;-;Targobank;Hagsche Str. 30/32;Kleve;47533;;51.78533;6.13608
+2129;-;Targobank;Neustr. 62;Hilden;40721;;51.16456;6.93118
+2130;-;Targobank;Heggerstr. 29;Hattingen;45525;;51.39996;7.18554
+2131;-;Targobank;Kuhtor 1;Duisburg;47051;;51.43362;6.76458
+2132;-;Targobank;Hauptstr. 29;Göppingen;73033;;48.70416;9.65111
+2133;-;Targobank;Harburger-Ring 8-10;Hamburg;21073;;53.48911;10.20994
+2134;-;Targobank;Bahnhofstr. 26;Herne;44623;;51.53862;7.22458
+2135;-;Targobank;Karlstr. 1;Reutlingen;72764;;48.49451;9.20923
+2136;-;Targobank;Prinzenstr. 6;Göttingen;37073;;51.53442;9.93459
+2137;-;Targobank;Warringtonplatz 1;Hilden;40721;;51.16739;6.93341
+2138;-;Targobank;Castroper Str. 12;Datteln;45711;;51.65140;7.33835
+2139;-;Targobank;Petersstr. 11;Worms;67547;;49.63056;8.36298
+2140;-;Targobank;Zeil 44;Frankfurt;60313;;50.11490;8.68892
+2141;-;Targobank;Karl-Marx-Straße 118;Berlin;12043;;52.47813;13.43823
+2142;-;Targobank;Schulgasse 5;Wiesbaden;65183;;50.08159;8.23908
+2143;-;Targobank;Friedrichstraße 194-199;Berlin;10117;;52.51035;13.38996
+2144;-;Targobank;Hamborner Altmarkt 21;Duisburg;47166;;51.49106;6.77182
+2145;-;Targobank;Kölner Str. 234;Düsseldorf;40227;;51.21388;6.80609
+2146;-;Targobank;Kölner Str. 24;Erkelenz;41812;;51.07772;6.31895
+2147;-;Targobank;Schloßstraße 111;Berlin;12163;;52.46156;13.32540
+2148;-;Targobank;Königstr. 8;Bocholt;46397;;51.83818;6.61557
+2149;-;Targobank;Nürnberger Str. 24;Hanau;63450;;50.13236;8.91986
+2150;-;Targobank;Porschestraße 19;Wolfsburg;38440;;52.42604;10.78972
+2151;-;Targobank;Wiesdorfer Platz 50;Leverkusen;51373;;51.03231;6.98352
+2152;-;Targobank;Moerser Str. 260 b;Kamp-Lintfort;47475;;51.50101;6.54947
+2153;-;Targobank;Enger Str. 39/40;Kempen;47906;;51.36444;6.42255
+2154;-;Targobank;Grevesmühlener Str. 24;Berlin;13059;;52.56958;13.51711
+2155;-;Targobank;Münsterstr. 23;Lünen;44534;;51.61693;7.52471
+2156;-;Targobank;Hermannstr. 7;Herten;45699;;51.59405;7.13722
+2157;-;Targobank;Hauptstr. 78;Schwelm;58332;;51.28471;7.29606
+2158;-;Targobank;Leonrodstr. 2;München;80634;;48.15300;11.53358
+2159;-;Targobank;Königsteiner Str. 5;Frankfurt;65929;;50.10106;8.54923
+2160;-;Targobank;Große Eschenheimerstr. 1;Frankfurt;60313;;50.11579;8.68390
+2161;-;Targobank;Schönhauser Allee 106;Berlin;10439;;52.55121;13.41399
+2162;-;Targobank;Grabenstr. 12;Trier;54290;;49.75584;6.64112
+2163;-;Targobank;Königstraße 97-99;Lübeck;23552;;53.86510;10.68653
+2164;-;Targobank;Marstall 6;Ludwigsburg;71634;;48.89968;9.19327
+2165;-;Targobank;Lübberstr. 13;Herford;32052;;52.11729;8.67600
+2166;-;Targobank;Hauptstr. 49;Bergheim;50126;;50.95338;6.63904
+2167;-;Targobank;Pliensaustr. 46;Esslingen;73728;;48.73843;9.30426
+2168;-;Targobank;Lange Straße 35;Delmenhorst;27749;;53.04840;8.63105
+2169;-;Targobank;Schuhstraße 8;Celle;29221;;52.62541;10.08242
+2170;-;Targobank;Nordersteinstraße 50;Cuxhaven;27472;;53.86086;8.69912
+2171;-;Targobank;Königstraße 11;Elmshorn;25335;;53.75425;9.65754
+2172;-;Targobank;Spremberger Str. 17;Cottbus;03046;;51.75783;14.33347
+2173;-;Targobank;Müllerstraße 138b;Berlin;13353;;52.54985;13.35269
+2174;-;Targobank;Oberstr. 1;Ratingen;40878;;51.29728;6.85011
+2175;-;Targobank;Feldschmiede 82;Itzehoe;25524;;53.92357;9.51694
+2176;-;Targobank;Badstraße 8;Berlin;13357;;52.54980;13.38653
+2177;-;Targobank;Königstr. 111;Krefeld;47798;;51.33214;6.56410
+2178;-;Targobank;Altenessener Str. 368/372;Essen;45329;;51.49568;7.00855
+2179;-;Targobank;Kölner Str. 118-120;Dormagen;41539;;51.09497;6.84063
+2180;-;Targobank;Kopernikusplatz 2;Nürnberg;90459;;49.43998;11.08038
+2181;-;Targobank;Schweriner Straße 1;Hamburg;22143;;53.60536;10.15579
+2182;-;Targobank;Sülzburgstr. 64;Köln;50937;;50.91774;6.92431
+2183;-;Targobank;Bahnhofstraße 25;Berlin;12555;;52.50113;13.34222
+2184;-;Targobank;Andreas-Gayk-Str. 7-11;Kiel;24103;;54.32074;10.13643
+2185;-;Targobank;Berliner Straße 5;Salzgitter;38226;;52.15317;10.33313
+2186;-;Targobank;Baumschulenstr. 94;Berlin;12437;;52.46676;13.48823
+2187;-;Targobank;Venloer Str. 247;Köln;50823;;50.94710;6.92344
+2188;-;Targobank;Sonnenstr. 29;München;80331;;48.13462;11.56623
+2189;-;Targobank;Poststr. 15;Mettmann;40822;;51.25094;6.98062
