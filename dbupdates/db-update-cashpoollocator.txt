@@ -318,3 +318,10 @@
 2002;-;Targobank;Kampstraße 38-40;Dortmund;44137;;51.51505;7.46127
 2003;+;Santander;Kampstraße 36;Dortmund;44137;;51.514945;7.462205
 2004;-;Targobank;Altenaer Str. 2;Lüdenscheid;58507;;51.21621;7.62987
+
+2005;-;Targobank;Weststraße 2;Hamm;59065;;51.68143;7.81840
+2006;-;Targobank;Rathausstr. 80-82;Stolberg;52222;;50.77356;6.22571
+2007;-;Targobank;Grabenstr. 40;Eschweiler;52249;;50.81896;6.26700
+2008;-;Targobank;Bahnhofstr. 61;Alsdorf;52477;;50.87337;6.16057
+2009;-;Targobank;Carolus-Magnus-Str. 20;Übach-Palenberg;52531;;50.92065;6.11655
+2010;-;Targobank;Josef-Schregel-Str. 6;Düren;52349;;50.80519;6.48307
