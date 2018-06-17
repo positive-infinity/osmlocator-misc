@@ -505,3 +505,5 @@
 2187;-;Targobank;Venloer Str. 247;Köln;50823;;50.94710;6.92344
 2188;-;Targobank;Sonnenstr. 29;München;80331;;48.13462;11.56623
 2189;-;Targobank;Poststr. 15;Mettmann;40822;;51.25094;6.98062
+
+2190;+;Sparda-Bank;Frankfurter Str. 113;Bad Vilbel;61118;;50.179496;8.737469
