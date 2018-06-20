@@ -1408,3 +1408,5 @@
 2103;-;Deutsche Bank;Frankfurter Str. 85;Rodgau;63110;;50.0005;8.86612
 2104;-;Postbank;Mainzer Str. 16;Berlin;10715;;52.48;13.3269
 2105;-;Shell Tankstelle;Bremervörder Str. 150;Stade;21682;;53.5959000;9.4388600
+
+2106;-;Postbank;Königstr. 44-46;Lübeck;23552;;53.8685;10.6883
