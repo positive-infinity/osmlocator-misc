@@ -507,3 +507,6 @@
 2189;-;Targobank;Poststr. 15;Mettmann;40822;;51.25094;6.98062
 
 2190;+;Sparda-Bank;Frankfurter Str. 113;Bad Vilbel;61118;;50.179496;8.737469
+
+2191;-;Santander;Markt 12;Brühl;50321;;50.82851;6.90513
+2192;+;Targobank;Markt 19;Brühl;50321;;50.828790;6.904633
