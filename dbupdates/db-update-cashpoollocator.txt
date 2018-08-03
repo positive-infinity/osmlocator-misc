@@ -510,3 +510,5 @@
 
 2191;-;Santander;Markt 12;Brühl;50321;;50.82851;6.90513
 2192;+;Targobank;Markt 19;Brühl;50321;;50.828790;6.904633
+
+2193;-;Sparda-Bank Berlin eG;Walter-Stoecker-Str. 2;Rostock;18069;;52.58046;13.44390
