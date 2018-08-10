@@ -512,3 +512,10 @@
 2192;+;Targobank;Markt 19;Brühl;50321;;50.828790;6.904633
 
 2193;-;Sparda-Bank Berlin eG;Walter-Stoecker-Str. 2;Rostock;18069;;52.58046;13.44390
+
+2194;-;Wüstenrot Bank;AG Mariendorfer Damm 19-21;Berlin;12109;;52.45106;13.38509
+2195;-;Wüstenrot Bank AG Pfandbriefbank;Mariendorfer Damm 19-21;Berlin;12109;;52.45093;13.38512
+2196;+;Wüstenrot Bank;Mariendorfer Damm 19-21;Berlin;12109;;52.45093;13.38512
+2197;-;Wüstenrot Bank AG Pfandbriefbank;Poststraße 29;Falkensee;14612;;52.56059;13.09097
+2198;-;Wüstenrot Bank;AG Poststraße 29;Falkensee;14612;;52.56051;13.09090
+2199;+;Wüstenrot Bank;Poststraße 29;Falkensee;14612;;52.56051;13.09090
