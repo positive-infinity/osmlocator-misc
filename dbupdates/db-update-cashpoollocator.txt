@@ -519,3 +519,6 @@
 2197;-;Wüstenrot Bank AG Pfandbriefbank;Poststraße 29;Falkensee;14612;;52.56059;13.09097
 2198;-;Wüstenrot Bank;AG Poststraße 29;Falkensee;14612;;52.56051;13.09090
 2199;+;Wüstenrot Bank;Poststraße 29;Falkensee;14612;;52.56051;13.09090
+
+2200;-;Sparda-Bank;Kaiser-Wilhelm-Str. 77;Berlin;12247;;52.43576;13.34518
+
