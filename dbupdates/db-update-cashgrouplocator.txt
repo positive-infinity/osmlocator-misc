@@ -1439,3 +1439,5 @@
 2123;-;Postbank;Am Rathaus 6;Oberasbach;90522;;49.431;10.969
 2124;-;Commerzbank;Am Markt 7;Stadtallendorf;35260;;50.8274;9.0154
 2125;+;Commerzbank;Am Markt 7;Stadtallendorf;35260;Mo-So 6-23 Uhr;50.8274;9.0154
+
+2126;-;Hypovereinsbank;Kieler Str. 40;Schacht-Audorf;24790;;54.3139;9.72127
