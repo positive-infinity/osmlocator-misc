@@ -1446,3 +1446,5 @@
 2128;-;Postbank;Hauptstr. 9-10;Berlin-Hohenschönhausen;13055;;52.5486;13.5043
 
 2129;-;Deutsche Bank;Kirchheimer Str. 60;Stuttgart;70619;;48.7449;9.21251
+
+2130;+;Hypovereinsbank;Berghamer Str. 8;Erding;85435;;48.275242;11.896840
