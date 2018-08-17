@@ -1444,3 +1444,5 @@
 
 2127;-;Deutsche Bank;Wilmersdorfer Str. 138-140;Berlin;10585;;52.5121;13.3055
 2128;-;Postbank;Hauptstr. 9-10;Berlin-Hohenschönhausen;13055;;52.5486;13.5043
+
+2129;-;Deutsche Bank;Kirchheimer Str. 60;Stuttgart;70619;;48.7449;9.21251
