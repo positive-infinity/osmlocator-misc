@@ -1448,3 +1448,7 @@
 2129;-;Deutsche Bank;Kirchheimer Str. 60;Stuttgart;70619;;48.7449;9.21251
 
 2130;+;Hypovereinsbank;Berghamer Str. 8;Erding;85435;;48.275242;11.896840
+
+2131;-;Hypovereinsbank;Mainzer Landstr. 23;Frankfurt/Main;60329;;50.1114;8.66604
+2132;-;Shell Tankstelle;Kanaltunnel Süd;Westerrönfeld;24784;;54.2804200;9.6589700
+2133;+;Shell Tankstelle;Lindenallee 31;Westerrönfeld;24784;;54.278735;9.654483
