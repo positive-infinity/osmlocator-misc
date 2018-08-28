@@ -522,3 +522,6 @@
 
 2200;-;Sparda-Bank;Kaiser-Wilhelm-Str. 77;Berlin;12247;;52.43576;13.34518
 
+2201;-;Sparda-Bank;Wendel Wilhelmstr. 20;St.;66606;;49.46379;7.18664
+2202;+;Sparda-Bank;Wendel Wilhelmstr. 20;St. Wendel;66606;;49.46379;7.18664
+
