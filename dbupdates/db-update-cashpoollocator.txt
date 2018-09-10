@@ -525,3 +525,7 @@
 2201;-;Sparda-Bank;Wendel Wilhelmstr. 20;St.;66606;;49.46379;7.18664
 2202;+;Sparda-Bank;Wendel Wilhelmstr. 20;St. Wendel;66606;;49.46379;7.18664
 
+2203;-;Sparda-Bank Berlin eG;Grimmaische Straße 23;Leipzig;04109;;51.33972;12.37858
+2204;-;CC-Bank;Nordstraße 1;Leipzig;04105;;51.34439;12.37504
+2205;+;Santander;Nordstraße 1;Leipzig;04105;;51.34439;12.37504
+
