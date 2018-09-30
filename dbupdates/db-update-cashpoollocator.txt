@@ -529,3 +529,5 @@
 2204;-;CC-Bank;Nordstraße 1;Leipzig;04105;;51.34439;12.37504
 2205;+;Santander;Nordstraße 1;Leipzig;04105;;51.34439;12.37504
 
+2206;-;Santander;KonraAdenauer-Str. 18;Salzgitter;38226;;52.15251;10.33295
+
