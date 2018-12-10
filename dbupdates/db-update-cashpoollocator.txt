@@ -531,3 +531,5 @@
 
 2206;-;Santander;KonraAdenauer-Str. 18;Salzgitter;38226;;52.15251;10.33295
 
+2207;-;Targobank;Kölner Str. 81;Leverkusen;51379;;51.06240;7.00400
+
