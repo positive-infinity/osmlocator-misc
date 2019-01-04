@@ -533,3 +533,5 @@
 
 2207;-;Targobank;Kölner Str. 81;Leverkusen;51379;;51.06240;7.00400
 
+2208;-;Santander;Frankfurter. Str.32/Ecke Aliceplatz;Offenbach;63065;;50.10569;8.77031
+
