@@ -535,3 +535,6 @@
 
 2208;-;Santander;Frankfurter. Str.32/Ecke Aliceplatz;Offenbach;63065;;50.10569;8.77031
 
+2209;-;Sparda-Bank Hannover eG;Herforder Strasse 110 - 114;Bielefeld;33602;;52.34476;9.71208
+2210;+;Sparda-Bank;Herforder Strasse 110 - 114;Bielefeld;33602;;52.032817;8.541852
+
