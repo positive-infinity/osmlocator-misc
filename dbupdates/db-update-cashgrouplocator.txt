@@ -1858,3 +1858,6 @@
 2402;+;Postbank;Bundesallee 104-105;Berlin;12161;im basic Supermarkt;52.46563390933288;13.328708813307799
 
 2403;-;Commerzbank;Wartburgstr. 1;Bremen;28217;;53.0936;8.78919
+
+2404;-;Commerzbank;Elsaßstr. 1-5;Aachen;52068;;50.772256;6.1135
+2405;-;Postbank;Lindenplatz 25;Würselen;52146;;50.8212;6.13372
