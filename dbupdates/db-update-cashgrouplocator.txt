@@ -1865,3 +1865,5 @@
 2406;-;Deutsche Bank;Delitzscher Str. 49;Leipzig;04129;;51.3647;12.3841
 2407;-;Deutsche Bank;Forstmeisterweg 83;Lübeck;23568;;53.8897;10.7111
 
+2408;-;Postbank;Rohrteichstr. 18;Leipzig;04347;;51.3517;12.4028
+
