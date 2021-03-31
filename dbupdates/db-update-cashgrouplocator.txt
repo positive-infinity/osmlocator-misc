@@ -1861,3 +1861,5 @@
 
 2404;-;Commerzbank;Elsaßstr. 1-5;Aachen;52068;;50.772256;6.1135
 2405;-;Postbank;Lindenplatz 25;Würselen;52146;;50.8212;6.13372
+
+2405;-;Deutsche Bank;Delitzscher Str. 49;Leipzig;04129;;51.3647;12.3841
