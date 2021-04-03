@@ -1867,3 +1867,7 @@
 
 2408;-;Postbank;Rohrteichstr. 18;Leipzig;04347;;51.3517;12.4028
 
+2409;-;Shell Tankstelle;Tiergartenstr. 92;Hannover;30559;;52.3624100;9.8246400
+2410;-;Deutsche Bank;Waldstr. 1;Hannover;30629;;52.3906;9.85396
+2411;-;Hypovereinsbank;Hauptstr. 3;Schifferstadt;67105;;49.3851;8.37484
+
