@@ -1871,3 +1871,5 @@
 2410;-;Deutsche Bank;Waldstr. 1;Hannover;30629;;52.3906;9.85396
 2411;-;Hypovereinsbank;Hauptstr. 3;Schifferstadt;67105;;49.3851;8.37484
 
+2412;-;Commerzbank;Sakrower Landstr. 23;Berlin;14089;;52.4525;13.1397
+
