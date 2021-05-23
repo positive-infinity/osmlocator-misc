@@ -1873,3 +1873,6 @@
 
 2412;-;Commerzbank;Sakrower Landstr. 23;Berlin;14089;;52.4525;13.1397
 
+2413;-;Hypovereinsbank;Oberer Stadtplatz 4;Landau an der Isae;94405;;48.6699;12.6912
+2414;-;Commerzbank;Windmühlenstr. 3;Neustadt;31535;;52.5054;9.46059
+
