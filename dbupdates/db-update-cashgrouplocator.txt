@@ -1878,3 +1878,5 @@
 
 2415;-;Postbank;Hoheluftchaussee 22-26;Hamburg;20253;;53.5797;9.97498
 2416;-;Shell Tankstelle;Grundstöbern 11;Burgdorf;38272;;52.12238;10.22807
+
+2417;-;Commerzbank;Heinrichstr. 155;Düsseldorf;40239;;51.2502;6.80277
