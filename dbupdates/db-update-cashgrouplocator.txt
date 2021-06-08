@@ -1883,3 +1883,5 @@
 
 2418;-;Hypovereinsbank;Ankerplatz 7;Kiel;24159;;54.4206;10.1733
 
+2419;-;Hypovereinsbank;Eidelstedter Platz 10;Hamburg;22523;;53.6084;9.90353
+
