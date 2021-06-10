@@ -1885,3 +1885,4 @@
 
 2419;-;Hypovereinsbank;Eidelstedter Platz 10;Hamburg;22523;;53.6084;9.90353
 
+2420;-;Postbank;Niederwall 3;Lübbecke;32312;;52.306183;8.621059
