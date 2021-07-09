@@ -1886,3 +1886,8 @@
 2419;-;Hypovereinsbank;Eidelstedter Platz 10;Hamburg;22523;;53.6084;9.90353
 
 2420;-;Postbank;Niederwall 3;Lübbecke;32312;;52.306183;8.621059
+
+2421;-;Postbank;Strandstr. 5;Borkum;26757;;53.588;6.66531
+2422;-;Postbank;Breitendieler Str. 43;Miltenberg;63897;;49.7015;9.22458
+2423;-;Postbank;Brückenstr. 26;Miltenberg;63897;;49.7052;9.25026
+2425;-;Hypovereinsbank;Hauptstr. 101;Miltenberg;63897;;49.7001;9.2559
