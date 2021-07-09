@@ -1891,3 +1891,6 @@
 2422;-;Postbank;Breitendieler Str. 43;Miltenberg;63897;;49.7015;9.22458
 2423;-;Postbank;Brückenstr. 26;Miltenberg;63897;;49.7052;9.25026
 2425;-;Hypovereinsbank;Hauptstr. 101;Miltenberg;63897;;49.7001;9.2559
+
+2426;-;Postbank;Geldenerstr. 20-26;Kevelaer;47623;;51.5803;6.24917
+2427;-;Deutsche Bank;Prohliser Allee 6;Dresden;01239;;51.0067;13.8008
