@@ -1894,3 +1894,6 @@
 
 2426;-;Postbank;Geldenerstr. 20-26;Kevelaer;47623;;51.5803;6.24917
 2427;-;Deutsche Bank;Prohliser Allee 6;Dresden;01239;;51.0067;13.8008
+
+2428;-;Commerzbank;Friedrich-Ebert-Str. 77;Kassel;34119;;51.3155;9.47766
+2429;-;Postbank;Siemensstr. 4;Mössingen;72116;;48.4053;9.03841
