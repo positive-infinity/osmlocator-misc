@@ -1897,3 +1897,12 @@
 
 2428;-;Commerzbank;Friedrich-Ebert-Str. 77;Kassel;34119;;51.3155;9.47766
 2429;-;Postbank;Siemensstr. 4;Mössingen;72116;;48.4053;9.03841
+
+2430;-;Postbank;Schlüterstr. 51-53;Hamburg-Rotherbaum;20146;;53.5682;9.98606
+2431;-;Deutsche Bank;Untere Kaplanei Str. 1;Meiningen;98617;;50.5674;10.4162
+2432;-;Postbank;Westfalenstr. 24-26;Düsseldorf;40472;;51.2627;6.81342
+2433;-;Commerzbank;Münsterstr. 2;Freiburg;79098;;47.9956;7.85174
+2434;-;Postbank;Marienstr. 80;Offenbach;63069;;50.0978;8.75684
+2435;-;Commerzbank;Pinneberger Str. 2;Hamburg;22457;;53.6329;9.9108
+2436;-;Postbank;Richard-Wagner-Str. 14;Köln;50674;;50.9355;6.93556
+
