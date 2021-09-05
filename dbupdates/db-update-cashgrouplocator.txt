@@ -1910,3 +1910,5 @@
 2438;-;Shell Tankstelle;Würzburger Str. 25;Fürth;90766;;49.4799200;10.9753300
 2439;-;Commerzbank;Am Wehrhahn 8;Düsseldorf;40211;;51.2282;6.78841
 2440;-;Commerzbank;Graf-Schack-Allee 20;Schwerin;19053;;53.6211;11.4098
+
+2441;-;Hypovereinsbank;Alleestr. 6;Büsum;25761;;54.131;8.86103
