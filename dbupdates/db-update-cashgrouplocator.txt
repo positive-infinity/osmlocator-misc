@@ -1912,3 +1912,24 @@
 2440;-;Commerzbank;Graf-Schack-Allee 20;Schwerin;19053;;53.6211;11.4098
 
 2441;-;Hypovereinsbank;Alleestr. 6;Büsum;25761;;54.131;8.86103
+
+2442;-;Commerzbank;Ebertplatz 13;Köln;50668;;50.9511;6.95775
+2443;-;Commerzbank;Neusser Str. 1;Köln;50670;;50.9511;6.95703
+2444;-;Shell Tankstelle;Gottlieb-Daimler-Str.;Wittlich;54516;;49.9813000;6.9021800
+2445;-;Commerzbank;Hauptstr. 11;Bietigheim-Bissingen;74321;;48.9597;9.12946
+2446;-;Deutsche Bank;Frankfurter Str. 114;Heusenstamm;63150;;50.0593;8.80676
+2447;-;Commerzbank;Frankfurter Str. 65;Heusenstamm;63150;;50.0589;8.80148
+2448;-;Postbank;Ingolstädter Weg 13;Paderborn;33102;u.U. nicht durchgängig geöffnet;51.745094;8.757058
+2449;-;Deutsche Bank;Flughafen (Airport Center);München;85356;;48.353352;11.785264
+2450;-;Commerzbank;Woltmershauser Str. 223;Bremen;28197;;53.0845;8.76591
+2451;-;Postbank;Hohenzollernstr. 81;Ludwigshafen;67063;;49.4933;8.41831
+2452;-;Postbank;Böblinger Str. 36;Stuttgart;70178;;48.7637;9.16338
+2453;-;Deutsche Bank;Kurgartenstr. 20;Bad Dürkheim;67098;;49.4622;8.169
+2454;-;Deutsche Bank;Kurt-Schumacher-Str. 5;Weinheim;69469;;49.5442;8.63748
+2455;-;Deutsche Bank;Rollbühlstr. 80;Mannheim;68309;;49.5075;8.50615
+2456;-;Hypovereinsbank;Großer Sand 19;Uetersen;25436;;53.6829;9.66595
+2457;-;Commerzbank;Großer Sand 31;Uetersen;25436;;53.6824;9.66723
+2458;-;Commerzbank;Hauptstr. 221;Hemer;58675;;51.3865;7.76423
+2459;-;Deutsche Bank;Am Schickshof 1-3;Bonn;53123;;50.714;7.0461
+2460;-;Deutsche Bank;Leipziger Str. 164;Kassel;34123;;51.3016;9.53348
+2461;-;Deutsche Bank;St. Petersburger Str. 18b;Rostock;18107;;54.1376;12.0571
