@@ -1936,3 +1936,5 @@
 
 2462;-;Commerzbank;Aufsessplatz 18;Nürnberg;90459;;49.441;11.0798
 2463;-;Deutsche Bank;Theophanostr. 19;Köln;50969;;50.9122;6.94102
+
+2464;-;Hypovereinsbank;Aufseßplatz 15;Nürnberg;90459;;49.4413;11.0804
