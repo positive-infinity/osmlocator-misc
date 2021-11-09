@@ -1938,3 +1938,9 @@
 2463;-;Deutsche Bank;Theophanostr. 19;Köln;50969;;50.9122;6.94102
 
 2464;-;Hypovereinsbank;Aufseßplatz 15;Nürnberg;90459;;49.4413;11.0804
+
+2465;-;Postbank;Hardenbergstr. 2;Mülheim;45472;;51.4337;6.92469
+2466;-;Postbank;Bahnhofstr. 27;Hannoversch-Münden;34346;;51.4146;9.65691
+2467;-;Commerzbank;Markt 8;Hann. Münden;34346;;51.4178;9.65117
+2468;-;Postbank;Am Ellerbusch 18-21;Düren;52355;;50.7822;6.44879
+2469;-;Postbank;Nikolaus-Otto-Str. 2;Düren;52351;im OBI, Mo-Sa 8-20 Uhr;50.780919;6.507725
