@@ -1944,3 +1944,19 @@
 2467;-;Commerzbank;Markt 8;Hann. Münden;34346;;51.4178;9.65117
 2468;-;Postbank;Am Ellerbusch 18-21;Düren;52355;;50.7822;6.44879
 2469;-;Postbank;Nikolaus-Otto-Str. 2;Düren;52351;im OBI, Mo-Sa 8-20 Uhr;50.780919;6.507725
+
+2470;-;Commerzbank;Kaiserstr. 2;Wuppertal;42329;;51.2311;7.0702
+2471;-;Deutsche Bank;Gräfrather Str. 1;Wuppertal;42329;;51.2307;7.06996
+2472;-;Commerzbank;Kettelerstraße 1;Viernheim;68519;;49.538132;8.579143
+2473;-;Deutsche Bank;Schulstr. 8;Viernheim;68519;;49.5376;8.58052
+2474;-;Commerzbank;Dr. Friedrichs-Str. 5a;Oelsnitz;08606;;50.4161;12.1733
+2475;-;Commerzbank;Ida-Ehre-Platz 14;Hamburg;20095;;53.5508;9.99945
+2476;-;Deutsche Bank;Spitalerstr. 16;Hamburg;20095;;53.5516;10.0014
+2477;-;Deutsche Bank;Schillerstr. 7;Gladbeck;45964;;51.5745;6.99248
+2478;-;Commerzbank;Schillerstr. 3;Gladbeck;45964;;51.5737;6.99273
+2479;-;Commerzbank;Industriestr. 8;Gelsenkirchen;45899;;51.5383;7.02262
+2480;-;Commerzbank;Kaiser-Wilhelm-Str. 81;Berlin;12247;;52.4363;13.346
+2481;-;Commerzbank;Weidenauer Str. 179;Siegen;57076;;50.8966;8.02824
+2482;-;Deutsche Bank;Poststr. 11;Siegen;57076;;50.8953;8.0262
+2483;-;Commerzbank;Hauptstr. 81;Siegen;57074;;50.8714;8.05719
+2484;-;Commerzbank;Bigger Platz 2b;Olsberg;59939;;51.3562;8.48241
