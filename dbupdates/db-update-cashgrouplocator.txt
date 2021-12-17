@@ -1960,3 +1960,16 @@
 2482;-;Deutsche Bank;Poststr. 11;Siegen;57076;;50.8953;8.0262
 2483;-;Commerzbank;Hauptstr. 81;Siegen;57074;;50.8714;8.05719
 2484;-;Commerzbank;Bigger Platz 2b;Olsberg;59939;;51.3562;8.48241
+
+2485;-;Commerzbank;Augustusburger Str. 36;Flöha;09557;;50.857;13.0704
+2486;-;Commerzbank;Lange Str. 21;Bückeburg;31675;;52.2603;9.04785
+2487;-;Postbank;Lange Str. 70-72;Bückeburg;31675;;52.261;9.05044
+2488;-;Postbank;Bahnhofstr. 29;Rastede;26180;;53.2447;8.19175
+2489;-;Commerzbank;Halberstädter Str. 120;Magdeburg;39112;;52.1105;11.601
+2490;-;Deutsche Bank;Karl-Lehr-Str. 28-30;Wiesbaden;65201;;50.0458;8.19851
+2491;-;Commerzbank;Osnabrücker Str. 3;Lübbecke;32312;;52.3033;8.61375
+2492;-;Commerzbank;Markt 38;Heide;25746;;54.1945;9.09126
+2493;-;Postbank;Herzogstr. 2;Herne;44651;;51.514249;7.180016
+2494;-;Commerzbank;Hauptstr. 18;Herne;44651;;51.5155;7.17623
+2495;-;Deutsche Bank;Konrad-Adenauer-Platz 6;Montabaur;56410;;50.4361;7.83033
+2496;-;Commerzbank;Am Markt 7;Stadtallendorf;35260;Mo-So 6-23 Uhr;50.8274;9.0154
