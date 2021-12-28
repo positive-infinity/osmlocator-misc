@@ -1973,3 +1973,10 @@
 2494;-;Commerzbank;Hauptstr. 18;Herne;44651;;51.5155;7.17623
 2495;-;Deutsche Bank;Konrad-Adenauer-Platz 6;Montabaur;56410;;50.4361;7.83033
 2496;-;Commerzbank;Am Markt 7;Stadtallendorf;35260;Mo-So 6-23 Uhr;50.8274;9.0154
+
+2497;-;Commerzbank;Obertorstr. 44-46;Schlüchtern;36381;;50.3504;9.52435
+2498;-;Commerzbank;Kronenstr. 22;Ettlingen;76275;;48.9426;8.40909
+2499;-;Deutsche Bank;Pforzheimer Str. 15;Ettlingen;76275;;48.9431;8.40932
+2500;-;Commerzbank;Neckarsteige 2;Nürtingen;72622;;48.6267;9.33795
+2501;-;Deutsche Bank;Fackenburger Allee 22;Lübeck;23554;;53.870949;10.669055
+2502;-;Postbank;Hafenstr. 56;Kassel;34125;;51.3165;9.51822
