@@ -1980,3 +1980,9 @@
 2500;-;Commerzbank;Neckarsteige 2;Nürtingen;72622;;48.6267;9.33795
 2501;-;Deutsche Bank;Fackenburger Allee 22;Lübeck;23554;;53.870949;10.669055
 2502;-;Postbank;Hafenstr. 56;Kassel;34125;;51.3165;9.51822
+
+2503;-;Commerzbank;Rochusstr. 178;Bonn;53123;;50.7157;7.04984
+2504;-;Deutsche Bank;Am Markt 6;Castrop-Rauxel;44575;;51.548;7.31124
+2505;-;Commerzbank;Am Markt 14;Castrop-Rauxel;44575;;51.5475;7.31198
+2506;-;Commerzbank;Dianaplatz 5;Nürnberg;90443;;49.4287;11.0657
+2507;-;Postbank;Poststr. 2;Westerstede;26655;;53.256;7.92726
