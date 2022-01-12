@@ -1986,3 +1986,6 @@
 2505;-;Commerzbank;Am Markt 14;Castrop-Rauxel;44575;;51.5475;7.31198
 2506;-;Commerzbank;Dianaplatz 5;Nürnberg;90443;;49.4287;11.0657
 2507;-;Postbank;Poststr. 2;Westerstede;26655;;53.256;7.92726
+
+2508;-;Deutsche Bank;Weststr. 96;Chemnitz;09112;;50.8309;12.893
+2509;-;Commerzbank;Stollberger Str. 82;Chemnitz;09119;;50.8143;12.8981
