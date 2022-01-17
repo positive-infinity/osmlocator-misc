@@ -1993,5 +1993,5 @@
 2510;-;Commerzbank;Lange Str. 39;Cloppenburg;49661;;52.8448;8.03983
 2511;-;Shell Tankstelle;Osterstr. 57;Cloppenburg;49661;;52.8527700;8.0445300
 2512;-;Postbank;Berliner Str. 4;Esslingen;73701;;48.7397;9.30149
-2513;-;Postbank;Berliner Str. 4;Esslingen;73701;;48.74047564171032;9.301522185803274
+2513;+;Postbank;Berliner Str. 4;Esslingen;73701;;48.74047564171032;9.301522185803274
 2514;+;Shell Tankstelle;Felix-Wankel-Straße 3;Ostfildern;73760;;48.71344173997954;9.308458864735233
