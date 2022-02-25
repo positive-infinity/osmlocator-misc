@@ -1995,3 +1995,20 @@
 2512;-;Postbank;Berliner Str. 4;Esslingen;73701;;48.7397;9.30149
 2513;+;Postbank;Berliner Str. 4;Esslingen;73701;;48.74047564171032;9.301522185803274
 2514;+;Shell Tankstelle;Felix-Wankel-Straße 3;Ostfildern;73760;;48.71344173997954;9.308458864735233
+
+2515;-;Commerzbank;Hauptstr. 2;Kehl am Rhein;77694;;48.5756;7.80743
+2516;-;Postbank;Turbinenstraße 3-5;Mannheim;68309;in der Abgabestelle für Großkunden;49.511110;8.497428
+2517;-;Commerzbank;Hauptstr. 9;Roth;91154;;49.2457;11.0903
+2518;-;Commerzbank;Kupferdreher Str. 161;Essen;45257;;51.3911;7.08291
+2519;-;Commerzbank;Hauptstr. 67;Warburg;34414;;51.4889;9.1465
+2520;-;Deutsche Bank;Prinzenallee 1;Berlin;13357;;52.5523;13.3817
+2521;-;Commerzbank;Kaiserstr. 25;Saarbrücken;66111;;49.2376;6.99436
+2522;-;Postbank;Dudweiler Str. 17;Saarbrücken;66111;;49.2358;6.99599
+2523;-;Postbank;Landhausallee 18;Weimar-Süssenborn;99441;;50.9815;11.3862
+2524;-;Commerzbank;Vor dem Steintor 159-161;Bremen;28203;;53.0711;8.83179
+2525;-;Commerzbank;Marktstr. 2;Stadthagen;31655;;52.3104;9.22514
+2526;-;Commerzbank;Aplerbecker Marktplatz 6;Dortmund;44287;;51.4918;7.55566
+2527;-;Postbank;Krayer Str. 213;Essen;45307;;51.4657;7.08021
+2528;-;Shell Tankstelle;Krayer Str. 175;Essen;45307;;51.4634200;7.0789800
+2529;-;Commerzbank;Am Schilde 14;Osterode;37520;;51.7271;10.2533
+2530;-;Commerzbank;Brauhausstr. 2;Herzberg;37412;;51.656;10.341
