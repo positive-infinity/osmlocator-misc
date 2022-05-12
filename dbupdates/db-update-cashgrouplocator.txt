@@ -2012,3 +2012,25 @@
 2528;-;Shell Tankstelle;Krayer Str. 175;Essen;45307;;51.4634200;7.0789800
 2529;-;Commerzbank;Am Schilde 14;Osterode;37520;;51.7271;10.2533
 2530;-;Commerzbank;Brauhausstr. 2;Herzberg;37412;;51.656;10.341
+
+2531;-;Commerzbank;Heggerstr. 47;Hattingen;45525;;51.4008;7.18666
+2532;-;Deutsche Bank;Heggerstr. 54;Hattingen;45525;;51.4009;7.18701
+2533;-;Commerzbank;Fürther Str. 3;Zirndorf;90513;;49.442;10.9575
+2534;-;Commerzbank;Sülzburgstr. 5-7;Köln;50937;;50.9161;6.92703
+2535;-;Postbank;Bahnhofstr. 5;Horneburg;21640;;53.5084;9.57777
+2536;-;Commerzbank;Esslinger Str. 64;Plochingen;73207;;48.7137;9.41488
+2537;-;Shell Tankstelle;Sinzheimer Str. 84;Baden-Baden;76532;;48.7795100;8.1852000
+2538;-;Postbank;Ooser Bahnhofstr. 6;Baden-Baden;76532;;48.7879;8.19129
+2539;-;Postbank;Zum Alten Speicher 1-3;Bremen;28759;;53.168;8.62721
+2540;-;Postbank;Gerhard-Rohlfs-Str. 17-18;Bremen;28757;;53.1726;8.61909
+2541;-;Deutsche Bank;Bahnhofstr. 27;Lahnstein;56112;;50.3125;7.60432
+2542;-;Postbank;Römerstr. 25;Bad Ems;56130;;50.3316;7.72291
+2543;-;Deutsche Bank;Westfalenstr. 12;Düsseldorf;40472;;51.2624;6.81179
+2544;-;Deutsche Bank;Goldsternstr. 39;Leipzig;04329;;51.357;12.4582
+2545;-;Hypovereinsbank;Blochstr. 1;Leipzig;04329;;51.3663;12.469
+2546;-;Commerzbank;Müllerstr. 180;Berlin;13353;;52.5399;13.3695
+2547;-;Postbank;Obere Bahnhofstr. 13;Zorneding;85604;;48.0877;11.8305
+2548;-;Shell Tankstelle;Fergersbergstr. 10;Ritterhude;27721;;53.1834000;8.7566800
+2549;-;Commerzbank;Marktplatz 10;Osterholz-Scharmbeck;27711;;53.2281;8.7876
+2550;-;Commerzbank;Jungfernstieg 5;Rendsburg;24768;;54.3038;9.66646
+2551;-;Postbank;Sattlerstr. 1;München;80331;;48.1368;11.5725
