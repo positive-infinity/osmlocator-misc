@@ -2034,3 +2034,17 @@
 2549;-;Commerzbank;Marktplatz 10;Osterholz-Scharmbeck;27711;;53.2281;8.7876
 2550;-;Commerzbank;Jungfernstieg 5;Rendsburg;24768;;54.3038;9.66646
 2551;-;Postbank;Sattlerstr. 1;München;80331;;48.1368;11.5725
+
+2552;-;Postbank;Bahnhofplatz 16;Koblenz;56068;;50.3495;7.58959
+2553;-;Commerzbank;Markt 10;Neustadt;01844;;51.0262;14.2156
+2554;-;Commerzbank;Bahnhofstr. 15;Rastatt;76437;;48.859;8.20979
+2555;-;Commerzbank;Bahnhofstr. 1;Berlin;12555;;52.4529;13.5749
+2556;-;Commerzbank;Friedrichstr. 67;Erkner;15537;;52.4235;13.7526
+2557;-;Postbank;Industriestr. 16;Sinzheim;76547;;48.774;8.17408
+2558;-;Commerzbank;Vor dem Delltor 4;Rees;46459;;51.7605;6.39628
+2559;-;Commerzbank;Allersberger Str. 45;Nürnberg;90461;;49.443;11.0886
+2560;-;Commerzbank;Wiesenburger Str. 7;Belzig;14806;;52.1403;12.5863
+2561;-;Postbank;Hörder Semmerteichstr. 175;Dortmund;44263;;51.4905;7.49962
+2562;-;Commerzbank;Am Markt 2;Saarburg;54439;;49.6083;6.54967
+2563;-;Commerzbank;Johannisallee 20;Leipzig;04317;;51.332609;12.395166
+2564;-;Commerzbank;Bahnhofstr. 1;Hoya;27318;;52.8058;9.14371
