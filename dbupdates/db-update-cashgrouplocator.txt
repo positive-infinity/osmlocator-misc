@@ -2048,3 +2048,5 @@
 2562;-;Commerzbank;Am Markt 2;Saarburg;54439;;49.6083;6.54967
 2563;-;Commerzbank;Johannisallee 20;Leipzig;04317;;51.332609;12.395166
 2564;-;Commerzbank;Bahnhofstr. 1;Hoya;27318;;52.8058;9.14371
+
+2565;-;Commerzbank;Obere Hauptstr. 16;Hockenheim;68766;;49.3174;8.54823
