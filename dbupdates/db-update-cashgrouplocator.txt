@@ -2050,3 +2050,9 @@
 2564;-;Commerzbank;Bahnhofstr. 1;Hoya;27318;;52.8058;9.14371
 
 2565;-;Commerzbank;Obere Hauptstr. 16;Hockenheim;68766;;49.3174;8.54823
+
+2566;-;Shell Tankstelle;Zurmaienstr. 155;Trier;54292;;49.7717300;6.6578100
+2567;-;Shell Tankstelle;Servaisstr. 1;Trier/Ehrang;54293;;49.8068900;6.6847900
+2568;-;Commerzbank;Hauptstr. 95-97;Sinsheim;74889;;49.2532;8.87712
+2569;-;Hypovereinsbank;Vacher Str. 5;Fürth;90766;;49.4811;10.9765
+2570;-;Commerzbank;Loewen-Markt 9;Stuttgart;70499;;48.8139;9.11274
