@@ -2056,3 +2056,10 @@
 2568;-;Commerzbank;Hauptstr. 95-97;Sinsheim;74889;;49.2532;8.87712
 2569;-;Hypovereinsbank;Vacher Str. 5;Fürth;90766;;49.4811;10.9765
 2570;-;Commerzbank;Loewen-Markt 9;Stuttgart;70499;;48.8139;9.11274
+
+2571;-;Postbank;Carl-Benz-Str. 4;Buchen;74722;;49.5096;9.31391
+2572;-;Commerzbank;Keßlergasse 12;Mosbach;74821;;49.3523;9.14447
+2573;-;Commerzbank;Hauptstr. 46-48;Mosbach;74821;;49.3522;9.14575
+2574;-;Commerzbank;Marktstr. 34;Neckarsulm;74172;;49.1927;9.22557
+2575;-;Commerzbank;Markt 4D;Glinde;21509;;53.5411;10.2132
+2576;-;Postbank;Grellstraße 75;Berlin;10409;im Kaisers;52.545199;13.429909
