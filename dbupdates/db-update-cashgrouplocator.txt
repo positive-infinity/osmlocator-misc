@@ -2063,3 +2063,14 @@
 2574;-;Commerzbank;Marktstr. 34;Neckarsulm;74172;;49.1927;9.22557
 2575;-;Commerzbank;Markt 4D;Glinde;21509;;53.5411;10.2132
 2576;-;Postbank;Grellstraße 75;Berlin;10409;im Kaisers;52.545199;13.429909
+
+2577;-;Deutsche Bank;Nikolaus-Knopp-Platz;Düsseldorf;40549;;51.2322;6.72232
+2578;-;Hypovereinsbank;Dorfstr. 32A;Meerbusch;40667;;51.2529;6.69419
+2579;-;Commerzbank;Dorfstr. 9;Meerbusch;40667;;51.2522;6.69211
+2580;-;Deutsche Bank;Kaarster Str. 8a;Meerbusch;40670;;51.268;6.62066
+2581;-;Commerzbank;Strümper Str. 8;Meerbusch;40670;;51.272;6.62274
+2582;-;Commerzbank;Am Markt 16;Coesfeld;48653;;51.9461;7.16802
+2583;-;Deutsche Bank;Kupferstr. 5;Coesfeld;48653;;51.944;7.16606
+2584;-;Postbank;Unterländerstr. 71;Stuttgart-Zuffenhausen;70435;;48.8323;9.1681
+2585;-;Deutsche Bank;Marktstr. 3;Quedlinburg;06484;;51.7902;11.1415
+2586;-;Deutsche Bank;Nymphenburger Str. 160;München;80634;;48.1526;11.5343
