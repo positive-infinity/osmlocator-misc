@@ -2074,3 +2074,5 @@
 2584;-;Postbank;Unterländerstr. 71;Stuttgart-Zuffenhausen;70435;;48.8323;9.1681
 2585;-;Deutsche Bank;Marktstr. 3;Quedlinburg;06484;;51.7902;11.1415
 2586;-;Deutsche Bank;Nymphenburger Str. 160;München;80634;;48.1526;11.5343
+
+2587;-;Postbank;Bergmannstr. 47-49;München;80339;;48.1335;11.5369
