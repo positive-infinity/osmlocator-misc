@@ -2078,3 +2078,32 @@
 2587;-;Postbank;Bergmannstr. 47-49;München;80339;;48.1335;11.5369
 
 2588;-;Commerzbank;Unterlaender Str. 34;Stuttgart;70435;;48.8322;9.17178
+
+2589;-;Commerzbank;Markt 1;Mittweida;09648;;50.9859;12.9801
+2590;-;Postbank;Skalitzer Str. 84-92;Berlin;10997;;52.5003;13.4374
+2591;-;Postbank;Am Treptower Park 14;Berlin-Treptow;12435;;52.4906;13.4587
+2592;-;Deutsche Bank;Tschirchdamm 17;Brandenburg;14772;;52.4333;12.5219
+2593;-;Shell Tankstelle;Rissener Str. 34;Wedel;22880;;53.5824800;9.7151700
+2594;-;Hypovereinsbank;Bahnhofstr. 10;Wedel;22880;;53.5804;9.70318
+2595;-;Commerzbank;Bahnhofstr. 40;Wedel;22880;;53.5771;9.70528
+2596;-;Commerzbank;Bahnhofstr. 30;Wedel;22880;;53.5782;9.70475
+2597;-;Deutsche Bank;Bahnhofstr. 43;Wedel;22880;;53.577;9.70561
+2598;-;Deutsche Bank;Marienfelder Allee 149;Berlin;12279;;52.413076;13.363168
+2599;-;Postbank;Poststr. 1;Karlsruhe;76137;;48.9949;8.40329
+2600;-;Postbank;Berliner Freiheit 8;Bremen-Neue Vahr;28327;;53.0816;8.89311
+2601;-;Postbank;Kleiststr. 23;Berlin;10777;;52.5014;13.3439
+2602;-;Commerzbank;Alice-Salomon-Platz 1;Berlin;12627;;52.5371;13.6038
+2603;-;Commerzbank;Rickertstr. 5-7;St Ingbert;66386;;49.2785;7.11478
+2604;-;Postbank;Friesenstraße 27;Juist;26571;bei Elektro Abel;53.678183;6.995254
+2605;-;Deutsche Bank;Lessingstr. 33c;Schwerin;19059;;53.6345;11.3876
+2606;-;Commerzbank;Altmarkt 2;Bischofswerda;01877;;51.1281;14.1797
+2607;-;Deutsche Bank;Marktplatz 5;Wangen;88239;;47.6862;9.83389
+2608;-;Commerzbank;Berliner Str. 24b;Guben;03172;;51.9555;14.7094
+2609;-;Deutsche Bank;Berliner Str. 28;Guben;03172;;51.9543;14.7121
+2610;-;Commerzbank;Am Klagesmarkt 36b;Hannover;30159;;52.379205;9.729064
+2611;-;Commerzbank;Schwarzer Bär 6;Hannover;30449;;52.3681;9.71915
+2612;-;Deutsche Bank;Altenessener Str. 388;Essen;45329;;51.497;7.00804
+2613;-;Commerzbank;Altenessener Str. 405;Essen;45326;;51.496;7.00809
+2614;-;Postbank;Seestraße 1;Heringsdorf;17419;Postfiliale, u.U. nicht durchgehend geöffnet;53.939766;14.186552
+2615;-;Postbank;Siemersplatz 1a;Hamburg;22529;;53.599;9.9642
+2616;-;Commerzbank;Vogt-Wells-Str. 12;Hamburg;22529;;53.5998;9.96186
