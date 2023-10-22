@@ -1,21 +1,21 @@
 <iconconfig>
-    <icon country=".*" name="aral" text="A" colorPrimary="#0079ba" />
-    <icon country=".*" name="shell" text="S" colorPrimary="#ffd500" colorText="#ed1c24" />
-    <icon country=".*" name="jet" text="J" colorPrimary="#fbbb01" colorText="#01378d" />
-    <icon country=".*" name="agip" text="A" colorPrimary="#ffed01" colorText="#1b191d" />
-    <icon country=".*" name="omv" text="O" colorPrimary="#014987" colorText="#12141e" />
-    <icon country=".*" name="total" text="T" colorPrimary="#7298c9" colorSecondary="#f6ac45" colorText="#e5353b" />
-    <icon country=".*" name="repsol" text="R" colorPrimary="#e20030" colorSecondary="#ee8027" />
-    <icon country=".*" name="westfalen" text="W" colorPrimary="#ffe700" colorSecondary="#e30119" colorSecondaryFactor="0.9" />
-    <icon country=".*" name="esso" text="E" colorPrimary="#0169af" colorSecondary="#fffffe" colorSecondaryFactor="0.8" colorText="#d4021c" />
-    <icon country=".*" name="bft" text="B" colorPrimary="#fc816c" colorText="#4d4146" />
-    <icon country=".*" name="avia" text="A" colorPrimary="#ffffff" colorText="#e72228" />
-    <icon country=".*" name="star" text="S" colorPrimary="#ffffff" colorText="#e20026" />
-    <icon country=".*" name="elan" text="E" colorPrimary="#ef8103" colorText="#00438c" />
-    <icon country=".*" name="oil" text="O" colorPrimary="#662484" colorText="#009f59" />
-    <icon country=".*" name="cepsa" text="C" colorPrimary="#ff0011" />
-    <icon country=".*" name="campsa" text="C" colorPrimary="#0136fe" />
-    <icon country=".*" name="galp" text="G" colorPrimary="#e8461f" />
-    <icon country=".*" name="hem" text="H" colorPrimary="#ff7423" colorSecondary="#67d126" />
-    <icon country=".*" name="bp" text="B" colorPrimary="#168a44" />
+    <icon country=".*" name="aral" text="A" wideText="Aral" colorPrimary="#0079ba" />
+    <icon country=".*" name="shell" text="S" wideText="Shell" colorPrimary="#ffd500" colorText="#ed1c24" />
+    <icon country=".*" name="jet" text="J" wideText="Jet" colorPrimary="#fbbb01" colorText="#01378d" />
+    <icon country=".*" name="agip" text="A" wideText="Agip" colorPrimary="#ffed01" colorText="#1b191d" />
+    <icon country=".*" name="omv" text="O" wideText="OMV" colorPrimary="#014987" colorText="#12141e" />
+    <icon country=".*" name="total" text="T" wideText="Total" colorPrimary="#7298c9" colorSecondary="#f6ac45" colorText="#e5353b" />
+    <icon country=".*" name="repsol" text="R" wideText="Repsol" colorPrimary="#e20030" colorSecondary="#ee8027" />
+    <icon country=".*" name="westfalen" text="W" wideText="Westfalen" colorPrimary="#ffe700" colorSecondary="#e30119" colorSecondaryFactor="0.9" />
+    <icon country=".*" name="esso" text="E" wideText="Esso" colorPrimary="#0169af" colorSecondary="#fffffe" colorSecondaryFactor="0.8" colorText="#d4021c" />
+    <icon country=".*" name="bft" text="B" wideText="BFT" colorPrimary="#fc816c" colorText="#4d4146" />
+    <icon country=".*" name="avia" text="A" wideText="Avia" colorPrimary="#ffffff" colorText="#e72228" />
+    <icon country=".*" name="star" text="S" wideText="Star" colorPrimary="#ffffff" colorText="#e20026" />
+    <icon country=".*" name="elan" text="E" wideText="Elan" colorPrimary="#ef8103" colorText="#00438c" />
+    <icon country=".*" name="oil" text="O" wideText="Oil" colorPrimary="#662484" colorText="#009f59" />
+    <icon country=".*" name="cepsa" text="C" wideText="Cepsa" colorPrimary="#ff0011" />
+    <icon country=".*" name="campsa" text="C" wideText="Campsa" colorPrimary="#0136fe" />
+    <icon country=".*" name="galp" text="G" wideText="Galp" colorPrimary="#e8461f" />
+    <icon country=".*" name="hem" text="H" wideText="HEM" colorPrimary="#ff7423" colorSecondary="#67d126" />
+    <icon country=".*" name="bp" text="B" wideText="BP" colorPrimary="#168a44" />
 </iconconfig>

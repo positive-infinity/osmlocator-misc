@@ -1,12 +1,12 @@
 <iconconfig>    
-    <icon country="de" name="commerz.*bank" text="C" colorPrimary="#fbd005" />
-    <icon country="de" name="deutsche.*bank" text="D" colorPrimary="#000088" />
-    <icon country="de" name="hypo.*bank" text="H" colorPrimary="#e33125" />
-    <icon country="de" name="post" text="P" colorPrimary="#fccf04" colorSecondary="#010066" colorSecondaryFactor="0.25" colorText="#ff000b" />
-    <icon country="de" name="sparkasse" text="S" colorPrimary="#e2001a" />
-    <icon country="de" name="(vr)|(volks)|(raif+eisen)|(raiba)|(sparda)|(psd)|(aachener.*bank)" text="V" colorPrimary="#ff6600" colorSecondary="#0066b3" colorSecondaryFactor="0.75" />
-    <icon country="de" name="(^ing)|(^diba)|(ing.*diba)" text="I" colorPrimary="#fd6a03" colorSecondary="#ffffff" colorSecondaryFactor="0.8" colorText="#00015d" />
-    <icon country="de" name="euro.*net" text="E" colorPrimary="#0b5a9f" />
-    <icon country="de" name="santander" text="S" colorPrimary="#fe0000" />
-    <icon country="de" name="berliner.*bank" text="B" colorPrimary="#f9b200" colorText="#19171c" />
+    <icon country="de" name="commerz.*bank" text="C" wideText="Commerzbank" colorPrimary="#fbd005" />
+    <icon country="de" name="deutsche.*bank" text="D" wideText="Deutsche Bank" colorPrimary="#000088" />
+    <icon country="de" name="hypo.*bank" text="H" wideText="Hypovereinsbank" colorPrimary="#e33125" />
+    <icon country="de" name="post" text="P" wideText="Postbank" colorPrimary="#fccf04" colorSecondary="#010066" colorSecondaryFactor="0.25" colorText="#ff000b" />
+    <icon country="de" name="sparkasse" text="S" wideText="Sparkasse" colorPrimary="#e2001a" />
+    <icon country="de" name="(vr)|(volks)|(raif+eisen)|(raiba)|(sparda)|(psd)|(aachener.*bank)" text="V" wideText="Volksbank" colorPrimary="#ff6600" colorSecondary="#0066b3" colorSecondaryFactor="0.75" />
+    <icon country="de" name="(^ing)|(^diba)|(ing.*diba)" text="I" wideText="ING Diba" colorPrimary="#fd6a03" colorSecondary="#ffffff" colorSecondaryFactor="0.8" colorText="#00015d" />
+    <icon country="de" name="euro.*net" text="E" wideText="Euronet" colorPrimary="#0b5a9f" />
+    <icon country="de" name="santander" text="S" wideText="Santander" colorPrimary="#fe0000" />
+    <icon country="de" name="berliner.*bank" text="B" wideText="Berliner Bank" colorPrimary="#f9b200" colorText="#19171c" />
 </iconconfig>

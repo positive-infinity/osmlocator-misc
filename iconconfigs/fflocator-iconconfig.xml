@@ -1,11 +1,11 @@
 <iconconfig>
-    <icon country=".*" name="mc.*donald" text="M" colorPrimary="#d52b1e" colorText="#fdc82f" />
-    <icon country=".*" name="burger.*king" text="B" colorPrimary="#0d4d84" colorSecondary="#f6970f" colorSecondaryFactor="0.9" colorText="#b20c35" />
-    <icon country=".*" name="nordsee" text="N" colorPrimary="#003b78" colorText="#e70018" />
-    <icon country=".*" name="subway" text="S" colorPrimary="#008e43" colorSecondary="#ffc32e" />
-    <icon country=".*" name="kfc" text="K" colorPrimary="#a81933" />
-    <icon country=".*" name="pizza.*hut" text="P" colorPrimary="#dd0d0f" colorText="#000000" />
-    <icon country=".*" name="wendy.*s" text="W" colorPrimary="#ffffff" colorText="#d22030" />
-    <icon country=".*" name="taco.*bell" text="T" colorPrimary="#5c2d73" />
-    <icon country=".*" name="starbucks" text="S" colorPrimary="#067655" />
+    <icon country=".*" name="mc.*donald" text="M" wideText="Mc Donalds" colorPrimary="#d52b1e" colorText="#fdc82f" />
+    <icon country=".*" name="burger.*king" text="B" wideText="Burger King" colorPrimary="#0d4d84" colorSecondary="#f6970f" colorSecondaryFactor="0.9" colorText="#b20c35" />
+    <icon country=".*" name="nordsee" text="N" wideText="Nordsee" colorPrimary="#003b78" colorText="#e70018" />
+    <icon country=".*" name="subway" text="S" wideText="Subway" colorPrimary="#008e43" colorSecondary="#ffc32e" />
+    <icon country=".*" name="kfc" text="K" wideText="KFC" colorPrimary="#a81933" />
+    <icon country=".*" name="pizza.*hut" text="P" wideText="Pizza Hut" colorPrimary="#dd0d0f" colorText="#000000" />
+    <icon country=".*" name="wendy.*s" text="W" wideText="Wendys" colorPrimary="#ffffff" colorText="#d22030" />
+    <icon country=".*" name="taco.*bell" text="T" wideText="Taco Bell" colorPrimary="#5c2d73" />
+    <icon country=".*" name="starbucks" text="S" wideText="Starbucks" colorPrimary="#067655" />
 </iconconfig>
