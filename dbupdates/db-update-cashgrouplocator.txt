@@ -2107,3 +2107,22 @@
 2614;-;Postbank;Seestraße 1;Heringsdorf;17419;Postfiliale, u.U. nicht durchgehend geöffnet;53.939766;14.186552
 2615;-;Postbank;Siemersplatz 1a;Hamburg;22529;;53.599;9.9642
 2616;-;Commerzbank;Vogt-Wells-Str. 12;Hamburg;22529;;53.5998;9.96186
+
+2617;-;Postbank;Kissingerstr. 1;Berlin;14199;;52.4794;13.286
+2618;-;Deutsche Bank;Breite Str. 36;Berlin;14199;;52.4743;13.2936
+2619;-;Deutsche Bank;Breite Str. 26;Berlin;14199;;52.4751;13.2908
+2620;-;Commerzbank;Hammer Str. 52-54;Münster;48153;;51.951;7.62498
+2621;-;Postbank;Paunsdorfer Allee 1;Leipzig;04328;;51.3512;12.4758
+2622;-;Postbank;Hauptstr. 49;Ostrhauderfehn;26842;;53.139;7.61012
+2623;-;Deutsche Bank;Lange Str. 99;Lage;32791;;51.9895;8.79551
+2624;-;Postbank;Friedrich-Petri-Str. 17;Lage;32770;;51.9921;8.78894
+2625;-;Postbank;Am Eichengarten 2;Dessau;06842;;51.819498;12.302945
+2626;-;Commerzbank;Panoramastr. 1;Berlin;10178;;52.5218;13.4098
+2627;-;Commerzbank;Mühlenstr. 1;Haltern am See;45721;;51.7433;7.18744
+2628;-;Postbank;Mühlfelder Str. 45;Herrsching;82211;;47.9933;11.1736
+2629;-;Hypovereinsbank;Mühlfelder Str. 11;Herrsching;82211;;47.9968;11.176
+2630;-;Commerzbank;Schulstr. 3;Roding;93426;;49.1955;12.5167
+2631;-;Postbank;Stadtring 3-5;Nordhorn;48527;;52.432;7.06226
+2632;-;Postbank;Stadtring 60;Nordhorn;48527;im toom Baumarkt;52.437991;7.065654
+2633;-;Postbank;Sandstr. 4;Germersheim;76726;;49.2185;8.37135
+
