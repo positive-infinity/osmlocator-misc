@@ -2126,3 +2126,5 @@
 2632;-;Postbank;Stadtring 60;Nordhorn;48527;im toom Baumarkt;52.437991;7.065654
 2633;-;Postbank;Sandstr. 4;Germersheim;76726;;49.2185;8.37135
 
+2634;-;Commerzbank;Flurweg 11;Porta Westfalica;32457;;52.2621;8.89979
+2635;+;Shell Tankstelle;Bundesstraße 83;Luhden;31711;;52.22963658945277;9.097537440288209
