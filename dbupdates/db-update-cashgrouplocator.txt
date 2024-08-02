@@ -2128,3 +2128,6 @@
 
 2634;-;Commerzbank;Flurweg 11;Porta Westfalica;32457;;52.2621;8.89979
 2635;+;Shell Tankstelle;Bundesstraße 83;Luhden;31711;;52.22963658945277;9.097537440288209
+
+2636;-;Commerzbank;Bahnhofstr. 2;Attendorn;57439;;51.126;7.90758
+2637;-;Commerzbank;Helmut-Kumpf-Str. 27;Lennestadt;57368;;51.1049;8.07501
